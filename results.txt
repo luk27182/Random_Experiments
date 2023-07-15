@@ -1,0 +1,4909 @@
+1. GUESS: soare
+if 🟩🟩🟩◻️◻️, GO TO: 2
+if 🟩🟩◻️🟩◻️, GO TO: 3
+if 🟩🟩◻️◻️🟩, GO TO: 4
+if 🟩🟩◻️◻️◻️, GO TO: 5
+if 🟩🟩◻️🟨🟨, GO TO: 13
+if 🟩🟩🟨🟨◻️, GO TO: 15
+if 🟩◻️🟩🟩🟩, GO TO: 17
+if 🟩◻️🟩🟩◻️, GO TO: 23
+if 🟩◻️🟩◻️🟩, GO TO: 35
+if 🟩◻️🟩◻️◻️, GO TO: 56
+if 🟩◻️🟩🟨◻️, GO TO: 100
+if 🟩◻️◻️🟩🟩, GO TO: 101
+if 🟩◻️◻️🟩◻️, GO TO: 103
+if 🟩◻️◻️🟩🟨, GO TO: 112
+if 🟩◻️◻️◻️🟩, GO TO: 114
+if 🟩◻️◻️◻️◻️, GO TO: 138
+if 🟩◻️◻️◻️🟨, GO TO: 203
+if 🟩◻️◻️🟨🟩, GO TO: 240
+if 🟩◻️◻️🟨◻️, GO TO: 244
+if 🟩◻️◻️🟨🟨, GO TO: 254
+if 🟩◻️🟨◻️🟩, GO TO: 268
+if 🟩◻️🟨◻️◻️, GO TO: 271
+if 🟩◻️🟨◻️🟨, GO TO: 291
+if 🟩◻️🟨🟨◻️, GO TO: 301
+if 🟩◻️🟨🟨🟨, GO TO: 310
+if 🟩🟨◻️🟩🟩, GO TO: 317
+if 🟩🟨◻️🟩◻️, GO TO: 324
+if 🟩🟨◻️◻️🟩, GO TO: 335
+if 🟩🟨◻️◻️◻️, GO TO: 348
+if 🟩🟨◻️🟨◻️, GO TO: 388
+if 🟩🟨🟨◻️◻️, GO TO: 389
+if 🟩🟨🟨🟨◻️, GO TO: 393
+if ◻️🟩🟩🟩◻️, GO TO: 394
+if ◻️🟩🟩◻️◻️, GO TO: 396
+if ◻️🟩🟩🟨◻️, GO TO: 401
+if ◻️🟩◻️🟩◻️, GO TO: 402
+if ◻️🟩◻️◻️🟩, GO TO: 409
+if ◻️🟩◻️◻️◻️, GO TO: 420
+if ◻️🟩◻️◻️🟨, GO TO: 513
+if ◻️🟩◻️🟨🟩, GO TO: 541
+if ◻️🟩◻️🟨◻️, GO TO: 551
+if ◻️🟩◻️🟨🟨, GO TO: 578
+if ◻️🟩🟨🟩◻️, GO TO: 603
+if ◻️🟩🟨◻️◻️, GO TO: 604
+if ◻️🟩🟨🟨◻️, GO TO: 626
+if ◻️◻️🟩🟩🟩, GO TO: 635
+if ◻️◻️🟩🟩◻️, GO TO: 640
+if ◻️◻️🟩🟩🟨, GO TO: 654
+if ◻️◻️🟩◻️🟩, GO TO: 664
+if ◻️◻️🟩◻️◻️, GO TO: 694
+if ◻️◻️🟩◻️🟨, GO TO: 735
+if ◻️◻️🟩🟨🟩, GO TO: 757
+if ◻️◻️🟩🟨◻️, GO TO: 777
+if ◻️◻️🟩🟨🟨, GO TO: 820
+if ◻️◻️◻️🟩🟩, GO TO: 825
+if ◻️◻️◻️🟩◻️, GO TO: 829
+if ◻️◻️◻️🟩🟨, GO TO: 843
+if ◻️◻️◻️◻️🟩, GO TO: 858
+if ◻️◻️◻️◻️◻️, GO TO: 940
+if ◻️◻️◻️◻️🟨, GO TO: 1132
+if ◻️◻️◻️🟨🟩, GO TO: 1255
+if ◻️◻️◻️🟨◻️, GO TO: 1295
+if ◻️◻️◻️🟨🟨, GO TO: 1354
+if ◻️◻️🟨🟩🟩, GO TO: 1478
+if ◻️◻️🟨🟩◻️, GO TO: 1480
+if ◻️◻️🟨🟩🟨, GO TO: 1492
+if ◻️◻️🟨◻️🟩, GO TO: 1498
+if ◻️◻️🟨◻️◻️, GO TO: 1541
+if ◻️◻️🟨◻️🟨, GO TO: 1685
+if ◻️◻️🟨🟨🟩, GO TO: 1758
+if ◻️◻️🟨🟨◻️, GO TO: 1766
+if ◻️◻️🟨🟨🟨, GO TO: 1809
+if ◻️🟨🟩🟩◻️, GO TO: 1875
+if ◻️🟨🟩◻️🟩, GO TO: 1876
+if ◻️🟨🟩◻️◻️, GO TO: 1877
+if ◻️🟨🟩🟨◻️, GO TO: 1878
+if ◻️🟨◻️🟩🟩, GO TO: 1879
+if ◻️🟨◻️🟩◻️, GO TO: 1881
+if ◻️🟨◻️🟩🟨, GO TO: 1890
+if ◻️🟨◻️◻️🟩, GO TO: 1893
+if ◻️🟨◻️◻️◻️, GO TO: 1914
+if ◻️🟨◻️◻️🟨, GO TO: 1971
+if ◻️🟨◻️🟨🟩, GO TO: 1997
+if ◻️🟨◻️🟨◻️, GO TO: 2013
+if ◻️🟨◻️🟨🟨, GO TO: 2075
+if ◻️🟨🟨🟩🟩, GO TO: 2089
+if ◻️🟨🟨🟩◻️, GO TO: 2090
+if ◻️🟨🟨🟩🟨, GO TO: 2097
+if ◻️🟨🟨◻️🟩, GO TO: 2098
+if ◻️🟨🟨◻️◻️, GO TO: 2107
+if ◻️🟨🟨◻️🟨, GO TO: 2153
+if ◻️🟨🟨🟨◻️, GO TO: 2157
+if 🟨🟩🟩◻️◻️, GO TO: 2185
+if 🟨🟩🟩🟨◻️, GO TO: 2188
+if 🟨🟩◻️◻️🟩, GO TO: 2189
+if 🟨🟩◻️◻️◻️, GO TO: 2201
+if 🟨🟩◻️◻️🟨, GO TO: 2217
+if 🟨🟩◻️🟨🟩, GO TO: 2219
+if 🟨🟩◻️🟨◻️, GO TO: 2222
+if 🟨🟩◻️🟨🟨, GO TO: 2226
+if 🟨◻️🟩◻️🟩, GO TO: 2228
+if 🟨◻️🟩◻️◻️, GO TO: 2236
+if 🟨◻️🟩◻️🟨, GO TO: 2251
+if 🟨◻️🟩🟨🟩, GO TO: 2257
+if 🟨◻️🟩🟨◻️, GO TO: 2258
+if 🟨◻️◻️🟩◻️, GO TO: 2266
+if 🟨◻️◻️◻️🟩, GO TO: 2267
+if 🟨◻️◻️◻️◻️, GO TO: 2276
+if 🟨◻️◻️◻️🟨, GO TO: 2311
+if 🟨◻️◻️🟨🟩, GO TO: 2331
+if 🟨◻️◻️🟨◻️, GO TO: 2339
+if 🟨◻️◻️🟨🟨, GO TO: 2356
+if 🟨◻️🟨◻️🟩, GO TO: 2372
+if 🟨◻️🟨◻️◻️, GO TO: 2388
+if 🟨◻️🟨◻️🟨, GO TO: 2412
+if 🟨◻️🟨🟨🟩, GO TO: 2418
+if 🟨◻️🟨🟨◻️, GO TO: 2421
+if 🟨🟨🟩◻️◻️, GO TO: 2425
+if 🟨🟨◻️◻️🟩, GO TO: 2426
+if 🟨🟨◻️◻️◻️, GO TO: 2432
+if 🟨🟨◻️◻️🟨, GO TO: 2440
+if 🟨🟨◻️🟨🟩, GO TO: 2443
+if 🟨🟨◻️🟨◻️, GO TO: 2444
+if 🟨🟨◻️🟨🟨, GO TO: 2450
+if 🟨🟨🟨◻️◻️, GO TO: 2451
+if 🟨🟨🟨🟨🟩, GO TO: 2454
+if 🟨🟨🟨🟨◻️, GO TO: 2455
+2. GUESS: soapy
+3. GUESS: sorry
+4. GUESS: solve
+5. GUESS: atony
+if ◻️◻️🟨🟩◻️, GO TO: 6
+if ◻️◻️🟨◻️🟩, GO TO: 7
+if ◻️◻️🟨◻️◻️, GO TO: 8
+if ◻️◻️🟨🟨◻️, GO TO: 9
+if ◻️🟨🟩◻️🟩, GO TO: 10
+if ◻️🟨🟩◻️◻️, GO TO: 11
+if ◻️🟨🟨◻️◻️, GO TO: 12
+6. GUESS: sound
+7. GUESS: soggy
+8. GUESS: solid
+9. GUESS: sonic
+10. GUESS: sooty
+11. GUESS: sooth
+12. GUESS: south
+13. GUESS: sober
+if 🟩🟩◻️🟩🟩, GO TO: 14
+14. GUESS: sower
+15. GUESS: solar
+if 🟩🟩◻️🟩🟩, GO TO: 16
+16. GUESS: sonar
+17. GUESS: chant
+if ◻️🟩🟩◻️◻️, GO TO: 18
+if ◻️◻️🟩◻️◻️, GO TO: 19
+if ◻️◻️🟩◻️🟨, GO TO: 20
+if ◻️◻️🟩🟨◻️, GO TO: 21
+if 🟨◻️🟩◻️◻️, GO TO: 22
+18. GUESS: share
+19. GUESS: spare
+20. GUESS: stare
+21. GUESS: snare
+22. GUESS: scare
+23. GUESS: chapt
+if ◻️🟩🟩◻️◻️, GO TO: 24
+if ◻️🟩🟩🟨◻️, GO TO: 26
+if ◻️◻️🟩◻️🟩, GO TO: 27
+if ◻️◻️🟩◻️◻️, GO TO: 29
+if ◻️◻️🟩◻️🟨, GO TO: 31
+if ◻️◻️🟩🟨◻️, GO TO: 32
+if 🟨◻️🟩◻️◻️, GO TO: 33
+24. GUESS: shard
+if 🟩🟩🟩🟩◻️, GO TO: 25
+25. GUESS: shark
+26. GUESS: sharp
+27. GUESS: smart
+if 🟩◻️🟩🟩🟩, GO TO: 28
+28. GUESS: start
+29. GUESS: snarl
+if 🟩◻️🟩🟩◻️, GO TO: 30
+30. GUESS: swarm
+31. GUESS: stark
+32. GUESS: spark
+33. GUESS: scarf
+if 🟩🟩🟩🟩◻️, GO TO: 34
+34. GUESS: scary
+35. GUESS: thilk
+if ◻️🟩◻️🟩◻️, GO TO: 36
+if ◻️🟩◻️◻️◻️, GO TO: 37
+if ◻️🟩◻️◻️🟨, GO TO: 42
+if ◻️◻️◻️🟩◻️, GO TO: 43
+if ◻️◻️◻️◻️◻️, GO TO: 44
+if ◻️◻️◻️◻️🟨, GO TO: 47
+if ◻️◻️◻️🟨◻️, GO TO: 48
+if 🟨◻️◻️🟩◻️, GO TO: 49
+if 🟨◻️◻️◻️◻️, GO TO: 50
+if 🟨◻️◻️◻️🟨, GO TO: 53
+if 🟨◻️◻️🟨◻️, GO TO: 55
+36. GUESS: shale
+37. GUESS: amped
+if 🟨◻️◻️🟨◻️, GO TO: 38
+if 🟨◻️◻️🟨🟨, GO TO: 39
+if 🟨◻️🟨🟨◻️, GO TO: 40
+if 🟨🟨◻️🟨◻️, GO TO: 41
+38. GUESS: shave
+39. GUESS: shade
+40. GUESS: shape
+41. GUESS: shame
+42. GUESS: shake
+43. GUESS: scale
+44. GUESS: space
+if 🟩🟩🟩◻️🟩, GO TO: 45
+if 🟩◻️🟩◻️🟩, GO TO: 46
+45. GUESS: spade
+46. GUESS: suave
+47. GUESS: snake
+48. GUESS: slave
+49. GUESS: stale
+50. GUESS: stage
+if 🟩🟩🟩◻️🟩, GO TO: 51
+51. GUESS: state
+if 🟩🟩🟩◻️🟩, GO TO: 52
+52. GUESS: stave
+53. GUESS: skate
+if 🟩🟨🟩🟨🟩, GO TO: 54
+54. GUESS: stake
+55. GUESS: slate
+56. GUESS: thilk
+if ◻️🟩◻️🟩◻️, GO TO: 57
+if ◻️🟩◻️◻️🟩, GO TO: 58
+if ◻️🟩◻️◻️◻️, GO TO: 60
+if ◻️🟩◻️◻️🟨, GO TO: 61
+if ◻️🟩◻️🟨◻️, GO TO: 62
+if ◻️◻️◻️🟩◻️, GO TO: 63
+if ◻️◻️◻️◻️🟩, GO TO: 68
+if ◻️◻️◻️◻️◻️, GO TO: 71
+if ◻️◻️◻️◻️🟨, GO TO: 75
+if ◻️◻️◻️🟨🟩, GO TO: 76
+if ◻️◻️◻️🟨◻️, GO TO: 77
+if ◻️◻️🟨◻️◻️, GO TO: 78
+if ◻️◻️🟨🟨◻️, GO TO: 79
+if ◻️🟨◻️◻️◻️, GO TO: 81
+if ◻️🟨◻️🟨◻️, GO TO: 83
+if 🟨🟩◻️🟩◻️, GO TO: 84
+if 🟨🟩◻️◻️◻️, GO TO: 85
+if 🟨◻️◻️🟩🟩, GO TO: 86
+if 🟨◻️◻️🟩◻️, GO TO: 87
+if 🟨◻️◻️◻️🟩, GO TO: 88
+if 🟨◻️◻️◻️◻️, GO TO: 90
+if 🟨◻️◻️🟨◻️, GO TO: 95
+if 🟨◻️🟨◻️◻️, GO TO: 96
+if 🟨🟨◻️◻️◻️, GO TO: 98
+57. GUESS: shall
+58. GUESS: shack
+if 🟩🟩🟩◻️🟩, GO TO: 59
+59. GUESS: shank
+60. GUESS: shady
+61. GUESS: shaky
+62. GUESS: shawl
+63. GUESS: acidy
+if 🟨🟩◻️◻️🟩, GO TO: 64
+if 🟨🟩◻️◻️◻️, GO TO: 65
+if 🟨🟩◻️🟨◻️, GO TO: 66
+if 🟨◻️◻️◻️◻️, GO TO: 67
+64. GUESS: scaly
+65. GUESS: scalp
+66. GUESS: scald
+67. GUESS: small
+68. GUESS: smack
+if 🟩◻️🟩🟩🟩, GO TO: 69
+if 🟩◻️🟩◻️🟩, GO TO: 70
+69. GUESS: snack
+70. GUESS: spank
+71. GUESS: scamp
+if 🟩◻️🟩🟩🟩, GO TO: 72
+if 🟩◻️🟩◻️🟨, GO TO: 73
+if 🟩◻️🟩🟨🟨, GO TO: 74
+72. GUESS: swamp
+73. GUESS: spawn
+74. GUESS: spasm
+75. GUESS: snaky
+76. GUESS: slack
+77. GUESS: slang
+78. GUESS: swami
+79. GUESS: slain
+if 🟩🟨🟩🟩🟨, GO TO: 80
+80. GUESS: snail
+81. GUESS: smash
+if 🟩◻️🟩🟩🟩, GO TO: 82
+82. GUESS: swash
+83. GUESS: slash
+84. GUESS: shalt
+85. GUESS: shaft
+86. GUESS: stalk
+87. GUESS: stall
+88. GUESS: stack
+if 🟩🟩🟩◻️🟩, GO TO: 89
+89. GUESS: stank
+90. GUESS: adapt
+if ◻️◻️🟩◻️🟩, GO TO: 91
+if ◻️◻️🟩◻️🟨, GO TO: 92
+if ◻️◻️🟩🟨🟨, GO TO: 93
+if ◻️🟨🟩◻️🟨, GO TO: 94
+91. GUESS: scant
+92. GUESS: staff
+93. GUESS: stamp
+94. GUESS: stand
+95. GUESS: slant
+96. GUESS: staid
+if 🟩🟩🟩🟩◻️, GO TO: 97
+97. GUESS: stain
+98. GUESS: stash
+if 🟩🟨🟩◻️🟩, GO TO: 99
+99. GUESS: swath
+100. GUESS: stair
+101. GUESS: shire
+if 🟩◻️🟩🟩🟩, GO TO: 102
+102. GUESS: spire
+103. GUESS: filth
+if ◻️◻️◻️◻️◻️, GO TO: 104
+if ◻️◻️◻️🟨◻️, GO TO: 105
+if ◻️◻️🟨◻️◻️, GO TO: 106
+if ◻️🟨◻️◻️◻️, GO TO: 107
+if ◻️🟨◻️◻️🟨, GO TO: 108
+if ◻️🟨◻️🟨◻️, GO TO: 109
+if ◻️🟨◻️🟨🟨, GO TO: 110
+if ◻️🟨🟨◻️◻️, GO TO: 111
+104. GUESS: spurn
+105. GUESS: spurt
+106. GUESS: slurp
+107. GUESS: smirk
+108. GUESS: shirk
+109. GUESS: skirt
+110. GUESS: shirt
+111. GUESS: swirl
+112. GUESS: sperm
+if 🟩◻️🟩🟩◻️, GO TO: 113
+113. GUESS: stern
+114. GUESS: pling
+if ◻️🟩🟩◻️◻️, GO TO: 115
+if ◻️◻️🟩🟩◻️, GO TO: 118
+if ◻️◻️🟩◻️◻️, GO TO: 120
+if ◻️◻️🟩🟨◻️, GO TO: 123
+if ◻️◻️◻️🟩◻️, GO TO: 124
+if ◻️◻️◻️◻️🟨, GO TO: 125
+if ◻️◻️◻️🟨◻️, GO TO: 126
+if ◻️◻️🟨◻️◻️, GO TO: 127
+if ◻️◻️🟨◻️🟨, GO TO: 128
+if ◻️◻️🟨🟨◻️, GO TO: 129
+if ◻️◻️🟨🟨🟨, GO TO: 130
+if ◻️🟨🟩◻️◻️, GO TO: 131
+if ◻️🟨◻️◻️◻️, GO TO: 132
+if 🟨◻️🟩🟩◻️, GO TO: 133
+if 🟨◻️🟩◻️◻️, GO TO: 134
+if 🟨◻️🟩🟨◻️, GO TO: 137
+115. GUESS: slice
+if 🟩🟩🟩◻️🟩, GO TO: 116
+116. GUESS: slide
+if 🟩🟩🟩◻️🟩, GO TO: 117
+117. GUESS: slime
+118. GUESS: shine
+if 🟩◻️🟩🟩🟩, GO TO: 119
+119. GUESS: swine
+120. GUESS: seize
+if 🟩◻️🟩◻️🟩, GO TO: 121
+121. GUESS: smite
+if 🟩◻️🟩🟩🟩, GO TO: 122
+122. GUESS: suite
+123. GUESS: snide
+124. GUESS: scene
+125. GUESS: segue
+126. GUESS: sense
+127. GUESS: sieve
+128. GUESS: siege
+129. GUESS: since
+130. GUESS: singe
+131. GUESS: smile
+132. GUESS: style
+133. GUESS: spine
+134. GUESS: spice
+if 🟩🟩🟩◻️🟩, GO TO: 135
+135. GUESS: spike
+if 🟩🟩🟩◻️🟩, GO TO: 136
+136. GUESS: spite
+137. GUESS: snipe
+138. GUESS: thilk
+if ◻️🟩🟩◻️◻️, GO TO: 139
+if ◻️🟩◻️🟩◻️, GO TO: 140
+if ◻️🟩◻️◻️🟩, GO TO: 141
+if ◻️🟩◻️◻️◻️, GO TO: 142
+if ◻️◻️🟩🟩◻️, GO TO: 143
+if ◻️◻️🟩🟩🟨, GO TO: 145
+if ◻️◻️🟩◻️◻️, GO TO: 146
+if ◻️◻️🟩◻️🟨, GO TO: 151
+if ◻️◻️🟩🟨🟩, GO TO: 154
+if ◻️◻️🟩🟨◻️, GO TO: 156
+if ◻️◻️◻️🟩🟩, GO TO: 158
+if ◻️◻️◻️🟩◻️, GO TO: 159
+if ◻️◻️◻️🟩🟨, GO TO: 161
+if ◻️◻️◻️◻️🟩, GO TO: 162
+if ◻️◻️◻️◻️◻️, GO TO: 165
+if ◻️◻️◻️🟨🟩, GO TO: 168
+if ◻️◻️◻️🟨◻️, GO TO: 169
+if ◻️◻️◻️🟨🟨, GO TO: 171
+if ◻️◻️🟨🟩◻️, GO TO: 172
+if ◻️◻️🟨◻️◻️, GO TO: 173
+if ◻️◻️🟨🟨🟨, GO TO: 175
+if ◻️🟨🟩◻️◻️, GO TO: 176
+if ◻️🟨◻️🟨◻️, GO TO: 177
+if ◻️🟨🟨◻️◻️, GO TO: 178
+if 🟨🟩🟩◻️◻️, GO TO: 179
+if 🟨🟩◻️◻️◻️, GO TO: 180
+if 🟨◻️🟩🟩◻️, GO TO: 181
+if 🟨◻️🟩◻️🟩, GO TO: 184
+if 🟨◻️🟩◻️◻️, GO TO: 186
+if 🟨◻️◻️◻️🟩, GO TO: 190
+if 🟨◻️◻️◻️◻️, GO TO: 192
+if 🟨◻️🟨◻️◻️, GO TO: 198
+if 🟨◻️🟨🟨◻️, GO TO: 199
+if 🟨🟨🟩◻️◻️, GO TO: 200
+if 🟨🟨🟨◻️◻️, GO TO: 201
+139. GUESS: shiny
+140. GUESS: shyly
+141. GUESS: shuck
+142. GUESS: shush
+143. GUESS: spill
+if 🟩◻️🟩🟩🟩, GO TO: 144
+144. GUESS: swill
+145. GUESS: skill
+146. GUESS: suing
+if 🟩◻️🟩🟩🟩, GO TO: 147
+if 🟩◻️🟩🟩◻️, GO TO: 148
+if 🟩◻️🟩◻️◻️, GO TO: 149
+if 🟩◻️🟩🟨◻️, GO TO: 150
+147. GUESS: swing
+148. GUESS: spiny
+149. GUESS: spicy
+150. GUESS: sniff
+151. GUESS: skiff
+if 🟩🟩🟩◻️◻️, GO TO: 152
+if 🟩🟨🟩◻️◻️, GO TO: 153
+152. GUESS: skimp
+153. GUESS: spiky
+154. GUESS: slick
+if 🟩🟩🟩◻️🟩, GO TO: 155
+155. GUESS: slink
+156. GUESS: slimy
+if 🟩🟩🟩◻️◻️, GO TO: 157
+157. GUESS: sling
+158. GUESS: skulk
+159. GUESS: slyly
+if 🟩🟨◻️🟩🟩, GO TO: 160
+160. GUESS: sully
+161. GUESS: skull
+162. GUESS: skunk
+if 🟩◻️🟩🟩🟩, GO TO: 163
+if 🟩◻️🟩🟨🟩, GO TO: 164
+163. GUESS: spunk
+164. GUESS: snuck
+165. GUESS: snuff
+if 🟩🟨🟩◻️◻️, GO TO: 166
+if 🟩🟨🟨◻️◻️, GO TO: 167
+166. GUESS: swung
+167. GUESS: sunny
+168. GUESS: slunk
+169. GUESS: slump
+if 🟩🟩🟩◻️◻️, GO TO: 170
+170. GUESS: slung
+171. GUESS: sulky
+172. GUESS: silly
+173. GUESS: sissy
+if 🟩🟨◻️◻️◻️, GO TO: 174
+174. GUESS: squib
+175. GUESS: silky
+176. GUESS: swish
+177. GUESS: slush
+178. GUESS: sushi
+179. GUESS: shift
+180. GUESS: shunt
+181. GUESS: spilt
+if 🟩◻️🟩🟩🟩, GO TO: 182
+if 🟩◻️🟩🟩🟨, GO TO: 183
+182. GUESS: stilt
+183. GUESS: still
+184. GUESS: stick
+if 🟩🟩🟩◻️🟩, GO TO: 185
+185. GUESS: stink
+186. GUESS: sting
+if 🟩🟩🟩🟩◻️, GO TO: 187
+if 🟩🟩🟩◻️◻️, GO TO: 188
+if 🟩🟨🟩◻️◻️, GO TO: 189
+187. GUESS: stint
+188. GUESS: stiff
+189. GUESS: swift
+190. GUESS: stuck
+if 🟩🟩🟩◻️🟩, GO TO: 191
+191. GUESS: stunk
+192. GUESS: grypt
+if ◻️◻️◻️◻️🟩, GO TO: 193
+if ◻️◻️◻️◻️🟨, GO TO: 194
+if ◻️◻️◻️🟨🟨, GO TO: 195
+if ◻️◻️🟨◻️🟨, GO TO: 196
+if 🟨◻️◻️◻️🟨, GO TO: 197
+193. GUESS: stunt
+194. GUESS: stuff
+195. GUESS: stump
+196. GUESS: study
+197. GUESS: stung
+198. GUESS: sixty
+199. GUESS: split
+200. GUESS: smith
+201. GUESS: sight
+if 🟩🟩◻️🟨🟨, GO TO: 202
+202. GUESS: sixth
+203. GUESS: clipt
+if ◻️🟩◻️🟩🟩, GO TO: 204
+if ◻️🟩◻️◻️🟩, GO TO: 205
+if ◻️🟩◻️◻️◻️, GO TO: 206
+if ◻️🟩◻️🟨◻️, GO TO: 207
+if ◻️◻️🟩◻️◻️, GO TO: 208
+if ◻️◻️🟩🟨◻️, GO TO: 209
+if ◻️◻️◻️🟩🟩, GO TO: 210
+if ◻️◻️◻️◻️🟩, GO TO: 211
+if ◻️◻️◻️◻️◻️, GO TO: 213
+if ◻️◻️◻️◻️🟨, GO TO: 217
+if ◻️◻️◻️🟨🟩, GO TO: 218
+if ◻️◻️◻️🟨◻️, GO TO: 219
+if ◻️◻️◻️🟨🟨, GO TO: 223
+if ◻️◻️🟨◻️◻️, GO TO: 225
+if ◻️◻️🟨◻️🟨, GO TO: 227
+if ◻️🟨🟩🟨◻️, GO TO: 228
+if ◻️🟨◻️◻️🟩, GO TO: 229
+if ◻️🟨◻️◻️◻️, GO TO: 230
+if ◻️🟨◻️◻️🟨, GO TO: 235
+if ◻️🟨◻️🟨🟩, GO TO: 236
+if ◻️🟨◻️🟨◻️, GO TO: 237
+if 🟨◻️◻️◻️🟩, GO TO: 238
+if 🟨◻️◻️🟨◻️, GO TO: 239
+204. GUESS: slept
+205. GUESS: sleet
+206. GUESS: sleek
+207. GUESS: sleep
+208. GUESS: shied
+209. GUESS: spied
+210. GUESS: swept
+211. GUESS: sheet
+if 🟩◻️🟩🟩🟩, GO TO: 212
+212. GUESS: sweet
+213. GUESS: semen
+if 🟩🟩◻️🟩🟩, GO TO: 214
+if 🟩🟩◻️🟨◻️, GO TO: 215
+if 🟩🟨◻️🟩🟩, GO TO: 216
+214. GUESS: seven
+215. GUESS: seedy
+216. GUESS: sheen
+217. GUESS: steed
+218. GUESS: spent
+219. GUESS: sheep
+if 🟩◻️🟩🟩🟩, GO TO: 220
+if 🟩◻️🟩🟩🟨, GO TO: 221
+if 🟩◻️🟩◻️🟨, GO TO: 222
+220. GUESS: sweep
+221. GUESS: speed
+222. GUESS: spend
+223. GUESS: setup
+if 🟩🟨🟨◻️🟩, GO TO: 224
+224. GUESS: steep
+225. GUESS: sheik
+if 🟩◻️🟨🟨◻️, GO TO: 226
+226. GUESS: sinew
+227. GUESS: stein
+228. GUESS: spiel
+229. GUESS: smelt
+230. GUESS: fehme
+if ◻️🟨◻️◻️◻️, GO TO: 231
+if ◻️🟨◻️🟨◻️, GO TO: 232
+if ◻️🟨🟨◻️◻️, GO TO: 233
+if 🟨🟨🟨◻️◻️, GO TO: 234
+231. GUESS: swell
+232. GUESS: smell
+233. GUESS: shell
+234. GUESS: shelf
+235. GUESS: steel
+236. GUESS: spelt
+237. GUESS: spell
+238. GUESS: scent
+239. GUESS: speck
+240. GUESS: scree
+if 🟩◻️🟩🟩🟩, GO TO: 241
+if 🟩◻️🟩◻️🟩, GO TO: 242
+if 🟩◻️🟩🟨🟩, GO TO: 243
+241. GUESS: spree
+242. GUESS: surge
+243. GUESS: serve
+244. GUESS: butch
+if ◻️🟩◻️◻️◻️, GO TO: 245
+if ◻️◻️◻️◻️◻️, GO TO: 246
+if ◻️◻️🟨◻️◻️, GO TO: 247
+if ◻️🟨◻️◻️◻️, GO TO: 248
+if ◻️🟨◻️◻️🟨, GO TO: 249
+if ◻️🟨◻️🟨◻️, GO TO: 250
+if ◻️🟨🟨◻️◻️, GO TO: 251
+if 🟨🟨◻️◻️🟨, GO TO: 252
+if 🟨🟨◻️🟨◻️, GO TO: 253
+245. GUESS: surly
+246. GUESS: sprig
+247. GUESS: strip
+248. GUESS: syrup
+249. GUESS: shrug
+250. GUESS: scrum
+251. GUESS: strut
+252. GUESS: shrub
+253. GUESS: scrub
+254. GUESS: newie
+if ◻️🟩🟩◻️🟨, GO TO: 255
+if ◻️🟩◻️🟩◻️, GO TO: 256
+if ◻️🟩◻️◻️◻️, GO TO: 257
+if ◻️🟩◻️◻️🟨, GO TO: 258
+if ◻️🟨◻️◻️◻️, GO TO: 259
+if ◻️🟨◻️◻️🟨, GO TO: 261
+if ◻️🟨◻️🟨◻️, GO TO: 263
+if ◻️🟨🟨◻️◻️, GO TO: 264
+if 🟨🟨◻️◻️🟨, GO TO: 266
+if 🟨🟨◻️🟨◻️, GO TO: 267
+255. GUESS: sewer
+256. GUESS: serif
+257. GUESS: serum
+258. GUESS: sever
+259. GUESS: super
+if 🟩🟩◻️🟩🟩, GO TO: 260
+260. GUESS: surer
+261. GUESS: sheer
+if 🟩◻️🟩🟩🟩, GO TO: 262
+262. GUESS: steer
+263. GUESS: skier
+264. GUESS: screw
+if 🟩◻️🟩🟩🟩, GO TO: 265
+265. GUESS: shrew
+266. GUESS: sneer
+267. GUESS: siren
+268. GUESS: salve
+if 🟩🟩◻️◻️🟩, GO TO: 269
+269. GUESS: sauce
+if 🟩🟩🟩◻️🟩, GO TO: 270
+270. GUESS: saute
+271. GUESS: dault
+if ◻️🟩🟩◻️◻️, GO TO: 272
+if ◻️🟩◻️🟩◻️, GO TO: 274
+if ◻️🟩◻️◻️🟩, GO TO: 275
+if ◻️🟩◻️◻️◻️, GO TO: 276
+if ◻️🟩◻️◻️🟨, GO TO: 279
+if ◻️🟩◻️🟨◻️, GO TO: 280
+if ◻️🟩◻️🟨🟨, GO TO: 281
+if ◻️🟨🟩◻️🟩, GO TO: 282
+if ◻️🟨🟩◻️◻️, GO TO: 283
+if ◻️🟨◻️◻️◻️, GO TO: 284
+if ◻️🟨◻️🟨🟩, GO TO: 285
+if ◻️🟨🟨◻️◻️, GO TO: 286
+if 🟨🟩◻️🟩◻️, GO TO: 287
+if 🟨🟩◻️◻️◻️, GO TO: 288
+if 🟨🟩◻️🟨◻️, GO TO: 289
+if 🟨🟨🟩◻️◻️, GO TO: 290
+272. GUESS: saucy
+if 🟩🟩🟩◻️◻️, GO TO: 273
+273. GUESS: sauna
+274. GUESS: sally
+275. GUESS: saint
+276. GUESS: sappy
+if 🟩🟩◻️◻️🟩, GO TO: 277
+277. GUESS: sassy
+if 🟩🟩◻️◻️🟩, GO TO: 278
+278. GUESS: savvy
+279. GUESS: satin
+280. GUESS: salsa
+281. GUESS: salty
+282. GUESS: squat
+283. GUESS: scuba
+284. GUESS: sigma
+285. GUESS: splat
+286. GUESS: sumac
+287. GUESS: sadly
+288. GUESS: sandy
+289. GUESS: salad
+290. GUESS: squad
+291. GUESS: dempt
+if ◻️🟩◻️🟨◻️, GO TO: 292
+if ◻️🟨◻️◻️🟩, GO TO: 293
+if ◻️🟨◻️◻️◻️, GO TO: 294
+if ◻️🟨◻️◻️🟨, GO TO: 295
+if ◻️🟨◻️🟨◻️, GO TO: 297
+if ◻️🟨🟨◻️🟨, GO TO: 298
+if 🟨🟩◻️◻️◻️, GO TO: 299
+if 🟨🟨◻️◻️🟨, GO TO: 300
+292. GUESS: sepia
+293. GUESS: sweat
+294. GUESS: sneak
+295. GUESS: steak
+if 🟩🟩🟩🟩◻️, GO TO: 296
+296. GUESS: steal
+297. GUESS: speak
+298. GUESS: steam
+299. GUESS: sedan
+300. GUESS: stead
+301. GUESS: cuppy
+if ◻️🟩◻️◻️◻️, GO TO: 302
+if ◻️◻️◻️◻️🟩, GO TO: 303
+if ◻️◻️◻️◻️◻️, GO TO: 304
+if ◻️◻️◻️◻️🟨, GO TO: 305
+if ◻️◻️🟨◻️🟩, GO TO: 306
+if ◻️◻️🟨◻️◻️, GO TO: 307
+if 🟨◻️◻️◻️◻️, GO TO: 308
+if 🟨◻️🟨◻️◻️, GO TO: 309
+302. GUESS: sugar
+303. GUESS: stray
+304. GUESS: straw
+305. GUESS: satyr
+306. GUESS: spray
+307. GUESS: strap
+308. GUESS: scram
+309. GUESS: scrap
+310. GUESS: enmew
+if ◻️◻️◻️🟩◻️, GO TO: 311
+if ◻️🟨◻️🟩◻️, GO TO: 312
+if 🟨◻️◻️◻️◻️, GO TO: 313
+if 🟨◻️◻️◻️🟨, GO TO: 315
+if 🟨◻️🟨◻️◻️, GO TO: 316
+311. GUESS: safer
+312. GUESS: saner
+313. GUESS: shear
+if 🟩◻️🟩🟩🟩, GO TO: 314
+314. GUESS: spear
+315. GUESS: swear
+316. GUESS: smear
+317. GUESS: chant
+if ◻️🟩◻️◻️◻️, GO TO: 318
+if ◻️◻️◻️◻️◻️, GO TO: 319
+if ◻️◻️◻️◻️🟨, GO TO: 321
+if ◻️◻️◻️🟨◻️, GO TO: 322
+if 🟨◻️◻️◻️◻️, GO TO: 323
+318. GUESS: shore
+319. GUESS: spore
+if 🟩◻️🟩🟩🟩, GO TO: 320
+320. GUESS: swore
+321. GUESS: store
+322. GUESS: snore
+323. GUESS: score
+324. GUESS: chant
+if ◻️🟩◻️◻️🟩, GO TO: 325
+if ◻️🟩◻️🟨◻️, GO TO: 326
+if ◻️◻️◻️◻️🟩, GO TO: 327
+if ◻️◻️◻️◻️◻️, GO TO: 328
+if ◻️◻️◻️◻️🟨, GO TO: 329
+if ◻️◻️◻️🟨🟩, GO TO: 332
+if ◻️◻️◻️🟨◻️, GO TO: 333
+if 🟨◻️◻️🟨◻️, GO TO: 334
+325. GUESS: short
+326. GUESS: shorn
+327. GUESS: sport
+328. GUESS: sword
+329. GUESS: stork
+if 🟩🟩🟩🟩◻️, GO TO: 330
+330. GUESS: storm
+if 🟩🟩🟩🟩◻️, GO TO: 331
+331. GUESS: story
+332. GUESS: snort
+333. GUESS: sworn
+334. GUESS: scorn
+335. GUESS: knelt
+if ◻️◻️🟨🟩🟨, GO TO: 336
+if ◻️◻️🟨◻️◻️, GO TO: 337
+if ◻️◻️🟨◻️🟨, GO TO: 339
+if ◻️◻️🟨🟨◻️, GO TO: 341
+if ◻️🟨🟨◻️◻️, GO TO: 342
+if ◻️🟨🟨◻️🟨, GO TO: 344
+if 🟨◻️🟨◻️◻️, GO TO: 345
+if 🟨◻️🟨◻️🟨, GO TO: 347
+336. GUESS: stole
+337. GUESS: scope
+if 🟩◻️🟩◻️🟩, GO TO: 338
+338. GUESS: shove
+339. GUESS: smote
+if 🟩◻️🟩🟨🟩, GO TO: 340
+340. GUESS: stove
+341. GUESS: slope
+342. GUESS: scone
+if 🟩◻️🟩🟩🟩, GO TO: 343
+343. GUESS: shone
+344. GUESS: stone
+345. GUESS: smoke
+if 🟩◻️🟩🟩🟩, GO TO: 346
+346. GUESS: spoke
+347. GUESS: stoke
+348. GUESS: cloot
+if ◻️🟩🟩🟩◻️, GO TO: 349
+if ◻️🟩🟩◻️◻️, GO TO: 350
+if ◻️🟩🟩◻️🟨, GO TO: 351
+if ◻️◻️🟩🟩🟩, GO TO: 352
+if ◻️◻️🟩🟩◻️, GO TO: 353
+if ◻️◻️🟩🟩🟨, GO TO: 361
+if ◻️◻️🟩◻️🟩, GO TO: 363
+if ◻️◻️🟩◻️◻️, GO TO: 368
+if ◻️◻️🟩◻️🟨, GO TO: 372
+if ◻️◻️◻️🟩◻️, GO TO: 374
+if ◻️🟨🟩🟩◻️, GO TO: 375
+if ◻️🟨🟩🟩🟨, GO TO: 376
+if ◻️🟨🟩◻️◻️, GO TO: 377
+if 🟨◻️🟩🟩◻️, GO TO: 378
+if 🟨◻️🟩◻️🟩, GO TO: 379
+if 🟨◻️🟩◻️◻️, GO TO: 380
+if 🟨◻️🟩◻️🟨, GO TO: 383
+if 🟨◻️◻️🟩◻️, GO TO: 385
+if 🟨🟨🟩◻️◻️, GO TO: 386
+349. GUESS: sloop
+350. GUESS: slosh
+351. GUESS: sloth
+352. GUESS: shoot
+353. GUESS: knosp
+if ◻️🟩🟩🟨🟩, GO TO: 354
+if ◻️◻️🟩🟨🟩, GO TO: 355
+if ◻️◻️🟩🟨🟨, GO TO: 356
+if ◻️🟨🟩🟨◻️, GO TO: 357
+if ◻️🟨🟩🟨🟨, GO TO: 358
+if 🟨◻️🟩🟨◻️, GO TO: 359
+if 🟨◻️🟩🟨🟨, GO TO: 360
+354. GUESS: snoop
+355. GUESS: swoop
+356. GUESS: spoof
+357. GUESS: swoon
+358. GUESS: spoon
+359. GUESS: shook
+360. GUESS: spook
+361. GUESS: stood
+if 🟩🟩🟩🟩◻️, GO TO: 362
+362. GUESS: stoop
+363. GUESS: ethne
+if ◻️🟩◻️◻️◻️, GO TO: 364
+if ◻️🟨◻️◻️◻️, GO TO: 365
+if ◻️🟨◻️🟨◻️, GO TO: 366
+if ◻️🟨🟨◻️◻️, GO TO: 367
+364. GUESS: stout
+365. GUESS: spout
+366. GUESS: snout
+367. GUESS: shout
+368. GUESS: shown
+if 🟩🟩🟩🟩◻️, GO TO: 369
+if 🟩◻️🟩🟩🟨, GO TO: 370
+if 🟩◻️🟩◻️◻️, GO TO: 371
+369. GUESS: showy
+370. GUESS: snowy
+371. GUESS: smoky
+372. GUESS: stomp
+if 🟩🟩🟩◻️◻️, GO TO: 373
+373. GUESS: stony
+374. GUESS: synod
+375. GUESS: spool
+376. GUESS: stool
+377. GUESS: spoil
+378. GUESS: scoop
+379. GUESS: scout
+380. GUESS: scoff
+if 🟩🟨🟩◻️◻️, GO TO: 381
+381. GUESS: shock
+if 🟩◻️🟩🟩🟩, GO TO: 382
+382. GUESS: smock
+383. GUESS: stock
+if 🟩🟩🟩🟨◻️, GO TO: 384
+384. GUESS: stoic
+385. GUESS: scion
+386. GUESS: scold
+if 🟩🟩🟩🟨◻️, GO TO: 387
+387. GUESS: scowl
+388. GUESS: scour
+389. GUESS: salon
+if 🟩🟩🟩🟨◻️, GO TO: 390
+if 🟩🟩◻️🟩◻️, GO TO: 391
+if 🟩🟨🟨🟨◻️, GO TO: 392
+390. GUESS: salvo
+391. GUESS: savoy
+392. GUESS: shoal
+393. GUESS: savor
+394. GUESS: board
+if ◻️🟩🟩🟩🟩, GO TO: 395
+395. GUESS: hoard
+396. GUESS: loamy
+if 🟩🟩🟩◻️◻️, GO TO: 397
+if ◻️🟩🟩🟩🟩, GO TO: 398
+if ◻️🟩🟩◻️◻️, GO TO: 399
+if 🟨🟩🟩◻️◻️, GO TO: 400
+397. GUESS: loath
+398. GUESS: foamy
+399. GUESS: coach
+400. GUESS: koala
+401. GUESS: roach
+402. GUESS: adult
+if ◻️◻️🟩◻️🟩, GO TO: 403
+if ◻️◻️🟩◻️◻️, GO TO: 404
+if ◻️◻️◻️◻️◻️, GO TO: 405
+if ◻️◻️◻️🟨◻️, GO TO: 406
+if ◻️🟨🟩◻️◻️, GO TO: 407
+if ◻️🟨◻️◻️◻️, GO TO: 408
+403. GUESS: court
+404. GUESS: mourn
+405. GUESS: worry
+406. GUESS: lorry
+407. GUESS: gourd
+408. GUESS: dowry
+409. GUESS: cloud
+if 🟩◻️🟨🟨◻️, GO TO: 410
+if ◻️◻️🟩◻️◻️, GO TO: 411
+if ◻️◻️🟨🟩◻️, GO TO: 412
+if ◻️◻️🟨◻️◻️, GO TO: 413
+if ◻️◻️🟨◻️🟨, GO TO: 414
+if ◻️◻️🟨🟨◻️, GO TO: 415
+if ◻️🟨🟨◻️◻️, GO TO: 416
+if ◻️🟨🟨◻️🟨, GO TO: 417
+if ◻️🟨🟨🟨◻️, GO TO: 418
+if 🟨◻️🟨◻️◻️, GO TO: 419
+410. GUESS: coupe
+411. GUESS: booze
+412. GUESS: vogue
+413. GUESS: movie
+414. GUESS: dodge
+415. GUESS: gouge
+416. GUESS: noble
+417. GUESS: lodge
+418. GUESS: boule
+419. GUESS: voice
+420. GUESS: culty
+if 🟩◻️🟩◻️◻️, GO TO: 421
+if 🟩◻️◻️◻️🟩, GO TO: 422
+if 🟩◻️◻️◻️◻️, GO TO: 423
+if 🟩◻️🟨◻️🟩, GO TO: 427
+if 🟩🟨◻️◻️◻️, GO TO: 428
+if 🟩🟨◻️🟨◻️, GO TO: 430
+if 🟩🟨🟨◻️◻️, GO TO: 431
+if ◻️◻️🟩◻️🟩, GO TO: 432
+if ◻️◻️🟩◻️◻️, GO TO: 439
+if ◻️◻️🟩◻️🟨, GO TO: 440
+if ◻️◻️◻️🟩🟩, GO TO: 441
+if ◻️◻️◻️🟩◻️, GO TO: 442
+if ◻️◻️◻️◻️🟩, GO TO: 446
+if ◻️◻️◻️◻️◻️, GO TO: 462
+if ◻️◻️◻️🟨🟩, GO TO: 465
+if ◻️◻️◻️🟨◻️, GO TO: 466
+if ◻️◻️🟨🟩🟩, GO TO: 471
+if ◻️◻️🟨◻️🟩, GO TO: 472
+if ◻️◻️🟨◻️◻️, GO TO: 479
+if ◻️◻️🟨🟨🟩, GO TO: 480
+if ◻️🟨◻️🟩🟩, GO TO: 481
+if ◻️🟨◻️🟩◻️, GO TO: 482
+if ◻️🟨◻️🟩🟨, GO TO: 483
+if ◻️🟨◻️◻️◻️, GO TO: 484
+if ◻️🟨◻️◻️🟨, GO TO: 493
+if ◻️🟨◻️🟨◻️, GO TO: 494
+if ◻️🟨🟨◻️◻️, GO TO: 498
+if ◻️🟨🟨🟨◻️, GO TO: 500
+if 🟨◻️◻️◻️◻️, GO TO: 501
+if 🟨◻️◻️🟨◻️, GO TO: 503
+if 🟨◻️🟨◻️◻️, GO TO: 509
+if 🟨🟨◻️◻️◻️, GO TO: 510
+if 🟨🟨◻️🟨◻️, GO TO: 512
+421. GUESS: colon
+422. GUESS: comfy
+423. GUESS: comic
+if 🟩🟩◻️🟩🟩, GO TO: 424
+if 🟩🟩◻️◻️◻️, GO TO: 425
+if 🟩🟩◻️◻️🟨, GO TO: 426
+424. GUESS: conic
+425. GUESS: condo
+426. GUESS: conch
+427. GUESS: coyly
+428. GUESS: couch
+if 🟩🟩🟩◻️🟩, GO TO: 429
+429. GUESS: cough
+430. GUESS: count
+431. GUESS: could
+432. GUESS: defog
+if 🟩◻️◻️🟨◻️, GO TO: 433
+if ◻️◻️◻️🟨◻️, GO TO: 434
+if ◻️◻️◻️🟨🟨, GO TO: 436
+if ◻️◻️🟨🟨◻️, GO TO: 437
+if 🟨◻️◻️🟨◻️, GO TO: 438
+433. GUESS: dolly
+434. GUESS: holly
+if ◻️🟩🟩🟩🟩, GO TO: 435
+435. GUESS: jolly
+436. GUESS: golly
+437. GUESS: folly
+438. GUESS: moldy
+439. GUESS: folio
+440. GUESS: polyp
+441. GUESS: booty
+442. GUESS: booth
+if ◻️🟩🟩🟩🟩, GO TO: 443
+if ◻️🟩◻️🟩🟩, GO TO: 444
+if ◻️🟩🟨🟩◻️, GO TO: 445
+443. GUESS: tooth
+444. GUESS: month
+445. GUESS: motto
+446. GUESS: bawds
+if 🟩◻️◻️◻️◻️, GO TO: 447
+if ◻️◻️🟩🟩◻️, GO TO: 450
+if ◻️◻️🟩🟨◻️, GO TO: 452
+if ◻️◻️◻️🟩◻️, GO TO: 453
+if ◻️◻️◻️◻️◻️, GO TO: 455
+if ◻️◻️◻️🟨◻️, GO TO: 458
+if ◻️◻️🟨🟩◻️, GO TO: 459
+if ◻️◻️🟨◻️◻️, GO TO: 460
+if 🟨◻️◻️◻️◻️, GO TO: 461
+447. GUESS: bobby
+if 🟩🟩◻️🟩🟩, GO TO: 448
+if 🟩🟩◻️◻️🟩, GO TO: 449
+448. GUESS: booby
+449. GUESS: boozy
+450. GUESS: dowdy
+if ◻️🟩🟩🟩🟩, GO TO: 451
+451. GUESS: howdy
+452. GUESS: downy
+453. GUESS: goody
+if ◻️🟩🟩🟩🟩, GO TO: 454
+454. GUESS: moody
+455. GUESS: foggy
+if ◻️🟩◻️◻️🟩, GO TO: 456
+if 🟨🟩🟨◻️🟩, GO TO: 457
+456. GUESS: poppy
+457. GUESS: goofy
+458. GUESS: dodgy
+459. GUESS: woody
+460. GUESS: woozy
+461. GUESS: hobby
+462. GUESS: bongo
+if ◻️🟩🟨🟨◻️, GO TO: 463
+463. GUESS: doing
+if ◻️🟩🟩🟩🟩, GO TO: 464
+464. GUESS: going
+465. GUESS: toddy
+466. GUESS: joint
+if ◻️🟩🟩🟩🟩, GO TO: 467
+if ◻️🟩🟨◻️🟩, GO TO: 468
+if ◻️🟩🟨◻️🟨, GO TO: 469
+if ◻️🟩🟨🟨🟨, GO TO: 470
+467. GUESS: point
+468. GUESS: vomit
+469. GUESS: motif
+470. GUESS: toxin
+471. GUESS: lofty
+472. GUESS: adown
+if ◻️◻️🟩◻️◻️, GO TO: 473
+if ◻️◻️🟩🟨◻️, GO TO: 474
+if ◻️◻️🟨◻️◻️, GO TO: 475
+if ◻️◻️🟨◻️🟨, GO TO: 476
+if ◻️◻️🟨🟨◻️, GO TO: 477
+if ◻️🟨🟨◻️◻️, GO TO: 478
+473. GUESS: loopy
+474. GUESS: wooly
+475. GUESS: lobby
+476. GUESS: nobly
+477. GUESS: lowly
+478. GUESS: godly
+479. GUESS: login
+480. GUESS: hotly
+481. GUESS: pouty
+482. GUESS: mouth
+483. GUESS: youth
+484. GUESS: bumph
+if 🟩🟨◻️◻️🟩, GO TO: 485
+if 🟩🟨◻️◻️◻️, GO TO: 486
+if ◻️🟨◻️◻️🟩, GO TO: 487
+if ◻️🟨◻️◻️◻️, GO TO: 488
+if ◻️🟨◻️◻️🟨, GO TO: 490
+if ◻️🟨◻️🟨◻️, GO TO: 491
+if ◻️🟨🟨◻️◻️, GO TO: 492
+485. GUESS: bough
+486. GUESS: bound
+487. GUESS: dough
+488. GUESS: found
+if ◻️🟩🟩🟩🟩, GO TO: 489
+489. GUESS: wound
+490. GUESS: hound
+491. GUESS: pound
+492. GUESS: mound
+493. GUESS: young
+494. GUESS: donut
+if 🟩🟩◻️🟨🟩, GO TO: 495
+if ◻️🟩◻️🟨🟨, GO TO: 496
+if ◻️🟩🟨🟨🟩, GO TO: 497
+495. GUESS: doubt
+496. GUESS: tough
+497. GUESS: mount
+498. GUESS: mogul
+if ◻️🟩◻️🟨🟨, GO TO: 499
+499. GUESS: would
+500. GUESS: moult
+501. GUESS: ionic
+if ◻️🟩◻️◻️🟨, GO TO: 502
+502. GUESS: pooch
+503. GUESS: apian
+if ◻️◻️◻️◻️◻️, GO TO: 504
+if ◻️◻️◻️◻️🟨, GO TO: 505
+if ◻️◻️🟨◻️◻️, GO TO: 506
+if ◻️◻️🟨◻️🟨, GO TO: 507
+if ◻️🟨🟨◻️◻️, GO TO: 508
+504. GUESS: botch
+505. GUESS: notch
+506. GUESS: toxic
+507. GUESS: tonic
+508. GUESS: topic
+509. GUESS: logic
+510. GUESS: pouch
+if ◻️🟩🟩🟩🟩, GO TO: 511
+511. GUESS: vouch
+512. GUESS: touch
+513. GUESS: meynt
+if 🟩🟨◻️◻️◻️, GO TO: 514
+if 🟩🟨◻️◻️🟨, GO TO: 516
+if 🟩🟨🟨🟨◻️, GO TO: 517
+if ◻️🟨◻️◻️🟩, GO TO: 518
+if ◻️🟨◻️◻️◻️, GO TO: 519
+if ◻️🟨◻️◻️🟨, GO TO: 524
+if ◻️🟨◻️🟨◻️, GO TO: 526
+if ◻️🟨◻️🟨🟨, GO TO: 531
+if ◻️🟨🟨◻️◻️, GO TO: 532
+if ◻️🟨🟨🟨◻️, GO TO: 535
+if 🟨🟨◻️◻️🟩, GO TO: 537
+if 🟨🟨◻️◻️◻️, GO TO: 538
+if 🟨🟨◻️◻️🟨, GO TO: 539
+if 🟨🟨◻️🟨◻️, GO TO: 540
+514. GUESS: model
+if 🟩🟩🟩🟩◻️, GO TO: 515
+515. GUESS: modem
+516. GUESS: motel
+517. GUESS: money
+518. GUESS: covet
+519. GUESS: advew
+if ◻️◻️🟩🟩◻️, GO TO: 520
+if ◻️◻️◻️🟩🟨, GO TO: 521
+if ◻️◻️🟨🟩🟨, GO TO: 522
+if ◻️🟨◻️🟩🟨, GO TO: 523
+520. GUESS: hovel
+521. GUESS: bowel
+522. GUESS: vowel
+523. GUESS: dowel
+524. GUESS: hotel
+if ◻️🟩🟨🟩🟩, GO TO: 525
+525. GUESS: towel
+526. GUESS: woven
+if 🟩🟩◻️🟩🟩, GO TO: 527
+if ◻️🟩🟩🟩🟩, GO TO: 528
+if ◻️🟩🟩🟩🟨, GO TO: 529
+if ◻️🟩◻️🟩🟩, GO TO: 530
+527. GUESS: woken
+528. GUESS: coven
+529. GUESS: novel
+530. GUESS: dozen
+531. GUESS: token
+532. GUESS: covey
+if ◻️🟩◻️🟩🟩, GO TO: 533
+533. GUESS: dopey
+if ◻️🟩◻️🟩🟩, GO TO: 534
+534. GUESS: gooey
+535. GUESS: boney
+if ◻️🟩🟩🟩🟩, GO TO: 536
+536. GUESS: honey
+537. GUESS: comet
+538. GUESS: golem
+539. GUESS: totem
+540. GUESS: women
+541. GUESS: faugh
+if 🟩◻️◻️🟩◻️, GO TO: 542
+if 🟩◻️◻️◻️◻️, GO TO: 543
+if ◻️◻️🟩🟩◻️, GO TO: 545
+if ◻️◻️🟩◻️◻️, GO TO: 546
+if ◻️◻️◻️🟩◻️, GO TO: 547
+if ◻️◻️◻️◻️◻️, GO TO: 548
+if ◻️◻️◻️◻️🟨, GO TO: 549
+if ◻️◻️🟨🟨◻️, GO TO: 550
+542. GUESS: forge
+543. GUESS: force
+if 🟩🟩🟩◻️🟩, GO TO: 544
+544. GUESS: forte
+545. GUESS: rouge
+546. GUESS: route
+547. GUESS: gorge
+548. GUESS: borne
+549. GUESS: horde
+550. GUESS: rogue
+551. GUESS: cyton
+if 🟩◻️◻️🟩◻️, GO TO: 552
+if 🟩🟨◻️🟨🟨, GO TO: 553
+if ◻️◻️🟩🟩◻️, GO TO: 554
+if ◻️◻️◻️🟩🟩, GO TO: 556
+if ◻️◻️◻️🟩🟨, GO TO: 557
+if ◻️◻️◻️🟨🟩, GO TO: 559
+if ◻️◻️◻️🟨◻️, GO TO: 560
+if ◻️◻️◻️🟨🟨, GO TO: 565
+if ◻️◻️🟨🟩◻️, GO TO: 566
+if ◻️◻️🟨🟨◻️, GO TO: 567
+if ◻️◻️🟨🟨🟨, GO TO: 569
+if ◻️🟨◻️🟨◻️, GO TO: 570
+if ◻️🟨◻️🟨🟨, GO TO: 573
+if ◻️🟨🟨🟨◻️, GO TO: 574
+if 🟨◻️◻️🟨◻️, GO TO: 575
+if 🟨◻️🟨🟨◻️, GO TO: 576
+if 🟨🟨◻️🟨◻️, GO TO: 577
+552. GUESS: color
+553. GUESS: corny
+554. GUESS: motor
+if ◻️🟩🟩🟩🟩, GO TO: 555
+555. GUESS: rotor
+556. GUESS: moron
+557. GUESS: donor
+if ◻️🟩🟩🟩🟩, GO TO: 558
+558. GUESS: honor
+559. GUESS: robin
+560. GUESS: forum
+if 🟩🟩🟩◻️◻️, GO TO: 561
+if ◻️🟩🟩◻️◻️, GO TO: 562
+if ◻️🟩🟩◻️🟨, GO TO: 563
+if ◻️🟩🟨🟨◻️, GO TO: 564
+561. GUESS: forgo
+562. GUESS: world
+563. GUESS: morph
+564. GUESS: rough
+565. GUESS: round
+566. GUESS: robot
+567. GUESS: forth
+if ◻️🟩🟩🟩🟩, GO TO: 568
+568. GUESS: worth
+569. GUESS: north
+570. GUESS: roomy
+if 🟩🟩◻️◻️🟩, GO TO: 571
+if 🟨🟩◻️◻️🟩, GO TO: 572
+571. GUESS: rowdy
+572. GUESS: wordy
+573. GUESS: horny
+574. GUESS: forty
+575. GUESS: porch
+576. GUESS: torch
+577. GUESS: rocky
+578. GUESS: rewth
+if 🟩🟨🟩◻️◻️, GO TO: 579
+if 🟩🟨◻️◻️◻️, GO TO: 580
+if 🟨🟨🟩◻️◻️, GO TO: 583
+if 🟨🟨🟩🟨◻️, GO TO: 588
+if 🟨🟨◻️◻️◻️, GO TO: 589
+if 🟨🟨◻️◻️🟨, GO TO: 599
+if 🟨🟨◻️🟨◻️, GO TO: 601
+if 🟨🟨🟨◻️◻️, GO TO: 602
+579. GUESS: rower
+580. GUESS: rodeo
+if 🟩🟩◻️🟩◻️, GO TO: 581
+581. GUESS: roger
+if 🟩🟩◻️🟩🟩, GO TO: 582
+582. GUESS: rover
+583. GUESS: ample
+if ◻️◻️◻️◻️🟨, GO TO: 584
+if ◻️◻️◻️🟨🟨, GO TO: 585
+if ◻️◻️🟨◻️🟨, GO TO: 586
+if ◻️🟨◻️◻️🟨, GO TO: 587
+584. GUESS: cower
+585. GUESS: lower
+586. GUESS: power
+587. GUESS: mower
+588. GUESS: tower
+589. GUESS: black
+if 🟩◻️◻️◻️◻️, GO TO: 590
+if ◻️◻️◻️◻️◻️, GO TO: 591
+if ◻️◻️◻️◻️🟨, GO TO: 594
+if ◻️◻️◻️🟨◻️, GO TO: 596
+if ◻️🟨◻️◻️◻️, GO TO: 598
+590. GUESS: boxer
+591. GUESS: foyer
+if ◻️🟩◻️🟩🟩, GO TO: 592
+592. GUESS: goner
+if ◻️🟩◻️🟩🟩, GO TO: 593
+593. GUESS: mover
+594. GUESS: joker
+if ◻️🟩🟩🟩🟩, GO TO: 595
+595. GUESS: poker
+596. GUESS: corer
+if 🟩🟩◻️🟩🟩, GO TO: 597
+597. GUESS: cover
+598. GUESS: lover
+599. GUESS: homer
+if 🟩🟩◻️🟩🟩, GO TO: 600
+600. GUESS: hover
+601. GUESS: voter
+602. GUESS: wooer
+603. GUESS: cobra
+604. GUESS: liman
+if 🟩◻️◻️🟩◻️, GO TO: 605
+if ◻️◻️🟩🟩🟩, GO TO: 607
+if ◻️◻️🟩🟩🟨, GO TO: 608
+if ◻️◻️🟩🟨◻️, GO TO: 609
+if ◻️◻️◻️🟩◻️, GO TO: 610
+if ◻️◻️◻️🟩🟨, GO TO: 612
+if ◻️◻️◻️🟨◻️, GO TO: 613
+if ◻️◻️◻️🟨🟨, GO TO: 615
+if ◻️◻️🟨🟨◻️, GO TO: 616
+if 🟨◻️◻️🟩◻️, GO TO: 618
+if 🟨◻️◻️🟩🟨, GO TO: 621
+if 🟨◻️◻️🟨◻️, GO TO: 623
+if 🟨◻️🟨🟩◻️, GO TO: 624
+if 🟨🟨◻️🟨◻️, GO TO: 625
+605. GUESS: local
+if 🟩🟩◻️🟩🟩, GO TO: 606
+606. GUESS: loyal
+607. GUESS: woman
+608. GUESS: nomad
+609. GUESS: comma
+610. GUESS: today
+if 🟩🟩◻️🟩◻️, GO TO: 611
+611. GUESS: topaz
+612. GUESS: gonad
+613. GUESS: cocoa
+if ◻️🟩◻️◻️🟩, GO TO: 614
+614. GUESS: vodka
+615. GUESS: tonga
+616. GUESS: dogma
+if ◻️🟩◻️🟨🟩, GO TO: 617
+617. GUESS: mocha
+618. GUESS: focal
+if ◻️🟩🟩🟩🟩, GO TO: 619
+if ◻️🟩◻️🟩🟩, GO TO: 620
+619. GUESS: vocal
+620. GUESS: total
+621. GUESS: tonal
+if ◻️🟩🟩🟩🟩, GO TO: 622
+622. GUESS: zonal
+623. GUESS: polka
+624. GUESS: modal
+625. GUESS: voila
+626. GUESS: balmy
+if 🟩🟨◻️◻️◻️, GO TO: 627
+if ◻️🟨🟩◻️◻️, GO TO: 628
+if ◻️🟨🟩🟨◻️, GO TO: 629
+if ◻️🟨◻️◻️🟩, GO TO: 630
+if ◻️🟨◻️◻️◻️, GO TO: 631
+if ◻️🟨🟨◻️◻️, GO TO: 632
+if ◻️🟨🟨◻️🟨, GO TO: 633
+if ◻️🟨🟨🟨◻️, GO TO: 634
+627. GUESS: borax
+628. GUESS: polar
+629. GUESS: molar
+630. GUESS: foray
+631. GUESS: aorta
+632. GUESS: coral
+633. GUESS: royal
+634. GUESS: moral
+635. GUESS: abaft
+if 🟩◻️🟩◻️◻️, GO TO: 636
+if ◻️◻️🟩◻️◻️, GO TO: 637
+if ◻️◻️🟩🟨◻️, GO TO: 638
+if ◻️🟨🟩◻️◻️, GO TO: 639
+636. GUESS: aware
+637. GUESS: glare
+638. GUESS: flare
+639. GUESS: blare
+640. GUESS: dhuti
+if 🟩◻️◻️◻️◻️, GO TO: 641
+if 🟩◻️◻️◻️🟨, GO TO: 642
+if ◻️🟩◻️◻️◻️, GO TO: 643
+if ◻️🟩◻️🟨◻️, GO TO: 645
+if ◻️◻️◻️◻️◻️, GO TO: 646
+if ◻️◻️◻️🟨◻️, GO TO: 647
+if ◻️◻️◻️🟨🟨, GO TO: 648
+if ◻️◻️🟨◻️◻️, GO TO: 649
+if ◻️◻️🟨🟨◻️, GO TO: 650
+if 🟨🟩◻️◻️◻️, GO TO: 651
+if 🟨◻️◻️◻️◻️, GO TO: 652
+if 🟨◻️🟨◻️◻️, GO TO: 653
+641. GUESS: dwarf
+642. GUESS: diary
+643. GUESS: charm
+if ◻️🟩🟩🟩◻️, GO TO: 644
+644. GUESS: wharf
+645. GUESS: chart
+646. GUESS: alarm
+647. GUESS: apart
+648. GUESS: tiara
+649. GUESS: quark
+650. GUESS: quart
+651. GUESS: chard
+652. GUESS: award
+653. GUESS: guard
+654. GUESS: lathy
+if 🟩🟨◻️◻️◻️, GO TO: 655
+if ◻️🟨◻️◻️🟩, GO TO: 656
+if ◻️🟨◻️◻️◻️, GO TO: 657
+if ◻️🟨◻️◻️🟨, GO TO: 659
+if ◻️🟨◻️🟨◻️, GO TO: 660
+if ◻️🟨🟨◻️🟩, GO TO: 661
+if ◻️🟨🟨🟨◻️, GO TO: 662
+if 🟨🟨◻️◻️◻️, GO TO: 663
+655. GUESS: learn
+656. GUESS: weary
+657. GUESS: beard
+if ◻️🟩🟩🟩◻️, GO TO: 658
+658. GUESS: rearm
+659. GUESS: yearn
+660. GUESS: heard
+661. GUESS: teary
+662. GUESS: heart
+663. GUESS: pearl
+664. GUESS: glitz
+if 🟩🟩◻️◻️◻️, GO TO: 665
+if 🟩🟩◻️◻️🟨, GO TO: 666
+if ◻️🟩◻️🟩◻️, GO TO: 667
+if ◻️🟩◻️◻️◻️, GO TO: 669
+if ◻️🟩◻️◻️🟨, GO TO: 676
+if ◻️◻️◻️🟩◻️, GO TO: 677
+if ◻️◻️◻️◻️◻️, GO TO: 678
+if ◻️◻️◻️◻️🟨, GO TO: 686
+if ◻️◻️🟨◻️◻️, GO TO: 687
+if ◻️🟨◻️◻️◻️, GO TO: 688
+if 🟨◻️◻️🟩◻️, GO TO: 690
+if 🟨◻️◻️◻️◻️, GO TO: 691
+if 🟨◻️🟨◻️◻️, GO TO: 693
+665. GUESS: glade
+666. GUESS: glaze
+667. GUESS: elate
+if ◻️🟩🟩🟩🟩, GO TO: 668
+668. GUESS: plate
+669. GUESS: abamp
+if ◻️◻️🟩🟩◻️, GO TO: 670
+if ◻️◻️🟩◻️◻️, GO TO: 671
+if ◻️◻️🟩◻️🟨, GO TO: 672
+if ◻️🟨🟩🟩◻️, GO TO: 674
+if ◻️🟨🟩◻️◻️, GO TO: 675
+670. GUESS: flame
+671. GUESS: flake
+672. GUESS: place
+if 🟩🟩🟩◻️🟩, GO TO: 673
+673. GUESS: plane
+674. GUESS: blame
+675. GUESS: blade
+676. GUESS: blaze
+677. GUESS: abate
+678. GUESS: heave
+if ◻️🟩🟩🟩🟩, GO TO: 679
+if ◻️🟩🟩◻️🟩, GO TO: 680
+if ◻️◻️🟩🟩🟩, GO TO: 681
+if ◻️◻️🟩◻️🟩, GO TO: 682
+if ◻️🟨🟩🟨🟩, GO TO: 684
+if 🟨◻️🟩◻️🟩, GO TO: 685
+679. GUESS: weave
+680. GUESS: peace
+681. GUESS: knave
+682. GUESS: awake
+if ◻️◻️🟩🟩🟩, GO TO: 683
+683. GUESS: quake
+684. GUESS: evade
+685. GUESS: chafe
+686. GUESS: amaze
+687. GUESS: inane
+688. GUESS: leave
+if 🟨◻️🟩◻️🟩, GO TO: 689
+689. GUESS: whale
+690. GUESS: agate
+691. GUESS: adage
+if 🟩◻️🟩🟨🟩, GO TO: 692
+692. GUESS: agape
+693. GUESS: image
+694. GUESS: clink
+if 🟩🟩◻️🟩🟩, GO TO: 695
+if 🟩🟩◻️🟩◻️, GO TO: 696
+if 🟩🟩◻️◻️🟩, GO TO: 697
+if 🟩🟩◻️◻️◻️, GO TO: 698
+if 🟩🟩🟨◻️◻️, GO TO: 699
+if 🟩◻️◻️🟩◻️, GO TO: 700
+if 🟩◻️◻️◻️◻️, GO TO: 701
+if 🟩◻️🟨🟨◻️, GO TO: 703
+if 🟩🟨◻️◻️🟩, GO TO: 704
+if ◻️🟩◻️🟩🟩, GO TO: 705
+if ◻️🟩◻️🟩◻️, GO TO: 708
+if ◻️🟩◻️◻️◻️, GO TO: 711
+if ◻️🟩◻️◻️🟨, GO TO: 713
+if ◻️🟩🟨◻️◻️, GO TO: 714
+if ◻️🟩🟨🟨◻️, GO TO: 717
+if ◻️◻️◻️🟩🟩, GO TO: 718
+if ◻️◻️◻️🟩◻️, GO TO: 719
+if ◻️◻️◻️◻️◻️, GO TO: 720
+if ◻️◻️🟨🟩◻️, GO TO: 722
+if ◻️◻️🟨◻️◻️, GO TO: 723
+if ◻️◻️🟨◻️🟨, GO TO: 724
+if ◻️◻️🟨🟨◻️, GO TO: 725
+if ◻️🟨◻️◻️◻️, GO TO: 726
+if ◻️🟨🟨◻️◻️, GO TO: 727
+if 🟨🟩◻️◻️🟩, GO TO: 729
+if 🟨◻️◻️◻️🟩, GO TO: 731
+if 🟨◻️◻️🟨🟩, GO TO: 734
+695. GUESS: clank
+696. GUESS: clang
+697. GUESS: clack
+698. GUESS: clamp
+699. GUESS: claim
+700. GUESS: chant
+701. GUESS: chaff
+if 🟩🟩🟩◻️◻️, GO TO: 702
+702. GUESS: champ
+703. GUESS: chain
+704. GUESS: chalk
+705. GUESS: blank
+if ◻️🟩🟩🟩🟩, GO TO: 706
+706. GUESS: flank
+if ◻️🟩🟩🟩🟩, GO TO: 707
+707. GUESS: plank
+708. GUESS: bland
+if ◻️🟩🟩🟩🟩, GO TO: 709
+if ◻️🟩🟩🟩◻️, GO TO: 710
+709. GUESS: gland
+710. GUESS: plant
+711. GUESS: llama
+if ◻️🟩🟩◻️🟩, GO TO: 712
+712. GUESS: plaza
+713. GUESS: flaky
+714. GUESS: flail
+if ◻️🟩🟩🟩◻️, GO TO: 715
+715. GUESS: plaid
+if 🟩🟩🟩🟩◻️, GO TO: 716
+716. GUESS: plait
+717. GUESS: plain
+718. GUESS: thank
+719. GUESS: twang
+720. GUESS: adapt
+if 🟨◻️🟩◻️◻️, GO TO: 721
+721. GUESS: guava
+722. GUESS: giant
+723. GUESS: await
+724. GUESS: khaki
+725. GUESS: again
+726. GUESS: qualm
+727. GUESS: avail
+if ◻️◻️🟩🟩🟩, GO TO: 728
+728. GUESS: quail
+729. GUESS: black
+if ◻️🟩🟩🟩🟩, GO TO: 730
+730. GUESS: flack
+731. GUESS: aback
+if ◻️◻️🟩🟩🟩, GO TO: 732
+732. GUESS: quack
+if ◻️◻️🟩🟩🟩, GO TO: 733
+733. GUESS: whack
+734. GUESS: knack
+735. GUESS: depth
+if 🟩🟩◻️🟩🟩, GO TO: 736
+if 🟩🟩◻️🟨◻️, GO TO: 737
+if ◻️🟩◻️🟩🟩, GO TO: 738
+if ◻️🟩◻️🟩◻️, GO TO: 739
+if ◻️🟩◻️◻️🟩, GO TO: 740
+if ◻️🟩◻️◻️◻️, GO TO: 742
+if ◻️🟩◻️◻️🟨, GO TO: 745
+if ◻️🟩◻️🟨🟩, GO TO: 746
+if ◻️🟩◻️🟨◻️, GO TO: 747
+if ◻️🟩🟨◻️🟩, GO TO: 749
+if ◻️🟩🟨🟨◻️, GO TO: 750
+if ◻️🟨◻️◻️◻️, GO TO: 751
+if ◻️🟨◻️🟨◻️, GO TO: 752
+if 🟨🟩◻️◻️◻️, GO TO: 755
+if 🟨🟩◻️◻️🟨, GO TO: 756
+736. GUESS: death
+737. GUESS: dealt
+738. GUESS: heath
+739. GUESS: meaty
+740. GUESS: beach
+if ◻️🟩🟩🟩🟩, GO TO: 741
+741. GUESS: leach
+742. GUESS: leafy
+if 🟩🟩🟩◻️🟩, GO TO: 743
+if 🟨🟩🟩◻️🟩, GO TO: 744
+743. GUESS: leaky
+744. GUESS: mealy
+745. GUESS: heavy
+746. GUESS: teach
+747. GUESS: leant
+if ◻️🟩🟩🟩🟩, GO TO: 748
+748. GUESS: meant
+749. GUESS: peach
+750. GUESS: leapt
+751. GUESS: email
+752. GUESS: enact
+if 🟩◻️🟩🟩🟩, GO TO: 753
+if 🟩◻️🟩◻️🟩, GO TO: 754
+753. GUESS: exact
+754. GUESS: exalt
+755. GUESS: beady
+756. GUESS: heady
+757. GUESS: diact
+if 🟩◻️🟩◻️◻️, GO TO: 758
+if ◻️◻️🟩🟩◻️, GO TO: 760
+if ◻️◻️🟩🟩🟨, GO TO: 762
+if ◻️◻️🟩◻️◻️, GO TO: 763
+if ◻️◻️🟩◻️🟨, GO TO: 769
+if ◻️◻️🟩🟨◻️, GO TO: 770
+if ◻️◻️🟩🟨🟨, GO TO: 773
+if ◻️🟨🟩◻️🟨, GO TO: 774
+if 🟨◻️🟩◻️◻️, GO TO: 775
+if 🟨◻️🟩◻️🟨, GO TO: 776
+758. GUESS: drake
+if 🟩🟩🟩◻️🟩, GO TO: 759
+759. GUESS: drape
+760. GUESS: brace
+if ◻️🟩🟩🟩🟩, GO TO: 761
+761. GUESS: grace
+762. GUESS: trace
+763. GUESS: grave
+if 🟩🟩🟩◻️🟩, GO TO: 764
+if ◻️🟩🟩🟩🟩, GO TO: 766
+if ◻️🟩🟩◻️🟩, GO TO: 767
+764. GUESS: grape
+if 🟩🟩🟩◻️🟩, GO TO: 765
+765. GUESS: graze
+766. GUESS: brave
+767. GUESS: brake
+if ◻️🟩🟩◻️🟩, GO TO: 768
+768. GUESS: frame
+769. GUESS: grate
+770. GUESS: crane
+if 🟩🟩🟩◻️🟩, GO TO: 771
+771. GUESS: crave
+if 🟩🟩🟩◻️🟩, GO TO: 772
+772. GUESS: craze
+773. GUESS: crate
+774. GUESS: irate
+775. GUESS: grade
+776. GUESS: trade
+777. GUESS: clint
+if 🟩◻️◻️🟩◻️, GO TO: 778
+if 🟩◻️◻️◻️🟩, GO TO: 779
+if 🟩◻️◻️◻️◻️, GO TO: 780
+if 🟩◻️🟨◻️◻️, GO TO: 783
+if 🟩🟨◻️◻️◻️, GO TO: 784
+if ◻️🟩🟨◻️◻️, GO TO: 785
+if ◻️◻️◻️🟩🟩, GO TO: 786
+if ◻️◻️◻️🟩◻️, GO TO: 787
+if ◻️◻️◻️◻️🟩, GO TO: 793
+if ◻️◻️◻️◻️◻️, GO TO: 795
+if ◻️◻️◻️◻️🟨, GO TO: 800
+if ◻️◻️◻️🟨◻️, GO TO: 802
+if ◻️◻️🟨◻️🟩, GO TO: 805
+if ◻️◻️🟨◻️◻️, GO TO: 806
+if ◻️◻️🟨🟨◻️, GO TO: 807
+if ◻️◻️🟨🟨🟨, GO TO: 810
+if ◻️🟨◻️◻️◻️, GO TO: 811
+if ◻️🟨◻️◻️🟨, GO TO: 813
+if ◻️🟨🟨◻️◻️, GO TO: 814
+if ◻️🟨🟨◻️🟨, GO TO: 816
+if 🟨◻️◻️◻️🟩, GO TO: 817
+if 🟨◻️◻️◻️◻️, GO TO: 818
+if 🟨◻️◻️◻️🟨, GO TO: 819
+778. GUESS: crank
+779. GUESS: craft
+780. GUESS: crack
+if 🟩🟩🟩◻️◻️, GO TO: 781
+781. GUESS: cramp
+if 🟩🟩🟩◻️◻️, GO TO: 782
+782. GUESS: crazy
+783. GUESS: chair
+784. GUESS: crawl
+785. GUESS: flair
+786. GUESS: grant
+787. GUESS: bifid
+if 🟩◻️◻️◻️🟩, GO TO: 788
+if ◻️◻️◻️◻️🟩, GO TO: 789
+if ◻️◻️◻️◻️◻️, GO TO: 790
+if ◻️◻️◻️◻️🟨, GO TO: 791
+if ◻️◻️🟨◻️◻️, GO TO: 792
+788. GUESS: brand
+789. GUESS: grand
+790. GUESS: prank
+791. GUESS: drank
+792. GUESS: frank
+793. GUESS: draft
+if ◻️🟩🟩🟩🟩, GO TO: 794
+794. GUESS: graft
+795. GUESS: aahed
+if 🟨◻️◻️◻️🟩, GO TO: 796
+if 🟨◻️◻️◻️◻️, GO TO: 797
+if 🟨◻️🟨◻️◻️, GO TO: 798
+if 🟨🟨◻️◻️🟨, GO TO: 799
+796. GUESS: fraud
+797. GUESS: gravy
+798. GUESS: graph
+799. GUESS: drama
+800. GUESS: tramp
+if 🟨🟩🟩◻️◻️, GO TO: 801
+801. GUESS: wrath
+802. GUESS: brawn
+if ◻️🟩🟩🟩🟩, GO TO: 803
+803. GUESS: drawn
+if ◻️🟩🟩🟩🟩, GO TO: 804
+804. GUESS: prawn
+805. GUESS: trait
+806. GUESS: braid
+807. GUESS: brain
+if ◻️🟩🟩🟩🟩, GO TO: 808
+808. GUESS: drain
+if ◻️🟩🟩🟩🟩, GO TO: 809
+809. GUESS: grain
+810. GUESS: train
+811. GUESS: brawl
+if ◻️🟩🟩🟩🟩, GO TO: 812
+812. GUESS: drawl
+813. GUESS: trawl
+814. GUESS: frail
+if ◻️🟩🟩🟩🟩, GO TO: 815
+815. GUESS: grail
+816. GUESS: trail
+817. GUESS: tract
+818. GUESS: wrack
+819. GUESS: track
+820. GUESS: ached
+if 🟨◻️◻️🟨◻️, GO TO: 821
+if 🟨◻️◻️🟨🟨, GO TO: 822
+if 🟨🟨◻️🟨◻️, GO TO: 823
+if 🟨🟨🟨🟨◻️, GO TO: 824
+821. GUESS: realm
+822. GUESS: ready
+823. GUESS: react
+824. GUESS: reach
+825. GUESS: there
+if ◻️🟩🟩🟩🟩, GO TO: 826
+if ◻️◻️◻️🟩🟩, GO TO: 827
+if ◻️◻️🟨🟩🟩, GO TO: 828
+826. GUESS: where
+827. GUESS: fibre
+828. GUESS: genre
+829. GUESS: fitch
+if 🟩◻️◻️◻️◻️, GO TO: 830
+if 🟩🟨🟨◻️◻️, GO TO: 831
+if ◻️◻️◻️◻️🟩, GO TO: 832
+if ◻️◻️◻️◻️◻️, GO TO: 833
+if ◻️◻️◻️◻️🟨, GO TO: 834
+if ◻️◻️◻️🟨◻️, GO TO: 835
+if ◻️◻️◻️🟨🟨, GO TO: 836
+if ◻️◻️🟨◻️◻️, GO TO: 837
+if ◻️🟨◻️◻️◻️, GO TO: 838
+if ◻️🟨◻️◻️🟨, GO TO: 839
+if ◻️🟨◻️🟨🟨, GO TO: 840
+if ◻️🟨🟨◻️◻️, GO TO: 841
+if ◻️🟨🟨◻️🟨, GO TO: 842
+830. GUESS: furry
+831. GUESS: flirt
+832. GUESS: myrrh
+833. GUESS: blurb
+834. GUESS: hurry
+835. GUESS: curry
+836. GUESS: churn
+837. GUESS: blurt
+838. GUESS: quirk
+839. GUESS: whirl
+840. GUESS: chirp
+841. GUESS: twirl
+842. GUESS: third
+843. GUESS: feted
+if 🟩🟩◻️◻️◻️, GO TO: 844
+if 🟩🟨◻️◻️◻️, GO TO: 845
+if ◻️🟩🟩◻️◻️, GO TO: 846
+if ◻️🟩◻️◻️🟩, GO TO: 847
+if ◻️🟩◻️◻️◻️, GO TO: 848
+if ◻️🟩◻️◻️🟨, GO TO: 850
+if ◻️🟩◻️🟨◻️, GO TO: 851
+if ◻️🟨🟩◻️◻️, GO TO: 852
+if ◻️🟨◻️◻️◻️, GO TO: 853
+if ◻️🟨◻️🟨◻️, GO TO: 855
+if ◻️🟨🟨◻️◻️, GO TO: 856
+if ◻️🟨🟨🟨◻️, GO TO: 857
+844. GUESS: ferry
+845. GUESS: fiery
+846. GUESS: retry
+847. GUESS: weird
+848. GUESS: berry
+if ◻️🟩🟩🟩🟩, GO TO: 849
+849. GUESS: merry
+850. GUESS: decry
+851. GUESS: leery
+852. GUESS: entry
+853. GUESS: clerk
+if ◻️◻️🟩🟩◻️, GO TO: 854
+854. GUESS: query
+855. GUESS: every
+856. GUESS: inert
+857. GUESS: exert
+858. GUESS: guilt
+if 🟩🟩🟩🟩◻️, GO TO: 859
+if 🟩🟩🟩◻️◻️, GO TO: 860
+if 🟩◻️🟩🟨◻️, GO TO: 861
+if 🟩◻️🟨◻️◻️, GO TO: 862
+if ◻️🟩🟩◻️◻️, GO TO: 863
+if ◻️🟩🟩◻️🟨, GO TO: 864
+if ◻️🟩◻️🟩🟨, GO TO: 865
+if ◻️🟩◻️◻️◻️, GO TO: 866
+if ◻️🟩◻️◻️🟨, GO TO: 868
+if ◻️🟩🟨◻️🟨, GO TO: 869
+if ◻️◻️🟩🟩◻️, GO TO: 870
+if ◻️◻️🟩◻️◻️, GO TO: 872
+if ◻️◻️🟩◻️🟨, GO TO: 876
+if ◻️◻️🟩🟨◻️, GO TO: 879
+if ◻️◻️🟩🟨🟨, GO TO: 880
+if ◻️◻️◻️🟩◻️, GO TO: 881
+if ◻️◻️◻️◻️◻️, GO TO: 883
+if ◻️◻️◻️◻️🟨, GO TO: 890
+if ◻️◻️◻️🟨◻️, GO TO: 893
+if ◻️◻️🟨🟩◻️, GO TO: 895
+if ◻️◻️🟨🟩🟨, GO TO: 896
+if ◻️◻️🟨◻️◻️, GO TO: 897
+if ◻️◻️🟨◻️🟨, GO TO: 903
+if ◻️◻️🟨🟨◻️, GO TO: 904
+if ◻️◻️🟨🟨🟨, GO TO: 905
+if ◻️🟨🟩🟩🟨, GO TO: 907
+if ◻️🟨🟩◻️🟨, GO TO: 908
+if ◻️🟨◻️🟩◻️, GO TO: 909
+if ◻️🟨◻️◻️◻️, GO TO: 910
+if ◻️🟨◻️◻️🟨, GO TO: 913
+if ◻️🟨◻️🟨◻️, GO TO: 915
+if ◻️🟨◻️🟨🟨, GO TO: 919
+if ◻️🟨🟨◻️◻️, GO TO: 920
+if ◻️🟨🟨◻️🟨, GO TO: 922
+if 🟨🟩◻️🟩◻️, GO TO: 923
+if 🟨🟩◻️◻️◻️, GO TO: 924
+if 🟨🟩◻️🟨◻️, GO TO: 930
+if 🟨◻️◻️◻️◻️, GO TO: 932
+if 🟨◻️◻️🟨◻️, GO TO: 934
+if 🟨◻️🟨◻️◻️, GO TO: 935
+if 🟨◻️🟨🟨◻️, GO TO: 938
+859. GUESS: guile
+860. GUESS: guide
+861. GUESS: glide
+862. GUESS: genie
+863. GUESS: juice
+864. GUESS: quite
+865. GUESS: tulle
+866. GUESS: dunce
+if ◻️🟩◻️◻️🟩, GO TO: 867
+867. GUESS: queue
+868. GUESS: butte
+869. GUESS: cutie
+870. GUESS: exile
+if ◻️◻️🟩🟩🟩, GO TO: 871
+871. GUESS: while
+872. GUESS: chide
+if 🟩🟩🟩◻️🟩, GO TO: 873
+if ◻️🟩🟩◻️🟩, GO TO: 874
+if ◻️◻️🟩◻️🟩, GO TO: 875
+873. GUESS: chime
+874. GUESS: whine
+875. GUESS: knife
+876. GUESS: twice
+if 🟩🟩🟩◻️🟩, GO TO: 877
+if 🟨🟨🟩◻️🟩, GO TO: 878
+877. GUESS: twine
+878. GUESS: white
+879. GUESS: elide
+880. GUESS: elite
+881. GUESS: belle
+if ◻️◻️◻️🟩🟩, GO TO: 882
+882. GUESS: cycle
+883. GUESS: champ
+if ◻️◻️◻️🟩◻️, GO TO: 884
+if ◻️◻️◻️◻️🟨, GO TO: 885
+if 🟨◻️◻️◻️◻️, GO TO: 886
+if 🟨◻️◻️◻️🟨, GO TO: 887
+if 🟨◻️◻️🟨◻️, GO TO: 888
+if 🟨🟨◻️◻️◻️, GO TO: 889
+884. GUESS: femme
+885. GUESS: penne
+886. GUESS: fence
+887. GUESS: pence
+888. GUESS: emcee
+889. GUESS: hence
+890. GUESS: tepee
+if 🟩◻️◻️◻️🟩, GO TO: 891
+if 🟩🟨◻️◻️🟩, GO TO: 892
+891. GUESS: thyme
+892. GUESS: theme
+893. GUESS: delve
+if ◻️🟩🟩◻️🟩, GO TO: 894
+894. GUESS: melee
+895. GUESS: bible
+896. GUESS: title
+897. GUESS: mince
+if ◻️🟩🟩🟩🟩, GO TO: 898
+if ◻️🟩◻️🟩🟩, GO TO: 899
+if ◻️🟩◻️◻️🟩, GO TO: 900
+if ◻️🟩🟨🟩🟩, GO TO: 901
+if ◻️🟩🟨🟨🟩, GO TO: 902
+898. GUESS: wince
+899. GUESS: piece
+900. GUESS: pixie
+901. GUESS: niece
+902. GUESS: niche
+903. GUESS: tithe
+904. GUESS: belie
+905. GUESS: lithe
+if 🟨🟩🟨◻️🟩, GO TO: 906
+906. GUESS: tilde
+907. GUESS: utile
+908. GUESS: unite
+909. GUESS: uncle
+910. GUESS: deuce
+if ◻️🟩🟨◻️🟩, GO TO: 911
+if 🟨◻️🟨◻️🟩, GO TO: 912
+911. GUESS: venue
+912. GUESS: undue
+913. GUESS: chute
+if ◻️◻️🟩🟨🟩, GO TO: 914
+914. GUESS: etude
+915. GUESS: flume
+if 🟩🟩🟩◻️🟩, GO TO: 916
+if ◻️🟩🟩🟩🟩, GO TO: 917
+if ◻️🟩🟩◻️🟩, GO TO: 918
+916. GUESS: fluke
+917. GUESS: plume
+918. GUESS: elude
+919. GUESS: flute
+920. GUESS: imbue
+if 🟨◻️◻️🟩🟩, GO TO: 921
+921. GUESS: pique
+922. GUESS: untie
+923. GUESS: bugle
+924. GUESS: aband
+if ◻️◻️◻️◻️◻️, GO TO: 925
+if ◻️◻️◻️◻️🟨, GO TO: 926
+if ◻️◻️◻️🟨🟨, GO TO: 928
+if ◻️🟨◻️◻️🟨, GO TO: 929
+925. GUESS: fugue
+926. GUESS: fudge
+if ◻️🟩🟩🟩🟩, GO TO: 927
+927. GUESS: judge
+928. GUESS: nudge
+929. GUESS: budge
+930. GUESS: bulge
+if ◻️🟩🟨🟩🟩, GO TO: 931
+931. GUESS: lunge
+932. GUESS: hedge
+if ◻️🟩🟩🟩🟩, GO TO: 933
+933. GUESS: wedge
+934. GUESS: ledge
+935. GUESS: binge
+if ◻️🟩🟩🟩🟩, GO TO: 936
+if ◻️🟩◻️🟩🟩, GO TO: 937
+936. GUESS: hinge
+937. GUESS: midge
+938. GUESS: bilge
+if ◻️🟩🟨🟩🟩, GO TO: 939
+939. GUESS: liege
+940. GUESS: clint
+if 🟩🟩🟩🟩◻️, GO TO: 941
+if 🟩🟩🟩◻️◻️, GO TO: 943
+if 🟩🟩◻️🟩◻️, GO TO: 946
+if 🟩🟩◻️◻️◻️, GO TO: 947
+if 🟩◻️🟩◻️◻️, GO TO: 949
+if 🟩◻️◻️🟩◻️, GO TO: 950
+if 🟩◻️◻️◻️◻️, GO TO: 951
+if 🟩◻️🟨◻️◻️, GO TO: 953
+if 🟩◻️🟨🟨◻️, GO TO: 955
+if 🟩🟨🟩◻️◻️, GO TO: 958
+if 🟩🟨🟨◻️◻️, GO TO: 961
+if ◻️🟩🟩🟩🟩, GO TO: 962
+if ◻️🟩🟩🟩◻️, GO TO: 964
+if ◻️🟩🟩◻️◻️, GO TO: 967
+if ◻️🟩🟩◻️🟨, GO TO: 968
+if ◻️🟩◻️🟩🟩, GO TO: 969
+if ◻️🟩◻️🟩◻️, GO TO: 970
+if ◻️🟩◻️◻️◻️, GO TO: 973
+if ◻️🟩🟨◻️◻️, GO TO: 978
+if ◻️◻️🟩🟩◻️, GO TO: 979
+if ◻️◻️🟩🟩🟨, GO TO: 982
+if ◻️◻️🟩◻️🟩, GO TO: 985
+if ◻️◻️🟩◻️◻️, GO TO: 986
+if ◻️◻️🟩◻️🟨, GO TO: 987
+if ◻️◻️🟩🟨◻️, GO TO: 988
+if ◻️◻️🟩🟨🟨, GO TO: 989
+if ◻️◻️◻️🟩◻️, GO TO: 990
+if ◻️◻️◻️◻️◻️, GO TO: 992
+if ◻️◻️◻️◻️🟨, GO TO: 1007
+if ◻️◻️◻️🟨◻️, GO TO: 1010
+if ◻️◻️◻️🟨🟨, GO TO: 1013
+if ◻️◻️🟨🟩◻️, GO TO: 1014
+if ◻️◻️🟨◻️🟩, GO TO: 1015
+if ◻️◻️🟨◻️◻️, GO TO: 1021
+if ◻️◻️🟨◻️🟨, GO TO: 1032
+if ◻️◻️🟨🟨🟩, GO TO: 1041
+if ◻️◻️🟨🟨◻️, GO TO: 1044
+if ◻️◻️🟨🟨🟨, GO TO: 1053
+if ◻️🟨🟩🟩◻️, GO TO: 1055
+if ◻️🟨🟩◻️🟩, GO TO: 1056
+if ◻️🟨🟩◻️◻️, GO TO: 1059
+if ◻️🟨◻️◻️◻️, GO TO: 1062
+if ◻️🟨🟨◻️🟩, GO TO: 1071
+if ◻️🟨🟨◻️◻️, GO TO: 1073
+if ◻️🟨🟨◻️🟨, GO TO: 1089
+if ◻️🟨🟨🟨🟩, GO TO: 1091
+if ◻️🟨🟨🟨◻️, GO TO: 1092
+if ◻️🟨🟨🟨🟨, GO TO: 1093
+if 🟨🟩🟩◻️◻️, GO TO: 1094
+if 🟨🟩◻️◻️◻️, GO TO: 1095
+if 🟨◻️🟩🟩◻️, GO TO: 1096
+if 🟨◻️🟩◻️◻️, GO TO: 1097
+if 🟨◻️🟩◻️🟨, GO TO: 1100
+if 🟨◻️◻️◻️◻️, GO TO: 1101
+if 🟨◻️◻️◻️🟨, GO TO: 1103
+if 🟨◻️◻️🟨🟩, GO TO: 1106
+if 🟨◻️◻️🟨◻️, GO TO: 1107
+if 🟨◻️🟨◻️◻️, GO TO: 1112
+if 🟨◻️🟨◻️🟨, GO TO: 1115
+if 🟨◻️🟨🟨◻️, GO TO: 1121
+if 🟨◻️🟨🟨🟨, GO TO: 1124
+if 🟨🟨🟩◻️◻️, GO TO: 1125
+if 🟨🟨◻️◻️◻️, GO TO: 1126
+if 🟨🟨◻️🟨◻️, GO TO: 1129
+if 🟨🟨🟨◻️◻️, GO TO: 1131
+941. GUESS: cling
+if 🟩🟩🟩🟩◻️, GO TO: 942
+942. GUESS: clink
+943. GUESS: click
+if 🟩🟩🟩◻️◻️, GO TO: 944
+944. GUESS: cliff
+if 🟩🟩🟩◻️◻️, GO TO: 945
+945. GUESS: climb
+946. GUESS: clung
+947. GUESS: cluck
+if 🟩🟩🟩◻️◻️, GO TO: 948
+948. GUESS: clump
+949. GUESS: chick
+950. GUESS: chunk
+951. GUESS: chuck
+if 🟩🟩🟩◻️◻️, GO TO: 952
+952. GUESS: chump
+953. GUESS: civic
+if 🟩◻️◻️🟩🟩, GO TO: 954
+954. GUESS: cubic
+955. GUESS: cinch
+if 🟩🟨🟩🟨◻️, GO TO: 956
+if 🟩🟨🟨◻️◻️, GO TO: 957
+956. GUESS: cynic
+957. GUESS: cumin
+958. GUESS: child
+if 🟩🟩🟩🟩◻️, GO TO: 959
+959. GUESS: chili
+if 🟩🟩🟩🟩◻️, GO TO: 960
+960. GUESS: chill
+961. GUESS: civil
+962. GUESS: flint
+if ◻️🟩🟩🟩🟩, GO TO: 963
+963. GUESS: glint
+964. GUESS: blind
+if 🟩🟩🟩🟩◻️, GO TO: 965
+if ◻️🟩🟩🟩◻️, GO TO: 966
+965. GUESS: blink
+966. GUESS: fling
+967. GUESS: blimp
+968. GUESS: blitz
+969. GUESS: blunt
+970. GUESS: flung
+if 🟩🟩🟩🟩◻️, GO TO: 971
+if ◻️🟩🟩🟩◻️, GO TO: 972
+971. GUESS: flunk
+972. GUESS: plunk
+973. GUESS: bluff
+if ◻️🟩🟩🟩🟩, GO TO: 974
+if ◻️🟩🟩◻️◻️, GO TO: 975
+if ◻️🟩◻️◻️◻️, GO TO: 976
+if 🟨🟩🟩◻️◻️, GO TO: 977
+974. GUESS: fluff
+975. GUESS: plump
+976. GUESS: glyph
+977. GUESS: plumb
+978. GUESS: fluid
+979. GUESS: dying
+if ◻️🟩🟩🟩🟩, GO TO: 980
+if ◻️🟨🟩🟩◻️, GO TO: 981
+980. GUESS: vying
+981. GUESS: whiny
+982. GUESS: thing
+if 🟩🟩🟩🟩◻️, GO TO: 983
+if 🟩◻️🟩🟩🟩, GO TO: 984
+983. GUESS: think
+984. GUESS: tying
+985. GUESS: twixt
+986. GUESS: whiff
+987. GUESS: thigh
+988. GUESS: unify
+989. GUESS: unity
+990. GUESS: bunny
+if ◻️🟩🟩🟩🟩, GO TO: 991
+991. GUESS: funny
+992. GUESS: dumpy
+if 🟩🟩🟩◻️🟩, GO TO: 993
+if ◻️🟩🟩🟩🟩, GO TO: 994
+if ◻️🟩🟩🟩◻️, GO TO: 995
+if ◻️🟩🟩◻️🟩, GO TO: 996
+if ◻️🟩◻️🟩🟩, GO TO: 998
+if ◻️🟩◻️◻️🟩, GO TO: 1000
+if ◻️🟩◻️🟨🟩, GO TO: 1002
+if ◻️◻️🟨🟨🟩, GO TO: 1003
+if 🟨🟩◻️◻️🟩, GO TO: 1004
+if 🟨🟩◻️🟨🟩, GO TO: 1005
+if 🟨🟩🟨◻️🟩, GO TO: 1006
+993. GUESS: dummy
+994. GUESS: jumpy
+995. GUESS: humph
+996. GUESS: gummy
+if ◻️🟩🟩🟩🟩, GO TO: 997
+997. GUESS: mummy
+998. GUESS: guppy
+if ◻️🟩🟩🟩🟩, GO TO: 999
+999. GUESS: puppy
+1000. GUESS: buggy
+if ◻️🟩◻️◻️🟩, GO TO: 1001
+1001. GUESS: fuzzy
+1002. GUESS: puffy
+1003. GUESS: pygmy
+1004. GUESS: buddy
+1005. GUESS: pudgy
+1006. GUESS: muddy
+1007. GUESS: putty
+if ◻️🟨🟨◻️◻️, GO TO: 1008
+if 🟨🟨🟨◻️◻️, GO TO: 1009
+1008. GUESS: thumb
+1009. GUESS: thump
+1010. GUESS: funky
+if ◻️🟩🟩🟩🟩, GO TO: 1011
+if ◻️◻️🟨◻️🟨, GO TO: 1012
+1011. GUESS: hunky
+1012. GUESS: nymph
+1013. GUESS: nutty
+1014. GUESS: ninny
+1015. GUESS: aswim
+if ◻️◻️◻️🟩◻️, GO TO: 1016
+if ◻️◻️◻️🟨◻️, GO TO: 1017
+if ◻️◻️◻️🟨🟨, GO TO: 1019
+if ◻️◻️🟨🟨◻️, GO TO: 1020
+1016. GUESS: digit
+1017. GUESS: fight
+if ◻️🟩🟩🟩🟩, GO TO: 1018
+1018. GUESS: tight
+1019. GUESS: might
+1020. GUESS: wight
+1021. GUESS: fudgy
+if 🟩◻️◻️◻️🟩, GO TO: 1022
+if ◻️🟩🟨◻️◻️, GO TO: 1023
+if ◻️◻️🟩◻️🟩, GO TO: 1024
+if ◻️◻️🟩🟨🟩, GO TO: 1025
+if ◻️◻️◻️🟩🟩, GO TO: 1026
+if ◻️◻️◻️◻️🟩, GO TO: 1027
+if ◻️◻️🟨◻️🟩, GO TO: 1029
+if ◻️◻️🟨◻️◻️, GO TO: 1030
+if 🟨◻️◻️◻️🟩, GO TO: 1031
+1022. GUESS: fizzy
+1023. GUESS: humid
+1024. GUESS: biddy
+1025. GUESS: giddy
+1026. GUESS: piggy
+1027. GUESS: hippy
+if ◻️🟩◻️🟩🟩, GO TO: 1028
+1028. GUESS: wimpy
+1029. GUESS: dizzy
+1030. GUESS: vivid
+1031. GUESS: jiffy
+1032. GUESS: ditty
+if ◻️🟩🟩🟩🟩, GO TO: 1033
+if ◻️🟩🟩◻️🟩, GO TO: 1036
+if ◻️🟩◻️🟩🟩, GO TO: 1037
+if ◻️🟩◻️🟩◻️, GO TO: 1038
+if 🟨🟩◻️🟩◻️, GO TO: 1039
+if 🟨🟩🟨◻️◻️, GO TO: 1040
+1033. GUESS: bitty
+if ◻️🟩🟩🟩🟩, GO TO: 1034
+1034. GUESS: kitty
+if ◻️🟩🟩🟩🟩, GO TO: 1035
+1035. GUESS: witty
+1036. GUESS: pithy
+1037. GUESS: fifty
+1038. GUESS: fifth
+1039. GUESS: width
+1040. GUESS: timid
+1041. GUESS: input
+if 🟨🟩◻️🟨🟩, GO TO: 1042
+if 🟨🟨◻️◻️🟩, GO TO: 1043
+1042. GUESS: unfit
+1043. GUESS: night
+1044. GUESS: dampy
+if 🟩◻️◻️◻️🟩, GO TO: 1045
+if ◻️◻️◻️◻️🟩, GO TO: 1046
+if ◻️◻️◻️◻️◻️, GO TO: 1047
+if ◻️◻️◻️🟨🟩, GO TO: 1048
+if ◻️◻️◻️🟨◻️, GO TO: 1049
+if ◻️◻️🟨◻️◻️, GO TO: 1050
+if 🟨◻️◻️◻️🟩, GO TO: 1051
+if 🟨◻️◻️◻️◻️, GO TO: 1052
+1045. GUESS: dingy
+1046. GUESS: kinky
+1047. GUESS: fungi
+1048. GUESS: pinky
+1049. GUESS: unzip
+1050. GUESS: minim
+1051. GUESS: windy
+1052. GUESS: undid
+1053. GUESS: minty
+if ◻️🟩🟩🟩◻️, GO TO: 1054
+1054. GUESS: ninth
+1055. GUESS: lying
+1056. GUESS: built
+if ◻️🟩🟩🟩🟩, GO TO: 1057
+1057. GUESS: guilt
+if ◻️🟩🟩🟩🟩, GO TO: 1058
+1058. GUESS: quilt
+1059. GUESS: build
+if ◻️🟩🟩🟩🟩, GO TO: 1060
+if ◻️🟩🟩🟩◻️, GO TO: 1061
+1060. GUESS: guild
+1061. GUESS: quill
+1062. GUESS: badly
+if 🟩◻️◻️🟩🟩, GO TO: 1063
+if 🟩◻️◻️🟨🟩, GO TO: 1064
+if ◻️◻️◻️🟩🟩, GO TO: 1065
+if ◻️◻️◻️🟨🟩, GO TO: 1067
+if ◻️◻️◻️🟨🟨, GO TO: 1069
+if ◻️◻️🟨🟩🟩, GO TO: 1070
+1063. GUESS: bully
+1064. GUESS: bulky
+1065. GUESS: fully
+if ◻️🟩🟩🟩🟩, GO TO: 1066
+1066. GUESS: gully
+1067. GUESS: lumpy
+if 🟨🟩◻️🟩🟩, GO TO: 1068
+1068. GUESS: pulpy
+1069. GUESS: lymph
+1070. GUESS: dully
+1071. GUESS: light
+if 🟩🟩◻️◻️🟩, GO TO: 1072
+1072. GUESS: limit
+1073. GUESS: dampy
+if 🟩◻️🟩◻️🟩, GO TO: 1074
+if 🟩◻️◻️◻️🟩, GO TO: 1075
+if ◻️◻️◻️◻️🟩, GO TO: 1076
+if ◻️◻️◻️◻️◻️, GO TO: 1081
+if ◻️◻️◻️🟨◻️, GO TO: 1082
+if ◻️◻️🟨◻️🟩, GO TO: 1083
+if ◻️◻️🟨🟨🟩, GO TO: 1085
+if 🟨◻️◻️◻️◻️, GO TO: 1086
+if 🟨◻️◻️◻️🟨, GO TO: 1087
+if 🟨◻️◻️🟨◻️, GO TO: 1088
+1074. GUESS: dimly
+1075. GUESS: dilly
+1076. GUESS: fowth
+if 🟩◻️◻️◻️◻️, GO TO: 1077
+if ◻️◻️◻️◻️◻️, GO TO: 1078
+if ◻️◻️◻️◻️🟨, GO TO: 1079
+if ◻️◻️🟨◻️◻️, GO TO: 1080
+1077. GUESS: filly
+1078. GUESS: billy
+1079. GUESS: hilly
+1080. GUESS: willy
+1081. GUESS: vigil
+1082. GUESS: pupil
+1083. GUESS: filmy
+if ◻️🟩🟩🟨🟩, GO TO: 1084
+1084. GUESS: milky
+1085. GUESS: imply
+1086. GUESS: livid
+1087. GUESS: idyll
+1088. GUESS: lipid
+1089. GUESS: filth
+if ◻️🟨🟩🟨◻️, GO TO: 1090
+1090. GUESS: tulip
+1091. GUESS: unlit
+1092. GUESS: vinyl
+1093. GUESS: until
+1094. GUESS: flick
+1095. GUESS: pluck
+1096. GUESS: icing
+1097. GUESS: juicy
+if ◻️🟩🟩🟩◻️, GO TO: 1098
+if ◻️◻️🟩🟩◻️, GO TO: 1099
+1098. GUESS: quick
+1099. GUESS: which
+1100. GUESS: thick
+1101. GUESS: duchy
+if ◻️🟩🟩◻️🟩, GO TO: 1102
+1102. GUESS: mucky
+1103. GUESS: butch
+if ◻️🟩🟩🟩🟩, GO TO: 1104
+1104. GUESS: dutch
+if ◻️🟩🟩🟩🟩, GO TO: 1105
+1105. GUESS: hutch
+1106. GUESS: uncut
+1107. GUESS: abamp
+if ◻️◻️◻️◻️◻️, GO TO: 1108
+if ◻️◻️◻️◻️🟨, GO TO: 1109
+if ◻️◻️◻️🟨◻️, GO TO: 1110
+if ◻️🟨◻️◻️◻️, GO TO: 1111
+1108. GUESS: hunch
+1109. GUESS: punch
+1110. GUESS: munch
+1111. GUESS: bunch
+1112. GUESS: mimic
+if ◻️🟩◻️◻️🟨, GO TO: 1113
+if ◻️◻️◻️🟩🟩, GO TO: 1114
+1113. GUESS: picky
+1114. GUESS: pubic
+1115. GUESS: howdy
+if 🟩◻️◻️◻️◻️, GO TO: 1116
+if 🟨◻️◻️◻️🟩, GO TO: 1117
+if 🟨◻️◻️◻️◻️, GO TO: 1118
+if 🟨◻️◻️🟨◻️, GO TO: 1119
+if 🟨◻️🟨◻️◻️, GO TO: 1120
+1116. GUESS: hitch
+1117. GUESS: itchy
+1118. GUESS: pitch
+1119. GUESS: ditch
+1120. GUESS: witch
+1121. GUESS: finch
+if ◻️🟩🟩🟩🟩, GO TO: 1122
+1122. GUESS: pinch
+if ◻️🟩🟩🟩🟩, GO TO: 1123
+1123. GUESS: winch
+1124. GUESS: tunic
+1125. GUESS: icily
+1126. GUESS: gulch
+if ◻️🟩🟩🟩🟩, GO TO: 1127
+if ◻️🟩🟨🟨◻️, GO TO: 1128
+1127. GUESS: mulch
+1128. GUESS: lucky
+1129. GUESS: lunch
+if 🟩◻️🟩🟩🟩, GO TO: 1130
+1130. GUESS: lynch
+1131. GUESS: lucid
+1132. GUESS: denet
+if 🟩🟩🟩◻️◻️, GO TO: 1133
+if 🟩🟩◻️◻️🟩, GO TO: 1134
+if 🟩🟩◻️◻️◻️, GO TO: 1136
+if 🟩🟩◻️◻️🟨, GO TO: 1138
+if 🟩🟩🟨◻️◻️, GO TO: 1140
+if 🟩◻️◻️🟩🟩, GO TO: 1141
+if 🟩◻️◻️🟩◻️, GO TO: 1142
+if 🟩🟨◻️◻️🟩, GO TO: 1143
+if 🟩🟨◻️◻️◻️, GO TO: 1144
+if ◻️🟩🟩🟩🟩, GO TO: 1145
+if ◻️🟩🟩◻️◻️, GO TO: 1146
+if ◻️🟩🟩◻️🟨, GO TO: 1149
+if ◻️🟩◻️🟩🟩, GO TO: 1150
+if ◻️🟩◻️🟩◻️, GO TO: 1151
+if ◻️🟩◻️🟩🟨, GO TO: 1155
+if ◻️🟩◻️◻️🟩, GO TO: 1156
+if ◻️🟩◻️◻️◻️, GO TO: 1157
+if ◻️🟩◻️◻️🟨, GO TO: 1164
+if ◻️🟩◻️🟨◻️, GO TO: 1170
+if ◻️🟩◻️🟨🟨, GO TO: 1174
+if ◻️🟩🟨◻️◻️, GO TO: 1175
+if ◻️◻️🟩🟩◻️, GO TO: 1181
+if ◻️◻️◻️🟩🟩, GO TO: 1183
+if ◻️◻️◻️🟩◻️, GO TO: 1185
+if ◻️◻️◻️🟩🟨, GO TO: 1190
+if ◻️◻️🟨🟩🟩, GO TO: 1191
+if ◻️◻️🟨🟩◻️, GO TO: 1193
+if ◻️🟨🟩◻️◻️, GO TO: 1199
+if ◻️🟨◻️🟩🟩, GO TO: 1200
+if ◻️🟨◻️🟩◻️, GO TO: 1202
+if ◻️🟨◻️◻️🟩, GO TO: 1207
+if ◻️🟨◻️◻️◻️, GO TO: 1212
+if ◻️🟨◻️◻️🟨, GO TO: 1217
+if ◻️🟨◻️🟨🟩, GO TO: 1220
+if ◻️🟨◻️🟨◻️, GO TO: 1222
+if ◻️🟨🟨🟩◻️, GO TO: 1223
+if ◻️🟨🟨◻️🟩, GO TO: 1225
+if ◻️🟨🟨◻️◻️, GO TO: 1227
+if ◻️🟨🟨🟨🟩, GO TO: 1230
+if ◻️🟨🟨🟨◻️, GO TO: 1231
+if 🟨🟩◻️◻️◻️, GO TO: 1232
+if 🟨🟩◻️◻️🟨, GO TO: 1233
+if 🟨🟩◻️🟨◻️, GO TO: 1236
+if 🟨🟩🟨🟨◻️, GO TO: 1237
+if 🟨◻️◻️🟩◻️, GO TO: 1238
+if 🟨◻️🟨🟩◻️, GO TO: 1240
+if 🟨🟨◻️🟩◻️, GO TO: 1244
+if 🟨🟨◻️🟩🟨, GO TO: 1246
+if 🟨🟨◻️◻️🟩, GO TO: 1247
+if 🟨🟨◻️◻️◻️, GO TO: 1248
+if 🟨🟨🟨🟩◻️, GO TO: 1252
+if 🟨🟨🟨◻️◻️, GO TO: 1253
+1133. GUESS: denim
+1134. GUESS: debit
+if 🟩🟩🟩◻️🟩, GO TO: 1135
+1135. GUESS: debut
+1136. GUESS: debug
+if 🟩🟩◻️◻️◻️, GO TO: 1137
+1137. GUESS: devil
+1138. GUESS: deity
+if 🟩🟩◻️🟩◻️, GO TO: 1139
+1139. GUESS: depth
+1140. GUESS: deign
+1141. GUESS: duvet
+1142. GUESS: dicey
+1143. GUESS: dwelt
+1144. GUESS: dwell
+1145. GUESS: tenet
+1146. GUESS: bench
+if ◻️🟩🟩🟩🟩, GO TO: 1147
+if ◻️🟩🟩◻️◻️, GO TO: 1148
+1147. GUESS: wench
+1148. GUESS: penny
+1149. GUESS: tenth
+1150. GUESS: beget
+1151. GUESS: bevel
+if 🟩🟩◻️🟩🟩, GO TO: 1152
+if ◻️🟩🟩🟩🟩, GO TO: 1153
+if ◻️🟩◻️🟩🟩, GO TO: 1154
+1152. GUESS: bezel
+1153. GUESS: level
+1154. GUESS: jewel
+1155. GUESS: betel
+1156. GUESS: befit
+1157. GUESS: belch
+if 🟩🟩🟩◻️◻️, GO TO: 1158
+if ◻️🟩🟩🟩🟩, GO TO: 1159
+if ◻️🟩🟩◻️◻️, GO TO: 1160
+if ◻️🟩🟩◻️🟨, GO TO: 1161
+if ◻️🟩◻️◻️🟩, GO TO: 1162
+if ◻️🟩🟨◻️◻️, GO TO: 1163
+1158. GUESS: belly
+1159. GUESS: welch
+1160. GUESS: jelly
+1161. GUESS: helix
+1162. GUESS: weigh
+1163. GUESS: leggy
+1164. GUESS: aleph
+if ◻️◻️🟨◻️🟩, GO TO: 1165
+if ◻️◻️🟨◻️◻️, GO TO: 1166
+if ◻️◻️🟨◻️🟨, GO TO: 1167
+if ◻️◻️🟨🟨◻️, GO TO: 1168
+if ◻️🟨🟨◻️◻️, GO TO: 1169
+1165. GUESS: fetch
+1166. GUESS: jetty
+1167. GUESS: hefty
+1168. GUESS: petty
+1169. GUESS: lefty
+1170. GUESS: beech
+if 🟩🟩🟩◻️◻️, GO TO: 1171
+if ◻️🟩🟩🟩🟩, GO TO: 1172
+if ◻️🟩🟩◻️◻️, GO TO: 1173
+1171. GUESS: beefy
+1172. GUESS: leech
+1173. GUESS: geeky
+1174. GUESS: teeth
+1175. GUESS: begin
+if 🟩🟩🟩◻️🟩, GO TO: 1176
+if 🟩🟩🟨🟨🟨, GO TO: 1177
+if ◻️🟩◻️◻️🟨, GO TO: 1178
+if ◻️🟩🟨🟨🟩, GO TO: 1179
+if ◻️🟩🟨🟨🟨, GO TO: 1180
+1176. GUESS: begun
+1177. GUESS: being
+1178. GUESS: newly
+1179. GUESS: feign
+1180. GUESS: neigh
+1181. GUESS: linen
+if ◻️🟩🟩🟩◻️, GO TO: 1182
+1182. GUESS: piney
+1183. GUESS: filet
+if ◻️🟨◻️🟩🟩, GO TO: 1184
+1184. GUESS: quiet
+1185. GUESS: bicep
+if ◻️🟩◻️🟩🟨, GO TO: 1186
+if ◻️🟨◻️🟩🟨, GO TO: 1187
+if ◻️🟨🟨🟩◻️, GO TO: 1188
+if 🟨🟩◻️🟩◻️, GO TO: 1189
+1186. GUESS: pixel
+1187. GUESS: impel
+1188. GUESS: chief
+1189. GUESS: libel
+1190. GUESS: thief
+1191. GUESS: inlet
+if ◻️🟩◻️🟩🟩, GO TO: 1192
+1192. GUESS: unmet
+1193. GUESS: agila
+if ◻️◻️◻️◻️◻️, GO TO: 1194
+if ◻️◻️◻️🟨◻️, GO TO: 1195
+if ◻️◻️🟨◻️◻️, GO TO: 1196
+if ◻️◻️🟨🟨◻️, GO TO: 1197
+if ◻️🟨🟨◻️◻️, GO TO: 1198
+1194. GUESS: hymen
+1195. GUESS: lumen
+1196. GUESS: vixen
+1197. GUESS: liken
+1198. GUESS: given
+1199. GUESS: ennui
+1200. GUESS: fleet
+if ◻️◻️🟩🟩🟩, GO TO: 1201
+1201. GUESS: tweet
+1202. GUESS: bleep
+if ◻️◻️🟩🟩◻️, GO TO: 1203
+if ◻️🟨🟩🟩◻️, GO TO: 1204
+if ◻️🟨🟨🟩◻️, GO TO: 1205
+if ◻️🟨🟨🟩🟨, GO TO: 1206
+1203. GUESS: cheek
+1204. GUESS: wheel
+1205. GUESS: excel
+1206. GUESS: expel
+1207. GUESS: cleft
+if ◻️◻️🟩🟩🟩, GO TO: 1208
+if ◻️◻️🟨◻️🟩, GO TO: 1209
+if ◻️🟨🟨◻️🟩, GO TO: 1210
+if 🟨◻️🟨◻️🟩, GO TO: 1211
+1208. GUESS: theft
+1209. GUESS: eight
+1210. GUESS: exult
+1211. GUESS: evict
+1212. GUESS: check
+if ◻️🟩🟩◻️◻️, GO TO: 1213
+if ◻️◻️🟩🟩🟩, GO TO: 1214
+if ◻️◻️🟩◻️◻️, GO TO: 1215
+if ◻️◻️🟨◻️◻️, GO TO: 1216
+1213. GUESS: whelp
+1214. GUESS: fleck
+1215. GUESS: quell
+1216. GUESS: equip
+1217. GUESS: empty
+if 🟩◻️◻️🟨◻️, GO TO: 1218
+if 🟨◻️🟨🟩🟩, GO TO: 1219
+1218. GUESS: ethic
+1219. GUESS: piety
+1220. GUESS: eject
+if 🟩◻️🟩🟩🟩, GO TO: 1221
+1221. GUESS: elect
+1222. GUESS: elegy
+1223. GUESS: kneel
+if ◻️🟨🟩🟩◻️, GO TO: 1224
+1224. GUESS: queen
+1225. GUESS: inept
+if ◻️🟩🟩◻️🟩, GO TO: 1226
+1226. GUESS: knelt
+1227. GUESS: eking
+if 🟩◻️🟩🟩🟩, GO TO: 1228
+if 🟩◻️🟨🟨◻️, GO TO: 1229
+1228. GUESS: eying
+1229. GUESS: elfin
+1230. GUESS: event
+1231. GUESS: enemy
+1232. GUESS: medic
+1233. GUESS: fetid
+if ◻️🟩🟨🟩🟩, GO TO: 1234
+if ◻️🟩🟨◻️🟨, GO TO: 1235
+1234. GUESS: tepid
+1235. GUESS: teddy
+1236. GUESS: weedy
+1237. GUESS: needy
+1238. GUESS: clued
+if ◻️🟩◻️🟩🟩, GO TO: 1239
+1239. GUESS: plied
+1240. GUESS: unfed
+if 🟩🟩◻️🟩🟩, GO TO: 1241
+if ◻️🟩◻️🟩🟨, GO TO: 1242
+if ◻️🟨◻️🟩🟨, GO TO: 1243
+1241. GUESS: unwed
+1242. GUESS: index
+1243. GUESS: widen
+1244. GUESS: bleed
+if 🟨◻️🟨🟩🟩, GO TO: 1245
+1245. GUESS: embed
+1246. GUESS: tweed
+1247. GUESS: edict
+1248. GUESS: edify
+if 🟨🟨🟨◻️◻️, GO TO: 1249
+if 🟨🟨🟨◻️🟨, GO TO: 1250
+if 🟨🟨🟨🟨◻️, GO TO: 1251
+1249. GUESS: wield
+1250. GUESS: yield
+1251. GUESS: field
+1252. GUESS: kneed
+1253. GUESS: blend
+if ◻️◻️🟩🟩🟩, GO TO: 1254
+1254. GUESS: fiend
+1255. GUESS: pudic
+if 🟩🟩◻️◻️◻️, GO TO: 1256
+if 🟩◻️◻️🟨◻️, GO TO: 1258
+if 🟩◻️◻️🟨🟨, GO TO: 1260
+if 🟩◻️🟨🟨◻️, GO TO: 1261
+if 🟩🟨◻️◻️◻️, GO TO: 1262
+if 🟩🟨🟨◻️◻️, GO TO: 1263
+if ◻️🟩◻️◻️🟨, GO TO: 1264
+if ◻️◻️🟩🟨◻️, GO TO: 1265
+if ◻️◻️◻️🟩◻️, GO TO: 1266
+if ◻️◻️◻️◻️◻️, GO TO: 1267
+if ◻️◻️◻️◻️🟨, GO TO: 1273
+if ◻️◻️◻️🟨◻️, GO TO: 1274
+if ◻️◻️◻️🟨🟨, GO TO: 1281
+if ◻️◻️🟨🟨◻️, GO TO: 1283
+if ◻️🟨◻️◻️◻️, GO TO: 1286
+if ◻️🟨◻️◻️🟨, GO TO: 1288
+if ◻️🟨◻️🟨◻️, GO TO: 1289
+if ◻️🟨🟨◻️🟨, GO TO: 1290
+if 🟨🟩◻️◻️◻️, GO TO: 1291
+if 🟨◻️◻️◻️🟨, GO TO: 1292
+if 🟨◻️◻️🟨◻️, GO TO: 1293
+1256. GUESS: puree
+if 🟩🟩🟩◻️🟩, GO TO: 1257
+1257. GUESS: purge
+1258. GUESS: prime
+if 🟩🟩🟩◻️🟩, GO TO: 1259
+1259. GUESS: prize
+1260. GUESS: price
+1261. GUESS: pride
+1262. GUESS: prune
+1263. GUESS: prude
+1264. GUESS: curve
+1265. GUESS: ridge
+1266. GUESS: eerie
+1267. GUESS: nerve
+if ◻️🟩🟩🟩🟩, GO TO: 1268
+if ◻️🟩🟩◻️🟩, GO TO: 1269
+if ◻️🟩🟩🟨🟩, GO TO: 1270
+if ◻️◻️🟨◻️🟩, GO TO: 1271
+if ◻️🟨🟩◻️🟩, GO TO: 1272
+1268. GUESS: verve
+1269. GUESS: merge
+1270. GUESS: verge
+1271. GUESS: rhyme
+1272. GUESS: three
+1273. GUESS: creme
+1274. GUESS: tribe
+if 🟩🟩🟩◻️🟩, GO TO: 1275
+if ◻️🟩🟩🟩🟩, GO TO: 1276
+if ◻️🟩🟩◻️🟩, GO TO: 1277
+if ◻️🟩🟩🟨🟩, GO TO: 1278
+if ◻️🟨🟨◻️🟩, GO TO: 1279
+if 🟨🟩🟩◻️🟩, GO TO: 1280
+1275. GUESS: trite
+1276. GUESS: bribe
+1277. GUESS: grime
+1278. GUESS: brine
+1279. GUESS: rifle
+1280. GUESS: write
+1281. GUESS: crime
+if 🟨🟩🟩◻️🟩, GO TO: 1282
+1282. GUESS: trice
+1283. GUESS: bride
+if ◻️🟩🟩🟨🟩, GO TO: 1284
+if ◻️🟨🟨🟨🟩, GO TO: 1285
+1284. GUESS: drive
+1285. GUESS: dirge
+1286. GUESS: brute
+if ◻️🟨🟨◻️🟩, GO TO: 1287
+1287. GUESS: revue
+1288. GUESS: truce
+1289. GUESS: urine
+1290. GUESS: crude
+1291. GUESS: rupee
+1292. GUESS: crepe
+1293. GUESS: gripe
+if ◻️🟩🟩🟩🟩, GO TO: 1294
+1294. GUESS: tripe
+1295. GUESS: glint
+if 🟩◻️🟩🟩◻️, GO TO: 1296
+if 🟩◻️🟩◻️◻️, GO TO: 1297
+if 🟩◻️◻️🟩🟩, GO TO: 1298
+if 🟩◻️◻️◻️◻️, GO TO: 1299
+if 🟩◻️🟨◻️🟨, GO TO: 1300
+if 🟩🟨🟩◻️◻️, GO TO: 1301
+if 🟩🟨🟨◻️◻️, GO TO: 1302
+if ◻️◻️🟩🟩🟩, GO TO: 1303
+if ◻️◻️🟩🟩◻️, GO TO: 1304
+if ◻️◻️🟩◻️🟩, GO TO: 1307
+if ◻️◻️🟩◻️◻️, GO TO: 1308
+if ◻️◻️🟩◻️🟨, GO TO: 1313
+if ◻️◻️◻️🟩🟩, GO TO: 1315
+if ◻️◻️◻️🟩◻️, GO TO: 1317
+if ◻️◻️◻️🟩🟨, GO TO: 1318
+if ◻️◻️◻️◻️🟩, GO TO: 1319
+if ◻️◻️◻️◻️◻️, GO TO: 1320
+if ◻️◻️◻️◻️🟨, GO TO: 1325
+if ◻️◻️🟨◻️🟩, GO TO: 1329
+if ◻️◻️🟨◻️◻️, GO TO: 1330
+if ◻️◻️🟨◻️🟨, GO TO: 1332
+if ◻️◻️🟨🟨◻️, GO TO: 1335
+if ◻️🟨🟩◻️◻️, GO TO: 1336
+if ◻️🟨◻️◻️◻️, GO TO: 1339
+if ◻️🟨◻️◻️🟨, GO TO: 1345
+if ◻️🟨🟨◻️◻️, GO TO: 1346
+if 🟨◻️🟩🟩◻️, GO TO: 1348
+if 🟨◻️◻️🟩◻️, GO TO: 1350
+if 🟨◻️◻️◻️◻️, GO TO: 1351
+if 🟨◻️🟨◻️🟩, GO TO: 1352
+if 🟨◻️🟨◻️◻️, GO TO: 1353
+1296. GUESS: grind
+1297. GUESS: grimy
+1298. GUESS: grunt
+1299. GUESS: gruff
+1300. GUESS: girth
+1301. GUESS: grill
+1302. GUESS: girly
+1303. GUESS: print
+1304. GUESS: brink
+if 🟩🟩🟩🟩◻️, GO TO: 1305
+if ◻️🟩🟩🟩🟩, GO TO: 1306
+1305. GUESS: briny
+1306. GUESS: drink
+1307. GUESS: drift
+1308. GUESS: crimp
+if 🟩🟩🟩◻️◻️, GO TO: 1309
+if ◻️🟩🟩◻️🟨, GO TO: 1310
+if 🟨🟩🟩◻️◻️, GO TO: 1311
+if 🟨🟩🟩◻️🟨, GO TO: 1312
+1309. GUESS: crick
+1310. GUESS: privy
+1311. GUESS: brick
+1312. GUESS: prick
+1313. GUESS: fritz
+if ◻️🟩🟩🟨◻️, GO TO: 1314
+1314. GUESS: trick
+1315. GUESS: brunt
+if 🟩🟨🟨🟩🟩, GO TO: 1316
+1316. GUESS: burnt
+1317. GUESS: drunk
+1318. GUESS: trunk
+1319. GUESS: crypt
+1320. GUESS: crumb
+if 🟩🟩🟩🟩◻️, GO TO: 1321
+if 🟩🟨🟨◻️◻️, GO TO: 1322
+if ◻️🟨🟨◻️◻️, GO TO: 1323
+if ◻️🟨🟨🟨◻️, GO TO: 1324
+1321. GUESS: crump
+1322. GUESS: curvy
+1323. GUESS: ruddy
+1324. GUESS: murky
+1325. GUESS: thrum
+if 🟩◻️🟨🟨◻️, GO TO: 1326
+if 🟩◻️🟨🟨🟨, GO TO: 1327
+if 🟩🟨🟨🟨◻️, GO TO: 1328
+1326. GUESS: truck
+1327. GUESS: trump
+1328. GUESS: truth
+1329. GUESS: fruit
+1330. GUESS: birch
+if ◻️🟨🟨◻️◻️, GO TO: 1331
+1331. GUESS: druid
+1332. GUESS: birth
+if ◻️🟩🟩🟩🟩, GO TO: 1333
+if ◻️🟩🟩🟩◻️, GO TO: 1334
+1333. GUESS: mirth
+1334. GUESS: dirty
+1335. GUESS: incur
+1336. GUESS: drill
+if ◻️🟩🟩🟩🟩, GO TO: 1337
+1337. GUESS: frill
+if ◻️🟩🟩🟩🟩, GO TO: 1338
+1338. GUESS: krill
+1339. GUESS: bardy
+if 🟩◻️🟩◻️🟩, GO TO: 1340
+if ◻️◻️🟩◻️🟩, GO TO: 1341
+if ◻️◻️🟩◻️◻️, GO TO: 1342
+if ◻️◻️🟨◻️🟩, GO TO: 1343
+if ◻️◻️🟨🟨🟩, GO TO: 1344
+1340. GUESS: burly
+1341. GUESS: curly
+1342. GUESS: lurch
+1343. GUESS: wryly
+1344. GUESS: dryly
+1345. GUESS: truly
+1346. GUESS: lurid
+if 🟩◻️🟩🟩◻️, GO TO: 1347
+1347. GUESS: lyric
+1348. GUESS: bring
+if ◻️🟩🟩🟩🟩, GO TO: 1349
+1349. GUESS: wring
+1350. GUESS: wrung
+1351. GUESS: rugby
+1352. GUESS: right
+1353. GUESS: rigid
+1354. GUESS: direr
+if 🟩🟩◻️🟩🟩, GO TO: 1355
+if 🟩◻️🟩🟨◻️, GO TO: 1357
+if 🟩◻️◻️🟩🟩, GO TO: 1358
+if 🟩◻️◻️🟨🟩, GO TO: 1360
+if 🟩◻️🟨🟩🟩, GO TO: 1361
+if 🟩🟨🟨🟩🟩, GO TO: 1362
+if 🟩🟨🟨🟩◻️, GO TO: 1363
+if ◻️🟩◻️🟩🟩, GO TO: 1364
+if ◻️🟩🟨🟩🟩, GO TO: 1378
+if ◻️🟩🟨🟩◻️, GO TO: 1380
+if ◻️◻️🟩🟩🟩, GO TO: 1382
+if ◻️◻️🟩🟩◻️, GO TO: 1383
+if ◻️◻️🟩🟨◻️, GO TO: 1386
+if ◻️◻️🟩🟨🟨, GO TO: 1391
+if ◻️◻️◻️🟩🟩, GO TO: 1392
+if ◻️◻️◻️🟨🟩, GO TO: 1414
+if ◻️◻️🟨🟩🟩, GO TO: 1416
+if ◻️◻️🟨🟩◻️, GO TO: 1420
+if ◻️◻️🟨🟨🟩, GO TO: 1432
+if ◻️◻️🟨🟨◻️, GO TO: 1433
+if ◻️🟨🟩🟨◻️, GO TO: 1441
+if ◻️🟨◻️🟩🟩, GO TO: 1443
+if ◻️🟨◻️🟨🟩, GO TO: 1449
+if ◻️🟨🟨🟩🟩, GO TO: 1450
+if ◻️🟨🟨🟩◻️, GO TO: 1451
+if ◻️🟨🟨🟨◻️, GO TO: 1453
+if 🟨🟩◻️🟩🟩, GO TO: 1457
+if 🟨🟩🟨🟩🟩, GO TO: 1459
+if 🟨◻️🟩🟨◻️, GO TO: 1460
+if 🟨◻️◻️🟩🟩, GO TO: 1461
+if 🟨◻️🟨🟩🟩, GO TO: 1464
+if 🟨◻️🟨🟩◻️, GO TO: 1465
+if 🟨◻️🟨🟨◻️, GO TO: 1470
+if 🟨🟨◻️🟩🟩, GO TO: 1472
+if 🟨🟨🟨🟩◻️, GO TO: 1473
+1355. GUESS: diner
+if 🟩🟩◻️🟩🟩, GO TO: 1356
+1356. GUESS: diver
+1357. GUESS: derby
+1358. GUESS: defer
+if 🟩🟩◻️🟩🟩, GO TO: 1359
+1359. GUESS: deter
+1360. GUESS: demur
+1361. GUESS: dryer
+1362. GUESS: drier
+1363. GUESS: dried
+1364. GUESS: fling
+if 🟩◻️🟨◻️◻️, GO TO: 1365
+if 🟩◻️🟨🟨◻️, GO TO: 1367
+if 🟩🟨🟨◻️◻️, GO TO: 1368
+if ◻️◻️🟨◻️◻️, GO TO: 1369
+if ◻️◻️🟨◻️🟨, GO TO: 1372
+if ◻️◻️🟨🟨◻️, GO TO: 1374
+if ◻️🟨🟨◻️◻️, GO TO: 1376
+if ◻️🟨🟨🟨◻️, GO TO: 1377
+1365. GUESS: fiber
+if 🟩🟩◻️🟩🟩, GO TO: 1366
+1366. GUESS: fixer
+1367. GUESS: finer
+1368. GUESS: filer
+1369. GUESS: piper
+if ◻️🟩🟩🟩🟩, GO TO: 1370
+if ◻️🟩◻️🟩🟩, GO TO: 1371
+1370. GUESS: viper
+1371. GUESS: timer
+1372. GUESS: giver
+if 🟨🟩◻️🟩🟩, GO TO: 1373
+1373. GUESS: tiger
+1374. GUESS: miner
+if ◻️🟩🟨🟩🟩, GO TO: 1375
+1375. GUESS: nicer
+1376. GUESS: liver
+1377. GUESS: liner
+1378. GUESS: riper
+if 🟩🟩◻️🟩🟩, GO TO: 1379
+1379. GUESS: river
+1380. GUESS: ripen
+if 🟩🟩◻️🟩◻️, GO TO: 1381
+1381. GUESS: rivet
+1382. GUESS: purer
+1383. GUESS: beret
+if ◻️◻️🟩🟩🟨, GO TO: 1384
+if ◻️🟨🟩🟩🟩, GO TO: 1385
+1384. GUESS: threw
+1385. GUESS: egret
+1386. GUESS: perch
+if 🟩🟩🟩◻️◻️, GO TO: 1387
+if ◻️🟩🟩🟩◻️, GO TO: 1388
+if ◻️🟩🟩◻️🟩, GO TO: 1389
+if ◻️🟩🟩◻️◻️, GO TO: 1390
+1387. GUESS: perky
+1388. GUESS: mercy
+1389. GUESS: berth
+1390. GUESS: jerky
+1391. GUESS: rerun
+1392. GUESS: butyl
+if 🟩🟩◻️🟨◻️, GO TO: 1393
+if 🟩🟨◻️◻️🟨, GO TO: 1394
+if ◻️🟩◻️◻️◻️, GO TO: 1395
+if ◻️◻️🟩◻️◻️, GO TO: 1396
+if ◻️◻️◻️◻️◻️, GO TO: 1398
+if ◻️◻️◻️◻️🟨, GO TO: 1403
+if ◻️◻️◻️🟨◻️, GO TO: 1405
+if ◻️◻️◻️🟨🟨, GO TO: 1406
+if ◻️◻️🟨◻️◻️, GO TO: 1407
+if ◻️🟨🟩◻️◻️, GO TO: 1408
+if ◻️🟨◻️◻️◻️, GO TO: 1409
+if ◻️🟨◻️◻️🟨, GO TO: 1410
+if 🟨🟩🟨◻️◻️, GO TO: 1411
+if 🟨◻️◻️◻️◻️, GO TO: 1412
+if 🟨◻️◻️🟨◻️, GO TO: 1413
+1393. GUESS: buyer
+1394. GUESS: bluer
+1395. GUESS: queer
+1396. GUESS: enter
+if 🟨◻️🟩🟩🟩, GO TO: 1397
+1397. GUESS: meter
+1398. GUESS: fever
+if 🟩🟩◻️🟩🟩, GO TO: 1399
+if ◻️🟩🟩🟩🟩, GO TO: 1400
+if ◻️🟩◻️🟩🟩, GO TO: 1401
+if ◻️🟨◻️🟩🟩, GO TO: 1402
+1399. GUESS: fewer
+1400. GUESS: never
+1401. GUESS: newer
+1402. GUESS: cheer
+1403. GUESS: leper
+if 🟩🟩◻️🟩🟩, GO TO: 1404
+1404. GUESS: lever
+1405. GUESS: hyper
+1406. GUESS: flyer
+1407. GUESS: ether
+1408. GUESS: utter
+1409. GUESS: upper
+1410. GUESS: ulcer
+1411. GUESS: tuber
+1412. GUESS: ember
+1413. GUESS: cyber
+1414. GUESS: femur
+if ◻️🟩🟩🟩🟩, GO TO: 1415
+1415. GUESS: lemur
+1416. GUESS: freer
+if ◻️🟩◻️🟩🟩, GO TO: 1417
+if ◻️🟨◻️🟩🟩, GO TO: 1418
+if 🟨🟨🟨🟩🟩, GO TO: 1419
+1417. GUESS: truer
+1418. GUESS: ruler
+1419. GUESS: refer
+1420. GUESS: pence
+if 🟩🟨🟨◻️🟨, GO TO: 1421
+if ◻️🟩🟩◻️🟨, GO TO: 1422
+if ◻️🟩◻️◻️🟨, GO TO: 1423
+if ◻️🟨◻️◻️◻️, GO TO: 1425
+if ◻️🟨◻️◻️🟨, GO TO: 1426
+if ◻️🟨◻️🟨◻️, GO TO: 1427
+if ◻️🟨◻️🟨🟨, GO TO: 1428
+if ◻️🟨🟨◻️🟨, GO TO: 1429
+if 🟨🟩◻️◻️🟨, GO TO: 1430
+if 🟨🟨◻️🟨🟨, GO TO: 1431
+1421. GUESS: preen
+1422. GUESS: renew
+1423. GUESS: rebel
+if 🟩🟩◻️🟩🟩, GO TO: 1424
+1424. GUESS: revel
+1425. GUESS: gruel
+1426. GUESS: greet
+1427. GUESS: cruel
+1428. GUESS: creek
+1429. GUESS: green
+1430. GUESS: repel
+1431. GUESS: creep
+1432. GUESS: recur
+1433. GUESS: crept
+if ◻️🟩🟨🟩🟩, GO TO: 1434
+if ◻️🟨🟨◻️🟩, GO TO: 1435
+if ◻️🟨🟨🟨◻️, GO TO: 1436
+if 🟨🟩🟩◻️🟩, GO TO: 1437
+if 🟨🟩🟩◻️◻️, GO TO: 1438
+if 🟨🟨🟨◻️🟩, GO TO: 1439
+if 🟨🟨🟨◻️🟨, GO TO: 1440
+1434. GUESS: erupt
+1435. GUESS: rebut
+1436. GUESS: reply
+1437. GUESS: erect
+1438. GUESS: wreck
+1439. GUESS: recut
+1440. GUESS: retch
+1441. GUESS: merit
+if ◻️🟩🟩🟩◻️, GO TO: 1442
+1442. GUESS: peril
+1443. GUESS: aleft
+if ◻️🟩🟨◻️◻️, GO TO: 1444
+if ◻️🟩🟨🟨◻️, GO TO: 1445
+if ◻️◻️🟨◻️◻️, GO TO: 1446
+if ◻️◻️🟨◻️🟨, GO TO: 1447
+if ◻️◻️🟨🟨◻️, GO TO: 1448
+1444. GUESS: plier
+1445. GUESS: flier
+1446. GUESS: inner
+1447. GUESS: inter
+1448. GUESS: infer
+1449. GUESS: their
+1450. GUESS: crier
+1451. GUESS: brief
+if ◻️🟩🟩🟩🟩, GO TO: 1452
+1452. GUESS: grief
+1453. GUESS: refit
+if 🟩🟩◻️🟩🟩, GO TO: 1454
+if 🟩🟩◻️🟩◻️, GO TO: 1455
+if 🟩🟩◻️🟨◻️, GO TO: 1456
+1454. GUESS: remit
+1455. GUESS: relic
+1456. GUESS: reign
+1457. GUESS: cider
+if ◻️🟩🟩🟩🟩, GO TO: 1458
+1458. GUESS: wider
+1459. GUESS: rider
+1460. GUESS: nerdy
+1461. GUESS: elder
+if ◻️◻️🟩🟩🟩, GO TO: 1462
+1462. GUESS: udder
+if 🟩◻️🟩🟩🟩, GO TO: 1463
+1463. GUESS: under
+1464. GUESS: ruder
+1465. GUESS: befog
+if 🟩🟨◻️◻️◻️, GO TO: 1466
+if ◻️🟨◻️◻️◻️, GO TO: 1467
+if ◻️🟨◻️◻️🟨, GO TO: 1468
+if ◻️🟨🟨◻️◻️, GO TO: 1469
+1466. GUESS: breed
+1467. GUESS: creed
+1468. GUESS: greed
+1469. GUESS: freed
+1470. GUESS: reedy
+if 🟨◻️🟩🟨◻️, GO TO: 1471
+1471. GUESS: trend
+1472. GUESS: idler
+1473. GUESS: capot
+if 🟩◻️◻️◻️◻️, GO TO: 1474
+if ◻️◻️◻️◻️◻️, GO TO: 1475
+if ◻️◻️◻️◻️🟨, GO TO: 1476
+if ◻️◻️🟨◻️◻️, GO TO: 1477
+1474. GUESS: cried
+1475. GUESS: fried
+1476. GUESS: tried
+1477. GUESS: pried
+1478. GUESS: afire
+if 🟩◻️◻️🟩🟩, GO TO: 1479
+1479. GUESS: azure
+1480. GUESS: humic
+if 🟩◻️◻️◻️◻️, GO TO: 1481
+if 🟩◻️◻️🟨◻️, GO TO: 1482
+if ◻️◻️◻️◻️◻️, GO TO: 1483
+if ◻️◻️◻️◻️🟨, GO TO: 1485
+if ◻️◻️◻️🟨◻️, GO TO: 1486
+if ◻️◻️◻️🟨🟨, GO TO: 1488
+if ◻️◻️🟨◻️◻️, GO TO: 1489
+if ◻️🟨◻️◻️◻️, GO TO: 1490
+if ◻️🟨🟨◻️◻️, GO TO: 1491
+1481. GUESS: harry
+1482. GUESS: hairy
+1483. GUESS: angry
+if 🟨◻️◻️🟩🟩, GO TO: 1484
+1484. GUESS: parry
+1485. GUESS: carry
+1486. GUESS: dairy
+if ◻️🟩🟩🟩🟩, GO TO: 1487
+1487. GUESS: fairy
+1488. GUESS: cairn
+1489. GUESS: marry
+1490. GUESS: ultra
+1491. GUESS: umbra
+1492. GUESS: altar
+if 🟩🟩🟨◻️🟨, GO TO: 1493
+if 🟩◻️🟨◻️🟨, GO TO: 1494
+if 🟨◻️🟩◻️🟨, GO TO: 1495
+if 🟨◻️◻️◻️🟨, GO TO: 1496
+if 🟨◻️🟨◻️🟨, GO TO: 1497
+1493. GUESS: alert
+1494. GUESS: avert
+1495. GUESS: extra
+1496. GUESS: zebra
+1497. GUESS: terra
+1498. GUESS: gault
+if 🟩🟩🟩◻️◻️, GO TO: 1499
+if 🟩🟩◻️◻️◻️, GO TO: 1501
+if ◻️🟩🟩◻️◻️, GO TO: 1502
+if ◻️🟩🟩◻️🟨, GO TO: 1503
+if ◻️🟩◻️🟩◻️, GO TO: 1504
+if ◻️🟩◻️🟩🟨, GO TO: 1509
+if ◻️🟩◻️◻️◻️, GO TO: 1510
+if ◻️🟩◻️◻️🟨, GO TO: 1518
+if ◻️🟩◻️🟨◻️, GO TO: 1519
+if ◻️🟩◻️🟨🟨, GO TO: 1522
+if ◻️🟩🟨🟨◻️, GO TO: 1524
+if ◻️🟨🟩◻️🟨, GO TO: 1525
+if ◻️🟨◻️🟩◻️, GO TO: 1526
+if ◻️🟨◻️◻️◻️, GO TO: 1530
+if ◻️🟨◻️🟨◻️, GO TO: 1532
+if 🟨🟩◻️🟩◻️, GO TO: 1534
+if 🟨🟩◻️◻️◻️, GO TO: 1535
+if 🟨🟩🟨◻️◻️, GO TO: 1537
+if 🟨🟨◻️🟩◻️, GO TO: 1538
+if 🟨🟨◻️🟨◻️, GO TO: 1540
+1499. GUESS: gauge
+if 🟩🟩🟩◻️🟩, GO TO: 1500
+1500. GUESS: gauze
+1501. GUESS: gaffe
+1502. GUESS: mauve
+1503. GUESS: haute
+1504. GUESS: becap
+if ◻️🟨◻️🟨◻️, GO TO: 1505
+if ◻️🟨◻️🟨🟨, GO TO: 1506
+if 🟨🟨◻️🟨◻️, GO TO: 1507
+if 🟨🟨🟨🟨◻️, GO TO: 1508
+1505. GUESS: ladle
+1506. GUESS: maple
+1507. GUESS: fable
+1508. GUESS: cable
+1509. GUESS: table
+1510. GUESS: amnic
+if 🟨◻️🟩◻️🟨, GO TO: 1511
+if 🟨◻️◻️◻️◻️, GO TO: 1512
+if 🟨◻️◻️◻️🟨, GO TO: 1513
+if 🟨◻️◻️🟨◻️, GO TO: 1514
+if 🟨◻️🟨🟨◻️, GO TO: 1515
+if 🟨🟨◻️◻️◻️, GO TO: 1516
+if 🟨🟨◻️🟨◻️, GO TO: 1517
+1511. GUESS: dance
+1512. GUESS: payee
+1513. GUESS: cache
+1514. GUESS: waive
+1515. GUESS: naive
+1516. GUESS: maybe
+1517. GUESS: maize
+1518. GUESS: bathe
+1519. GUESS: halve
+if ◻️🟩🟩🟩🟩, GO TO: 1520
+if ◻️🟩🟨◻️🟩, GO TO: 1521
+1520. GUESS: valve
+1521. GUESS: lance
+1522. GUESS: lathe
+if 🟩🟩🟩◻️🟩, GO TO: 1523
+1523. GUESS: latte
+1524. GUESS: value
+1525. GUESS: acute
+1526. GUESS: ample
+if 🟩🟩◻️🟩🟩, GO TO: 1527
+if 🟩◻️🟩🟩🟩, GO TO: 1528
+if 🟩◻️◻️🟩🟩, GO TO: 1529
+1527. GUESS: amble
+1528. GUESS: apple
+1529. GUESS: ankle
+1530. GUESS: abide
+if 🟩◻️🟩◻️🟩, GO TO: 1531
+1531. GUESS: anime
+1532. GUESS: alike
+if 🟩🟩🟩◻️🟩, GO TO: 1533
+1533. GUESS: alive
+1534. GUESS: eagle
+1535. GUESS: badge
+if ◻️🟩◻️🟩🟩, GO TO: 1536
+1536. GUESS: mange
+1537. GUESS: vague
+1538. GUESS: agile
+if 🟩🟨◻️🟩🟩, GO TO: 1539
+1539. GUESS: angle
+1540. GUESS: algae
+1541. GUESS: clint
+if 🟩◻️🟩🟩◻️, GO TO: 1542
+if 🟩◻️◻️🟩◻️, GO TO: 1543
+if 🟩◻️◻️◻️🟩, GO TO: 1544
+if 🟩◻️◻️◻️◻️, GO TO: 1545
+if 🟩◻️◻️◻️🟨, GO TO: 1547
+if 🟩◻️◻️🟨◻️, GO TO: 1549
+if 🟩◻️🟨◻️🟨, GO TO: 1550
+if 🟩◻️🟨🟨◻️, GO TO: 1551
+if 🟩🟨◻️◻️◻️, GO TO: 1552
+if 🟩🟨◻️🟨◻️, GO TO: 1554
+if 🟩🟨🟨◻️◻️, GO TO: 1555
+if ◻️🟩🟩◻️◻️, GO TO: 1556
+if ◻️🟩🟩🟨◻️, GO TO: 1557
+if ◻️🟩◻️◻️◻️, GO TO: 1558
+if ◻️◻️🟩🟩🟩, GO TO: 1561
+if ◻️◻️🟩🟩◻️, GO TO: 1564
+if ◻️◻️🟩◻️🟨, GO TO: 1566
+if ◻️◻️🟩🟨◻️, GO TO: 1568
+if ◻️◻️◻️🟩🟩, GO TO: 1569
+if ◻️◻️◻️🟩◻️, GO TO: 1576
+if ◻️◻️◻️🟩🟨, GO TO: 1579
+if ◻️◻️◻️◻️🟩, GO TO: 1580
+if ◻️◻️◻️◻️◻️, GO TO: 1581
+if ◻️◻️◻️◻️🟨, GO TO: 1597
+if ◻️◻️◻️🟨◻️, GO TO: 1605
+if ◻️◻️◻️🟨🟨, GO TO: 1611
+if ◻️◻️🟨◻️🟩, GO TO: 1614
+if ◻️◻️🟨◻️◻️, GO TO: 1617
+if ◻️◻️🟨◻️🟨, GO TO: 1623
+if ◻️◻️🟨🟨◻️, GO TO: 1624
+if ◻️◻️🟨🟨🟨, GO TO: 1627
+if ◻️🟨🟩◻️◻️, GO TO: 1628
+if ◻️🟨◻️◻️🟩, GO TO: 1631
+if ◻️🟨◻️◻️◻️, GO TO: 1634
+if ◻️🟨◻️◻️🟨, GO TO: 1647
+if ◻️🟨◻️🟨◻️, GO TO: 1652
+if ◻️🟨◻️🟨🟨, GO TO: 1657
+if ◻️🟨🟨◻️◻️, GO TO: 1658
+if ◻️🟨🟨◻️🟨, GO TO: 1660
+if ◻️🟨🟨🟨◻️, GO TO: 1662
+if 🟨🟩🟩◻️◻️, GO TO: 1665
+if 🟨◻️◻️◻️🟩, GO TO: 1666
+if 🟨◻️◻️◻️◻️, GO TO: 1667
+if 🟨◻️◻️◻️🟨, GO TO: 1669
+if 🟨◻️◻️🟨◻️, GO TO: 1676
+if 🟨◻️🟨◻️🟩, GO TO: 1677
+if 🟨◻️🟨◻️◻️, GO TO: 1678
+if 🟨◻️🟨◻️🟨, GO TO: 1679
+if 🟨◻️🟨🟨◻️, GO TO: 1680
+if 🟨◻️🟨🟨🟨, GO TO: 1682
+if 🟨🟨◻️◻️🟨, GO TO: 1683
+if 🟨🟨🟨◻️◻️, GO TO: 1684
+1542. GUESS: china
+1543. GUESS: canny
+1544. GUESS: caput
+1545. GUESS: cabby
+if 🟩🟩◻️◻️🟩, GO TO: 1546
+1546. GUESS: caddy
+1547. GUESS: catch
+if 🟩🟩🟩◻️◻️, GO TO: 1548
+1548. GUESS: catty
+1549. GUESS: candy
+1550. GUESS: cacti
+1551. GUESS: cabin
+1552. GUESS: cabal
+if 🟩🟩◻️◻️🟨, GO TO: 1553
+1553. GUESS: caulk
+1554. GUESS: canal
+1555. GUESS: cavil
+1556. GUESS: alibi
+1557. GUESS: align
+1558. GUESS: album
+if 🟩🟩◻️◻️◻️, GO TO: 1559
+1559. GUESS: allay
+if 🟩🟩◻️🟨◻️, GO TO: 1560
+1560. GUESS: alpha
+1561. GUESS: faint
+if ◻️🟩🟩🟩🟩, GO TO: 1562
+1562. GUESS: paint
+if ◻️🟩🟩🟩🟩, GO TO: 1563
+1563. GUESS: taint
+1564. GUESS: aging
+if 🟩◻️🟩🟩🟩, GO TO: 1565
+1565. GUESS: aping
+1566. GUESS: amity
+if 🟨◻️🟩🟩◻️, GO TO: 1567
+1567. GUESS: faith
+1568. GUESS: avian
+1569. GUESS: dight
+if 🟩◻️◻️◻️🟩, GO TO: 1570
+if ◻️◻️◻️◻️🟩, GO TO: 1571
+if ◻️◻️◻️🟨🟩, GO TO: 1574
+if ◻️◻️🟨◻️🟩, GO TO: 1575
+1570. GUESS: daunt
+1571. GUESS: jaunt
+if ◻️🟩🟩🟩🟩, GO TO: 1572
+1572. GUESS: taunt
+if ◻️🟩🟩🟩🟩, GO TO: 1573
+1573. GUESS: vaunt
+1574. GUESS: haunt
+1575. GUESS: gaunt
+1576. GUESS: fanny
+if 🟩🟩◻️🟩◻️, GO TO: 1577
+if ◻️🟩🟩🟩🟩, GO TO: 1578
+1577. GUESS: fauna
+1578. GUESS: nanny
+1579. GUESS: tawny
+1580. GUESS: gamut
+1581. GUESS: midgy
+if 🟩◻️🟩◻️◻️, GO TO: 1582
+if 🟩◻️◻️◻️🟩, GO TO: 1583
+if 🟩◻️◻️◻️◻️, GO TO: 1584
+if 🟩◻️◻️🟨◻️, GO TO: 1585
+if ◻️◻️🟩◻️🟩, GO TO: 1586
+if ◻️◻️◻️🟩🟩, GO TO: 1588
+if ◻️◻️◻️◻️🟩, GO TO: 1589
+if ◻️◻️◻️◻️◻️, GO TO: 1591
+if ◻️◻️◻️◻️🟨, GO TO: 1592
+if ◻️◻️◻️🟨🟩, GO TO: 1593
+if ◻️◻️🟨◻️🟩, GO TO: 1594
+if ◻️◻️🟨🟨🟩, GO TO: 1595
+if 🟨◻️◻️🟨◻️, GO TO: 1596
+1582. GUESS: madam
+1583. GUESS: mammy
+1584. GUESS: mamma
+1585. GUESS: magma
+1586. GUESS: daddy
+if ◻️🟩🟩🟩🟩, GO TO: 1587
+1587. GUESS: paddy
+1588. GUESS: baggy
+1589. GUESS: happy
+if ◻️🟩◻️◻️🟩, GO TO: 1590
+1590. GUESS: jazzy
+1591. GUESS: kappa
+1592. GUESS: kayak
+1593. GUESS: gawky
+1594. GUESS: bawdy
+1595. GUESS: gaudy
+1596. GUESS: gamma
+1597. GUESS: baffy
+if 🟩🟩◻️◻️🟩, GO TO: 1598
+if ◻️🟩🟩🟩🟩, GO TO: 1599
+if ◻️🟩◻️◻️🟩, GO TO: 1600
+if ◻️🟩◻️◻️◻️, GO TO: 1602
+if ◻️🟩🟨◻️🟩, GO TO: 1603
+if 🟨🟩◻️◻️🟩, GO TO: 1604
+1598. GUESS: batty
+1599. GUESS: taffy
+1600. GUESS: patty
+if ◻️🟩🟩🟩🟩, GO TO: 1601
+1601. GUESS: tatty
+1602. GUESS: datum
+1603. GUESS: fatty
+1604. GUESS: tabby
+1605. GUESS: dandy
+if ◻️🟩🟩🟩🟩, GO TO: 1606
+if ◻️🟩🟩◻️🟩, GO TO: 1607
+if ◻️🟩🟩◻️◻️, GO TO: 1608
+if ◻️🟩🟨◻️◻️, GO TO: 1609
+if ◻️🟨🟨◻️◻️, GO TO: 1610
+1606. GUESS: handy
+1607. GUESS: mangy
+1608. GUESS: manga
+1609. GUESS: pagan
+1610. GUESS: human
+1611. GUESS: aunty
+if 🟨🟩🟩🟩◻️, GO TO: 1612
+if 🟨◻️🟩🟨🟩, GO TO: 1613
+1612. GUESS: junta
+1613. GUESS: tangy
+1614. GUESS: admit
+if 🟩🟨◻️🟩🟩, GO TO: 1615
+if 🟨◻️◻️🟩🟩, GO TO: 1616
+1615. GUESS: audit
+1616. GUESS: habit
+1617. GUESS: affix
+if 🟩◻️◻️🟩◻️, GO TO: 1618
+if 🟨◻️🟩🟩◻️, GO TO: 1619
+if 🟨◻️◻️🟩◻️, GO TO: 1620
+if 🟨◻️◻️🟩🟨, GO TO: 1621
+if 🟨◻️◻️🟨◻️, GO TO: 1622
+1618. GUESS: aphid
+1619. GUESS: mafia
+1620. GUESS: vapid
+1621. GUESS: maxim
+1622. GUESS: pizza
+1623. GUESS: tibia
+1624. GUESS: admin
+if 🟨◻️◻️🟨🟨, GO TO: 1625
+if 🟨◻️🟨🟩🟨, GO TO: 1626
+1625. GUESS: ninja
+1626. GUESS: mania
+1627. GUESS: titan
+1628. GUESS: axial
+if 🟨◻️🟩◻️🟨, GO TO: 1629
+1629. GUESS: daily
+if ◻️🟩🟩🟩🟩, GO TO: 1630
+1630. GUESS: gaily
+1631. GUESS: adult
+if 🟨◻️🟩🟩🟩, GO TO: 1632
+1632. GUESS: fault
+if ◻️🟩🟩🟩🟩, GO TO: 1633
+1633. GUESS: vault
+1634. GUESS: dampy
+if 🟩🟩◻️◻️🟩, GO TO: 1635
+if ◻️🟩◻️◻️🟩, GO TO: 1636
+if ◻️🟩◻️◻️◻️, GO TO: 1637
+if ◻️🟩◻️🟨◻️, GO TO: 1638
+if ◻️🟩🟨◻️🟩, GO TO: 1639
+if ◻️🟨◻️◻️◻️, GO TO: 1640
+if ◻️🟨◻️◻️🟨, GO TO: 1641
+if ◻️🟨◻️🟨🟩, GO TO: 1642
+if ◻️🟨◻️🟨◻️, GO TO: 1643
+if ◻️🟨🟨🟨🟩, GO TO: 1644
+if 🟨🟩◻️◻️🟩, GO TO: 1645
+if 🟨🟩🟨◻️🟩, GO TO: 1646
+1635. GUESS: dally
+1636. GUESS: gayly
+1637. GUESS: laugh
+1638. GUESS: papal
+1639. GUESS: balmy
+1640. GUESS: awful
+1641. GUESS: bylaw
+1642. GUESS: apply
+1643. GUESS: pupal
+1644. GUESS: amply
+1645. GUESS: badly
+1646. GUESS: madly
+1647. GUESS: tally
+if 🟩🟨🟨◻️◻️, GO TO: 1648
+if 🟨🟩🟩◻️◻️, GO TO: 1649
+if 🟨🟩🟨◻️◻️, GO TO: 1650
+if 🟨🟨◻️🟩🟩, GO TO: 1651
+1648. GUESS: tubal
+1649. GUESS: waltz
+1650. GUESS: fatal
+1651. GUESS: aptly
+1652. GUESS: lanky
+if 🟨🟩🟩◻️🟩, GO TO: 1653
+if 🟨🟩🟩◻️◻️, GO TO: 1654
+if 🟨🟩🟨◻️◻️, GO TO: 1655
+if 🟨🟨🟩◻️◻️, GO TO: 1656
+1653. GUESS: manly
+1654. GUESS: banal
+1655. GUESS: naval
+1656. GUESS: annul
+1657. GUESS: natal
+1658. GUESS: valid
+if 🟩🟨🟩🟨◻️, GO TO: 1659
+1659. GUESS: villa
+1660. GUESS: tidal
+if 🟨🟩◻️🟩🟩, GO TO: 1661
+1661. GUESS: vital
+1662. GUESS: anvil
+if 🟨🟩◻️🟨🟨, GO TO: 1663
+if 🟨🟨◻️🟨🟩, GO TO: 1664
+1663. GUESS: inlay
+1664. GUESS: final
+1665. GUESS: iliac
+1666. GUESS: yacht
+1667. GUESS: macaw
+if ◻️🟩🟩◻️🟨, GO TO: 1668
+1668. GUESS: wacky
+1669. GUESS: bumph
+if 🟩◻️◻️◻️🟩, GO TO: 1670
+if ◻️◻️◻️◻️🟩, GO TO: 1671
+if ◻️◻️◻️◻️◻️, GO TO: 1673
+if ◻️◻️◻️🟨🟩, GO TO: 1674
+if ◻️◻️🟨◻️🟩, GO TO: 1675
+1670. GUESS: batch
+1671. GUESS: hatch
+if ◻️🟩🟩🟩🟩, GO TO: 1672
+1672. GUESS: watch
+1673. GUESS: tacky
+1674. GUESS: patch
+1675. GUESS: match
+1676. GUESS: fancy
+1677. GUESS: tacit
+1678. GUESS: magic
+1679. GUESS: attic
+1680. GUESS: manic
+if ◻️🟩🟩🟩🟩, GO TO: 1681
+1681. GUESS: panic
+1682. GUESS: antic
+1683. GUESS: latch
+1684. GUESS: lilac
+1685. GUESS: canal
+if 🟩🟩◻️◻️🟩, GO TO: 1686
+if 🟩🟩◻️◻️◻️, GO TO: 1687
+if 🟩◻️◻️🟩◻️, GO TO: 1689
+if 🟩◻️◻️🟩🟨, GO TO: 1691
+if 🟩◻️🟨🟩🟨, GO TO: 1692
+if ◻️🟩🟩◻️🟩, GO TO: 1693
+if ◻️🟩◻️◻️🟩, GO TO: 1694
+if ◻️🟩◻️◻️◻️, GO TO: 1700
+if ◻️🟩◻️◻️🟨, GO TO: 1701
+if ◻️🟩🟨◻️🟩, GO TO: 1702
+if ◻️🟩🟨◻️◻️, GO TO: 1703
+if ◻️🟩🟨◻️🟨, GO TO: 1708
+if ◻️◻️🟩🟩🟩, GO TO: 1709
+if ◻️◻️◻️🟩🟩, GO TO: 1710
+if ◻️◻️◻️🟩◻️, GO TO: 1719
+if ◻️◻️◻️🟩🟨, GO TO: 1723
+if ◻️◻️🟨🟩◻️, GO TO: 1730
+if ◻️◻️🟨🟩🟨, GO TO: 1733
+if ◻️🟨🟩◻️◻️, GO TO: 1734
+if ◻️🟨🟩🟨◻️, GO TO: 1735
+if ◻️🟨◻️🟩◻️, GO TO: 1736
+if ◻️🟨◻️◻️◻️, GO TO: 1737
+if ◻️🟨◻️◻️🟨, GO TO: 1741
+if ◻️🟨🟨◻️🟩, GO TO: 1745
+if ◻️🟨🟨◻️◻️, GO TO: 1746
+if ◻️🟨🟨◻️🟨, GO TO: 1750
+if 🟨🟩◻️◻️◻️, GO TO: 1751
+if 🟨◻️◻️🟩🟩, GO TO: 1752
+if 🟨◻️◻️🟩◻️, GO TO: 1754
+if 🟨◻️◻️🟩🟨, GO TO: 1755
+if 🟨◻️🟨🟩◻️, GO TO: 1756
+if 🟨🟨◻️◻️◻️, GO TO: 1757
+1686. GUESS: camel
+1687. GUESS: cadet
+if 🟩🟩◻️🟩◻️, GO TO: 1688
+1688. GUESS: cagey
+1689. GUESS: cheap
+if 🟩🟩🟩🟩◻️, GO TO: 1690
+1690. GUESS: cheat
+1691. GUESS: cleat
+1692. GUESS: clean
+1693. GUESS: panel
+1694. GUESS: baghs
+if 🟩🟩🟩◻️◻️, GO TO: 1695
+if ◻️🟩◻️◻️◻️, GO TO: 1696
+if ◻️🟩◻️🟨◻️, GO TO: 1697
+if ◻️🟩🟨◻️◻️, GO TO: 1698
+if 🟨🟩◻️◻️◻️, GO TO: 1699
+1695. GUESS: bagel
+1696. GUESS: lapel
+1697. GUESS: hazel
+1698. GUESS: gavel
+1699. GUESS: label
+1700. GUESS: matey
+1701. GUESS: valet
+1702. GUESS: navel
+1703. GUESS: aitch
+if 🟨◻️🟩◻️◻️, GO TO: 1704
+if 🟨◻️◻️◻️◻️, GO TO: 1705
+if 🟨◻️◻️◻️🟨, GO TO: 1706
+if 🟨◻️🟨◻️◻️, GO TO: 1707
+1704. GUESS: eaten
+1705. GUESS: waxen
+1706. GUESS: haven
+1707. GUESS: taken
+1708. GUESS: laden
+1709. GUESS: penal
+1710. GUESS: dempt
+if ◻️🟩◻️◻️◻️, GO TO: 1711
+if ◻️🟩◻️◻️🟨, GO TO: 1712
+if ◻️🟩◻️🟨🟨, GO TO: 1713
+if ◻️🟩🟨◻️🟨, GO TO: 1714
+if ◻️🟨◻️◻️◻️, GO TO: 1715
+if 🟨🟩◻️🟨◻️, GO TO: 1716
+if 🟨🟩🟨◻️◻️, GO TO: 1717
+if 🟨🟨◻️◻️◻️, GO TO: 1718
+1711. GUESS: legal
+1712. GUESS: fetal
+1713. GUESS: petal
+1714. GUESS: metal
+1715. GUESS: equal
+1716. GUESS: pedal
+1717. GUESS: medal
+1718. GUESS: ideal
+1719. GUESS: begat
+if ◻️🟨◻️🟩🟩, GO TO: 1720
+if ◻️🟨◻️🟩🟨, GO TO: 1721
+if 🟨🟩◻️🟩◻️, GO TO: 1722
+1720. GUESS: wheat
+1721. GUESS: tweak
+1722. GUESS: kebab
+1723. GUESS: bated
+if 🟩🟨◻️🟨◻️, GO TO: 1724
+if 🟩🟨🟨🟨◻️, GO TO: 1725
+if ◻️🟨◻️🟨🟩, GO TO: 1726
+if ◻️🟨◻️🟨◻️, GO TO: 1727
+if ◻️🟨◻️🟨🟨, GO TO: 1728
+if ◻️🟨🟨🟨◻️, GO TO: 1729
+1724. GUESS: bleak
+1725. GUESS: bleat
+1726. GUESS: plead
+1727. GUESS: gleam
+1728. GUESS: delay
+1729. GUESS: pleat
+1730. GUESS: began
+if ◻️🟩🟩🟩🟩, GO TO: 1731
+if ◻️🟨◻️🟩🟨, GO TO: 1732
+1731. GUESS: vegan
+1732. GUESS: knead
+1733. GUESS: glean
+1734. GUESS: annex
+1735. GUESS: apnea
+1736. GUESS: ahead
+1737. GUESS: adept
+if 🟩◻️🟨◻️◻️, GO TO: 1738
+if 🟨◻️🟩◻️🟨, GO TO: 1739
+if 🟨🟨🟨◻️◻️, GO TO: 1740
+1738. GUESS: abbey
+1739. GUESS: theta
+1740. GUESS: media
+1741. GUESS: abled
+if 🟩◻️🟩🟩◻️, GO TO: 1742
+if 🟨◻️🟩🟨◻️, GO TO: 1743
+if 🟨◻️🟩🟨🟨, GO TO: 1744
+1742. GUESS: alley
+1743. GUESS: fella
+1744. GUESS: delta
+1745. GUESS: angel
+1746. GUESS: agent
+if 🟩◻️🟩🟩◻️, GO TO: 1747
+if 🟨◻️🟩🟩◻️, GO TO: 1748
+if 🟨◻️🟩🟨◻️, GO TO: 1749
+1747. GUESS: amend
+1748. GUESS: hyena
+1749. GUESS: enema
+1750. GUESS: alien
+1751. GUESS: facet
+1752. GUESS: decal
+if ◻️🟩🟩🟩🟩, GO TO: 1753
+1753. GUESS: fecal
+1754. GUESS: decay
+1755. GUESS: eclat
+1756. GUESS: pecan
+1757. GUESS: mecca
+1758. GUESS: barca
+if 🟩🟩🟩◻️◻️, GO TO: 1759
+if ◻️🟩🟩🟩◻️, GO TO: 1760
+if ◻️🟩🟩◻️◻️, GO TO: 1761
+if ◻️🟩🟩🟨◻️, GO TO: 1762
+if ◻️🟩🟨◻️◻️, GO TO: 1763
+if ◻️🟨🟩◻️◻️, GO TO: 1764
+if ◻️🟨🟨◻️◻️, GO TO: 1765
+1759. GUESS: barge
+1760. GUESS: farce
+1761. GUESS: large
+1762. GUESS: carve
+1763. GUESS: range
+1764. GUESS: agree
+1765. GUESS: argue
+1766. GUESS: riyal
+if 🟩🟩◻️🟩🟩, GO TO: 1767
+if 🟩◻️◻️🟩🟩, GO TO: 1768
+if 🟩◻️◻️🟩◻️, GO TO: 1769
+if 🟩◻️◻️🟨◻️, GO TO: 1771
+if 🟩◻️◻️🟨🟨, GO TO: 1773
+if 🟩◻️🟨🟨◻️, GO TO: 1774
+if 🟩◻️🟨🟨🟨, GO TO: 1776
+if 🟩🟨◻️🟨◻️, GO TO: 1777
+if 🟩🟨🟨🟨◻️, GO TO: 1781
+if 🟨🟩◻️🟩🟩, GO TO: 1782
+if 🟨🟩◻️🟩◻️, GO TO: 1783
+if 🟨🟩◻️🟨◻️, GO TO: 1785
+if 🟨◻️◻️🟩🟩, GO TO: 1786
+if 🟨◻️◻️🟩◻️, GO TO: 1787
+if 🟨◻️◻️🟩🟨, GO TO: 1789
+if 🟨◻️◻️🟨◻️, GO TO: 1791
+if 🟨◻️◻️🟨🟨, GO TO: 1795
+if 🟨◻️🟨🟩◻️, GO TO: 1796
+if 🟨◻️🟨🟨◻️, GO TO: 1797
+if 🟨🟨◻️🟩🟩, GO TO: 1802
+if 🟨🟨◻️🟩◻️, GO TO: 1803
+if 🟨🟨◻️🟨◻️, GO TO: 1806
+1767. GUESS: rival
+1768. GUESS: rural
+1769. GUESS: radar
+if 🟩🟩◻️🟩◻️, GO TO: 1770
+1770. GUESS: rajah
+1771. GUESS: ranch
+if 🟩🟨◻️◻️◻️, GO TO: 1772
+1772. GUESS: rumba
+1773. GUESS: ralph
+1774. GUESS: randy
+if 🟩🟩◻️◻️🟩, GO TO: 1775
+1775. GUESS: ratty
+1776. GUESS: rally
+1777. GUESS: rabbi
+if 🟩🟩🟩◻️🟨, GO TO: 1778
+if 🟩🟩◻️◻️🟩, GO TO: 1779
+if 🟩🟩◻️◻️🟨, GO TO: 1780
+1778. GUESS: rabid
+1779. GUESS: radii
+1780. GUESS: rapid
+1781. GUESS: rainy
+1782. GUESS: viral
+1783. GUESS: cigar
+if 🟨🟩◻️🟩🟩, GO TO: 1784
+1784. GUESS: vicar
+1785. GUESS: circa
+1786. GUESS: mural
+1787. GUESS: carat
+if ◻️◻️🟨🟩◻️, GO TO: 1788
+1788. GUESS: urban
+1789. GUESS: altar
+if ◻️🟨◻️🟩🟩, GO TO: 1790
+1790. GUESS: lunar
+1791. GUESS: karma
+if ◻️🟩🟩🟨◻️, GO TO: 1792
+if ◻️🟨🟨◻️◻️, GO TO: 1793
+if 🟨🟩🟩◻️🟩, GO TO: 1794
+1792. GUESS: march
+1793. GUESS: augur
+1794. GUESS: parka
+1795. GUESS: larva
+1796. GUESS: array
+1797. GUESS: party
+if ◻️🟩🟩🟩🟩, GO TO: 1798
+if ◻️🟩🟩◻️🟩, GO TO: 1799
+if ◻️🟩🟩🟨🟩, GO TO: 1800
+if 🟨🟩🟩◻️🟩, GO TO: 1801
+1798. GUESS: warty
+1799. GUESS: hardy
+1800. GUESS: tardy
+1801. GUESS: harpy
+1802. GUESS: trial
+1803. GUESS: briar
+if ◻️🟩🟩🟩🟩, GO TO: 1804
+if ◻️🟩🟩🟩◻️, GO TO: 1805
+1804. GUESS: friar
+1805. GUESS: triad
+1806. GUESS: acrid
+if 🟨◻️🟨🟩◻️, GO TO: 1807
+if 🟨◻️🟨🟩🟨, GO TO: 1808
+1807. GUESS: tapir
+1808. GUESS: nadir
+1809. GUESS: talar
+if 🟩🟩◻️◻️🟩, GO TO: 1810
+if 🟩◻️◻️🟩🟨, GO TO: 1813
+if ◻️🟩🟩◻️🟩, GO TO: 1815
+if ◻️🟩◻️◻️🟩, GO TO: 1817
+if ◻️🟩◻️◻️🟨, GO TO: 1834
+if ◻️🟩🟨◻️🟩, GO TO: 1837
+if ◻️🟩🟨◻️🟨, GO TO: 1839
+if ◻️◻️🟩🟩🟨, GO TO: 1840
+if ◻️◻️◻️🟩🟩, GO TO: 1842
+if ◻️◻️◻️🟩🟨, GO TO: 1845
+if ◻️◻️🟨🟩🟩, GO TO: 1857
+if ◻️◻️🟨🟩🟨, GO TO: 1858
+if ◻️🟨◻️◻️🟩, GO TO: 1861
+if ◻️🟨◻️🟨🟨, GO TO: 1864
+if 🟨🟩◻️◻️🟩, GO TO: 1865
+if 🟨🟩◻️◻️🟨, GO TO: 1870
+if 🟨🟩🟨◻️🟩, GO TO: 1871
+if 🟨◻️◻️🟩🟨, GO TO: 1872
+if 🟨🟨◻️◻️🟩, GO TO: 1873
+if 🟨🟨🟨◻️🟩, GO TO: 1874
+1810. GUESS: taker
+if 🟩🟩◻️🟩🟩, GO TO: 1811
+1811. GUESS: tamer
+if 🟩🟩◻️🟩🟩, GO TO: 1812
+1812. GUESS: taper
+1813. GUESS: tread
+if 🟩🟩🟩🟩◻️, GO TO: 1814
+1814. GUESS: treat
+1815. GUESS: baler
+if ◻️🟩🟩🟩🟩, GO TO: 1816
+1816. GUESS: paler
+1817. GUESS: pigmy
+if 🟩◻️◻️◻️◻️, GO TO: 1818
+if 🟩◻️◻️◻️🟨, GO TO: 1820
+if ◻️◻️🟩◻️◻️, GO TO: 1821
+if ◻️◻️◻️◻️◻️, GO TO: 1823
+if ◻️◻️◻️🟨◻️, GO TO: 1829
+if ◻️◻️🟨◻️◻️, GO TO: 1830
+if ◻️◻️🟨◻️🟨, GO TO: 1831
+if ◻️◻️🟨🟨◻️, GO TO: 1832
+if 🟨◻️◻️◻️◻️, GO TO: 1833
+1818. GUESS: paper
+if 🟩🟩◻️🟩🟩, GO TO: 1819
+1819. GUESS: parer
+1820. GUESS: payer
+1821. GUESS: eager
+if ◻️🟩🟩🟩🟩, GO TO: 1822
+1822. GUESS: wager
+1823. GUESS: arrow
+if 🟨🟨🟩◻️◻️, GO TO: 1824
+if 🟨🟨◻️◻️◻️, GO TO: 1825
+if 🟨🟨◻️◻️🟨, GO TO: 1826
+if 🟨🟨🟨◻️◻️, GO TO: 1828
+1824. GUESS: rarer
+1825. GUESS: baker
+1826. GUESS: wafer
+if 🟩🟩◻️🟩🟩, GO TO: 1827
+1827. GUESS: waver
+1828. GUESS: racer
+1829. GUESS: maker
+1830. GUESS: gazer
+1831. GUESS: gayer
+1832. GUESS: gamer
+1833. GUESS: caper
+1834. GUESS: harem
+if ◻️🟩🟨🟩◻️, GO TO: 1835
+if ◻️🟩🟨🟩🟨, GO TO: 1836
+1835. GUESS: raven
+1836. GUESS: ramen
+1837. GUESS: lager
+if 🟩🟩◻️🟩🟩, GO TO: 1838
+1838. GUESS: layer
+1839. GUESS: early
+1840. GUESS: relax
+if 🟩🟩🟩🟩◻️, GO TO: 1841
+1841. GUESS: relay
+1842. GUESS: cedar
+if ◻️🟩◻️🟩🟩, GO TO: 1843
+if ◻️🟩🟨🟩🟩, GO TO: 1844
+1843. GUESS: rebar
+1844. GUESS: debar
+1845. GUESS: becke
+if 🟩🟨◻️◻️◻️, GO TO: 1846
+if 🟩🟨◻️🟨◻️, GO TO: 1847
+if ◻️🟩🟩◻️◻️, GO TO: 1848
+if ◻️🟩◻️◻️◻️, GO TO: 1849
+if ◻️🟨◻️◻️◻️, GO TO: 1850
+if ◻️🟨◻️🟨◻️, GO TO: 1852
+if ◻️🟨🟨◻️◻️, GO TO: 1854
+if ◻️🟨🟨🟨◻️, GO TO: 1855
+if 🟨🟩◻️◻️◻️, GO TO: 1856
+1846. GUESS: bread
+1847. GUESS: break
+1848. GUESS: recap
+1849. GUESS: repay
+1850. GUESS: dread
+if 🟩🟩🟩🟩◻️, GO TO: 1851
+1851. GUESS: dream
+1852. GUESS: freak
+if ◻️🟩🟩🟩🟩, GO TO: 1853
+1853. GUESS: wreak
+1854. GUESS: cream
+1855. GUESS: creak
+1856. GUESS: rehab
+1857. GUESS: clear
+1858. GUESS: feral
+if ◻️🟩🟨🟩🟩, GO TO: 1859
+1859. GUESS: regal
+if 🟩🟩◻️🟩🟩, GO TO: 1860
+1860. GUESS: renal
+1861. GUESS: aider
+if 🟩◻️◻️🟩🟩, GO TO: 1862
+1862. GUESS: amber
+if 🟩◻️◻️🟩🟩, GO TO: 1863
+1863. GUESS: anger
+1864. GUESS: arena
+1865. GUESS: beech
+if ◻️🟨◻️◻️◻️, GO TO: 1866
+if ◻️🟨◻️◻️🟨, GO TO: 1867
+if ◻️🟨◻️🟨◻️, GO TO: 1868
+if ◻️🟨🟨◻️◻️, GO TO: 1869
+1866. GUESS: water
+1867. GUESS: hater
+1868. GUESS: cater
+1869. GUESS: eater
+1870. GUESS: earth
+1871. GUESS: later
+1872. GUESS: great
+1873. GUESS: after
+1874. GUESS: alter
+1875. GUESS: ovary
+1876. GUESS: ovate
+1877. GUESS: piano
+1878. GUESS: bravo
+1879. GUESS: chore
+if ◻️◻️🟨🟩🟩, GO TO: 1880
+1880. GUESS: ombre
+1881. GUESS: acidy
+if ◻️◻️◻️◻️🟩, GO TO: 1882
+if ◻️◻️◻️◻️◻️, GO TO: 1883
+if ◻️◻️◻️🟨◻️, GO TO: 1884
+if ◻️◻️◻️🟨🟨, GO TO: 1885
+if ◻️◻️🟨◻️🟩, GO TO: 1886
+if ◻️◻️🟨◻️◻️, GO TO: 1887
+if ◻️🟨◻️🟨◻️, GO TO: 1888
+if ◻️🟨🟨◻️◻️, GO TO: 1889
+1882. GUESS: glory
+1883. GUESS: thorn
+1884. GUESS: fjord
+1885. GUESS: hydro
+1886. GUESS: ivory
+1887. GUESS: intro
+1888. GUESS: chord
+1889. GUESS: micro
+1890. GUESS: metro
+if ◻️🟩🟩🟩🟩, GO TO: 1891
+if ◻️🟨🟨🟩🟨, GO TO: 1892
+1891. GUESS: retro
+1892. GUESS: overt
+1893. GUESS: bling
+if 🟩🟩◻️◻️◻️, GO TO: 1894
+if 🟩◻️🟨◻️◻️, GO TO: 1895
+if ◻️🟩🟩◻️◻️, GO TO: 1896
+if ◻️🟩◻️🟩◻️, GO TO: 1897
+if ◻️🟩◻️◻️◻️, GO TO: 1898
+if ◻️🟩◻️◻️🟨, GO TO: 1900
+if ◻️◻️🟩🟩◻️, GO TO: 1901
+if ◻️◻️🟩◻️◻️, GO TO: 1903
+if ◻️◻️◻️🟩◻️, GO TO: 1904
+if ◻️◻️◻️◻️◻️, GO TO: 1906
+if ◻️◻️◻️🟨◻️, GO TO: 1909
+if ◻️◻️◻️🟨🟨, GO TO: 1910
+if ◻️◻️🟨◻️◻️, GO TO: 1911
+if ◻️🟨◻️◻️◻️, GO TO: 1912
+if 🟨🟩◻️◻️🟨, GO TO: 1913
+1894. GUESS: bloke
+1895. GUESS: biome
+1896. GUESS: olive
+1897. GUESS: clone
+1898. GUESS: clove
+if ◻️🟩🟩◻️🟩, GO TO: 1899
+1899. GUESS: elope
+1900. GUESS: glove
+1901. GUESS: opine
+if 🟩◻️🟩🟩🟩, GO TO: 1902
+1902. GUESS: ovine
+1903. GUESS: oxide
+1904. GUESS: ozone
+if ◻️◻️🟩🟩🟩, GO TO: 1905
+1905. GUESS: phone
+1906. GUESS: choke
+if ◻️◻️🟩🟩🟩, GO TO: 1907
+if ◻️◻️🟩◻️🟩, GO TO: 1908
+1907. GUESS: evoke
+1908. GUESS: quote
+1909. GUESS: ounce
+1910. GUESS: gnome
+1911. GUESS: diode
+1912. GUESS: whole
+1913. GUESS: globe
+1914. GUESS: clint
+if 🟩🟩◻️◻️🟩, GO TO: 1915
+if 🟩🟩◻️◻️◻️, GO TO: 1916
+if 🟩🟩◻️◻️🟨, GO TO: 1918
+if 🟩🟩◻️🟨◻️, GO TO: 1919
+if 🟩◻️◻️◻️◻️, GO TO: 1920
+if ◻️🟩◻️🟩◻️, GO TO: 1921
+if ◻️🟩◻️◻️🟩, GO TO: 1922
+if ◻️🟩◻️◻️◻️, GO TO: 1923
+if ◻️🟩◻️🟨◻️, GO TO: 1927
+if ◻️◻️🟩🟩◻️, GO TO: 1929
+if ◻️◻️🟩◻️🟩, GO TO: 1930
+if ◻️◻️🟩◻️◻️, GO TO: 1931
+if ◻️◻️🟩🟨◻️, GO TO: 1933
+if ◻️◻️◻️🟩◻️, GO TO: 1935
+if ◻️◻️◻️🟩🟨, GO TO: 1936
+if ◻️◻️◻️◻️🟩, GO TO: 1937
+if ◻️◻️◻️◻️◻️, GO TO: 1938
+if ◻️◻️◻️◻️🟨, GO TO: 1942
+if ◻️◻️◻️🟨◻️, GO TO: 1946
+if ◻️◻️◻️🟨🟨, GO TO: 1947
+if ◻️◻️🟨◻️🟩, GO TO: 1948
+if ◻️◻️🟨◻️◻️, GO TO: 1950
+if ◻️◻️🟨◻️🟨, GO TO: 1953
+if ◻️◻️🟨🟨🟩, GO TO: 1954
+if ◻️◻️🟨🟨◻️, GO TO: 1955
+if ◻️◻️🟨🟨🟨, GO TO: 1958
+if ◻️🟨◻️◻️◻️, GO TO: 1959
+if ◻️🟨◻️🟨◻️, GO TO: 1961
+if ◻️🟨🟨◻️🟩, GO TO: 1963
+if ◻️🟨🟨◻️◻️, GO TO: 1964
+if ◻️🟨🟨🟨◻️, GO TO: 1966
+if 🟨🟩◻️◻️◻️, GO TO: 1967
+if 🟨◻️◻️🟨◻️, GO TO: 1969
+if 🟨◻️🟨◻️🟨, GO TO: 1970
+1915. GUESS: clout
+1916. GUESS: clock
+if 🟩🟩🟩◻️◻️, GO TO: 1917
+1917. GUESS: cloud
+1918. GUESS: cloth
+1919. GUESS: clown
+1920. GUESS: chock
+1921. GUESS: blond
+1922. GUESS: flout
+1923. GUESS: blood
+if 🟩🟩🟩🟩◻️, GO TO: 1924
+if ◻️🟩🟩🟩🟩, GO TO: 1925
+if ◻️🟩🟩🟩◻️, GO TO: 1926
+1924. GUESS: bloom
+1925. GUESS: flood
+1926. GUESS: gloom
+1927. GUESS: blown
+if ◻️🟩🟩🟩🟩, GO TO: 1928
+1928. GUESS: flown
+1929. GUESS: owing
+1930. GUESS: idiot
+1931. GUESS: idiom
+if ◻️◻️🟩🟨🟩, GO TO: 1932
+1932. GUESS: opium
+1933. GUESS: onion
+if ◻️🟩🟩🟩🟩, GO TO: 1934
+1934. GUESS: union
+1935. GUESS: phony
+1936. GUESS: thong
+1937. GUESS: ought
+1938. GUESS: gumbo
+if ◻️🟩🟩🟩🟩, GO TO: 1939
+if ◻️🟩🟨🟨🟨, GO TO: 1940
+if ◻️◻️◻️◻️🟨, GO TO: 1941
+1939. GUESS: jumbo
+1940. GUESS: buxom
+1941. GUESS: whoop
+1942. GUESS: outdo
+if 🟩🟩🟩◻️🟩, GO TO: 1943
+if 🟨🟩🟨◻️◻️, GO TO: 1944
+if 🟨◻️🟨◻️🟩, GO TO: 1945
+1943. GUESS: outgo
+1944. GUESS: quoth
+1945. GUESS: photo
+1946. GUESS: known
+1947. GUESS: junto
+1948. GUESS: bigot
+if ◻️🟩◻️🟩🟩, GO TO: 1949
+1949. GUESS: pivot
+1950. GUESS: hippo
+if ◻️🟩◻️◻️🟨, GO TO: 1951
+if ◻️🟨◻️◻️🟨, GO TO: 1952
+1951. GUESS: widow
+1952. GUESS: ovoid
+1953. GUESS: ditto
+1954. GUESS: ingot
+1955. GUESS: bingo
+if ◻️🟩🟩🟩🟩, GO TO: 1956
+if 🟨🟨🟨◻️🟨, GO TO: 1957
+1956. GUESS: dingo
+1957. GUESS: inbox
+1958. GUESS: pinto
+1959. GUESS: ghoul
+if ◻️◻️🟨◻️🟨, GO TO: 1960
+1960. GUESS: oddly
+1961. GUESS: knoll
+if ◻️🟨🟨🟨◻️, GO TO: 1962
+1962. GUESS: nylon
+1963. GUESS: pilot
+1964. GUESS: igloo
+if 🟨◻️🟨◻️🟩, GO TO: 1965
+1965. GUESS: limbo
+1966. GUESS: lingo
+1967. GUESS: block
+if ◻️🟩🟩🟩🟩, GO TO: 1968
+1968. GUESS: flock
+1969. GUESS: knock
+1970. GUESS: optic
+1971. GUESS: lento
+if 🟩🟩🟨◻️🟨, GO TO: 1972
+if ◻️🟩🟩◻️🟨, GO TO: 1973
+if ◻️🟩◻️◻️🟩, GO TO: 1974
+if ◻️🟩◻️◻️🟨, GO TO: 1975
+if ◻️🟩◻️🟨🟩, GO TO: 1976
+if ◻️🟩◻️🟨🟨, GO TO: 1977
+if ◻️🟩🟨◻️🟨, GO TO: 1979
+if ◻️🟨◻️◻️🟩, GO TO: 1980
+if ◻️🟨◻️◻️🟨, GO TO: 1981
+if ◻️🟨◻️🟨🟨, GO TO: 1983
+if ◻️🟨🟨◻️🟨, GO TO: 1984
+if ◻️🟨🟨🟨🟨, GO TO: 1988
+if 🟨🟩◻️◻️🟩, GO TO: 1989
+if 🟨🟩◻️◻️🟨, GO TO: 1991
+if 🟨🟩🟨◻️🟨, GO TO: 1992
+if 🟨🟨◻️◻️🟨, GO TO: 1994
+if 🟨🟨◻️🟨🟨, GO TO: 1995
+if 🟨🟨🟨◻️🟨, GO TO: 1996
+1972. GUESS: lemon
+1973. GUESS: venom
+1974. GUESS: gecko
+1975. GUESS: decoy
+1976. GUESS: tempo
+1977. GUESS: depot
+if 🟩🟩◻️🟩🟨, GO TO: 1978
+1978. GUESS: detox
+1979. GUESS: demon
+1980. GUESS: video
+1981. GUESS: epoch
+if 🟩🟩🟩◻️◻️, GO TO: 1982
+1982. GUESS: epoxy
+1983. GUESS: octet
+1984. GUESS: enjoy
+if 🟩🟩◻️🟩🟩, GO TO: 1985
+if 🟩🟩◻️🟩◻️, GO TO: 1986
+if 🟩🟨◻️🟨🟩, GO TO: 1987
+1985. GUESS: envoy
+1986. GUESS: endow
+1987. GUESS: ebony
+1988. GUESS: often
+1989. GUESS: cello
+if ◻️🟩🟩🟩🟩, GO TO: 1990
+1990. GUESS: hello
+1991. GUESS: below
+1992. GUESS: felon
+if ◻️🟩🟩🟩🟩, GO TO: 1993
+1993. GUESS: melon
+1994. GUESS: elbow
+1995. GUESS: extol
+1996. GUESS: olden
+1997. GUESS: pownd
+if 🟩🟨◻️🟩◻️, GO TO: 1998
+if 🟩🟨◻️◻️◻️, GO TO: 1999
+if ◻️🟨◻️🟩◻️, GO TO: 2001
+if ◻️🟨◻️🟩🟨, GO TO: 2002
+if ◻️🟨◻️◻️◻️, GO TO: 2003
+if ◻️🟨◻️◻️🟨, GO TO: 2008
+if ◻️🟨🟨◻️◻️, GO TO: 2010
+if 🟨🟨◻️◻️◻️, GO TO: 2011
+1998. GUESS: prone
+1999. GUESS: probe
+if 🟩🟩🟩◻️🟩, GO TO: 2000
+2000. GUESS: prove
+2001. GUESS: crone
+2002. GUESS: drone
+2003. GUESS: abaft
+if ◻️◻️◻️◻️◻️, GO TO: 2004
+if ◻️◻️◻️◻️🟨, GO TO: 2005
+if ◻️◻️◻️🟨◻️, GO TO: 2006
+if ◻️🟨◻️◻️◻️, GO TO: 2007
+2004. GUESS: grove
+2005. GUESS: trove
+2006. GUESS: froze
+2007. GUESS: broke
+2008. GUESS: drove
+if 🟨🟩🟩◻️🟩, GO TO: 2009
+2009. GUESS: erode
+2010. GUESS: wrote
+2011. GUESS: grope
+if ◻️🟩🟩🟩🟩, GO TO: 2012
+2012. GUESS: trope
+2013. GUESS: cutin
+if 🟩🟩◻️🟩◻️, GO TO: 2014
+if 🟩◻️◻️🟩◻️, GO TO: 2015
+if 🟩◻️◻️◻️🟩, GO TO: 2016
+if 🟩◻️◻️◻️◻️, GO TO: 2017
+if 🟩◻️◻️◻️🟨, GO TO: 2020
+if 🟩🟨◻️◻️◻️, GO TO: 2021
+if ◻️🟩🟩◻️◻️, GO TO: 2022
+if ◻️🟩◻️◻️◻️, GO TO: 2023
+if ◻️🟩🟨◻️◻️, GO TO: 2027
+if ◻️◻️◻️🟩🟩, GO TO: 2029
+if ◻️◻️◻️🟩◻️, GO TO: 2030
+if ◻️◻️◻️◻️🟩, GO TO: 2031
+if ◻️◻️◻️◻️◻️, GO TO: 2036
+if ◻️◻️◻️◻️🟨, GO TO: 2049
+if ◻️◻️◻️🟨◻️, GO TO: 2052
+if ◻️◻️◻️🟨🟨, GO TO: 2056
+if ◻️◻️🟨🟩◻️, GO TO: 2059
+if ◻️◻️🟨◻️◻️, GO TO: 2061
+if ◻️◻️🟨◻️🟨, GO TO: 2067
+if ◻️🟨◻️◻️◻️, GO TO: 2068
+if ◻️🟨🟨◻️◻️, GO TO: 2071
+if 🟨◻️◻️◻️◻️, GO TO: 2073
+if 🟨🟨◻️◻️◻️, GO TO: 2074
+2014. GUESS: curio
+2015. GUESS: choir
+2016. GUESS: crown
+2017. GUESS: crock
+if 🟩🟩🟩◻️🟩, GO TO: 2018
+if 🟩🟩🟩◻️◻️, GO TO: 2019
+2018. GUESS: crook
+2019. GUESS: crowd
+2020. GUESS: crony
+2021. GUESS: croup
+2022. GUESS: tutor
+2023. GUESS: furor
+if ◻️🟩🟩🟩🟩, GO TO: 2024
+if ◻️🟩◻️🟩🟩, GO TO: 2025
+if ◻️🟩🟨🟩🟩, GO TO: 2026
+2024. GUESS: juror
+2025. GUESS: humor
+2026. GUESS: rumor
+2027. GUESS: tumor
+if 🟩🟩◻️🟨🟨, GO TO: 2028
+2028. GUESS: turbo
+2029. GUESS: groin
+2030. GUESS: broil
+2031. GUESS: badge
+if 🟩◻️◻️◻️◻️, GO TO: 2032
+if ◻️◻️◻️◻️◻️, GO TO: 2033
+if ◻️◻️◻️🟨◻️, GO TO: 2034
+if ◻️◻️🟨◻️◻️, GO TO: 2035
+2032. GUESS: brown
+2033. GUESS: frown
+2034. GUESS: grown
+2035. GUESS: drown
+2036. GUESS: gloop
+if 🟩◻️🟩🟩◻️, GO TO: 2037
+if 🟩🟨🟩◻️◻️, GO TO: 2038
+if ◻️🟩🟩🟩◻️, GO TO: 2039
+if ◻️◻️🟩🟩🟩, GO TO: 2040
+if ◻️◻️🟩🟩◻️, GO TO: 2041
+if ◻️◻️🟩🟩🟨, GO TO: 2044
+if ◻️◻️🟩◻️🟨, GO TO: 2045
+if ◻️🟨🟩🟩◻️, GO TO: 2046
+if ◻️🟨🟩◻️◻️, GO TO: 2047
+if ◻️🟨🟩◻️🟨, GO TO: 2048
+2037. GUESS: groom
+2038. GUESS: growl
+2039. GUESS: floor
+2040. GUESS: droop
+2041. GUESS: brood
+if 🟩🟩🟩🟩◻️, GO TO: 2042
+2042. GUESS: brook
+if 🟩🟩🟩🟩◻️, GO TO: 2043
+2043. GUESS: broom
+2044. GUESS: proof
+2045. GUESS: proxy
+2046. GUESS: drool
+2047. GUESS: droll
+2048. GUESS: prowl
+2049. GUESS: frond
+if ◻️🟩🟩🟩◻️, GO TO: 2050
+2050. GUESS: prong
+if ◻️🟩🟩🟩🟩, GO TO: 2051
+2051. GUESS: wrong
+2052. GUESS: prior
+if 🟩🟩🟩🟨◻️, GO TO: 2053
+if ◻️◻️🟨🟩🟩, GO TO: 2054
+if ◻️🟨🟨🟩🟩, GO TO: 2055
+2053. GUESS: primo
+2054. GUESS: vigor
+2055. GUESS: rigor
+2056. GUESS: irony
+if 🟨🟨🟨🟩◻️, GO TO: 2057
+if 🟨🟨🟨🟨◻️, GO TO: 2058
+2057. GUESS: rhino
+2058. GUESS: minor
+2059. GUESS: droit
+if ◻️🟩🟨🟩🟩, GO TO: 2060
+2060. GUESS: orbit
+2061. GUESS: throb
+if 🟩🟩🟩🟩◻️, GO TO: 2062
+if 🟩◻️🟨🟩◻️, GO TO: 2063
+if 🟩◻️🟨🟨◻️, GO TO: 2064
+if 🟨🟨🟨🟨◻️, GO TO: 2065
+if 🟨🟨🟨🟨🟨, GO TO: 2066
+2062. GUESS: throw
+2063. GUESS: troop
+2064. GUESS: troll
+2065. GUESS: froth
+2066. GUESS: broth
+2067. GUESS: front
+2068. GUESS: flour
+if ◻️◻️🟩🟩🟨, GO TO: 2069
+2069. GUESS: group
+if ◻️🟩🟩🟩🟨, GO TO: 2070
+2070. GUESS: proud
+2071. GUESS: grout
+if ◻️🟩🟩🟩🟩, GO TO: 2072
+2072. GUESS: trout
+2073. GUESS: frock
+2074. GUESS: occur
+2075. GUESS: trued
+if 🟩🟨◻️🟨◻️, GO TO: 2076
+if ◻️🟩◻️🟩🟨, GO TO: 2077
+if ◻️🟩◻️🟨◻️, GO TO: 2078
+if ◻️🟩◻️🟨🟨, GO TO: 2079
+if ◻️🟨◻️🟩◻️, GO TO: 2080
+if ◻️🟨◻️🟩🟨, GO TO: 2082
+if ◻️🟨◻️🟨◻️, GO TO: 2084
+if ◻️🟨◻️🟨🟨, GO TO: 2085
+if 🟨🟨◻️🟩◻️, GO TO: 2086
+if 🟨🟨🟨🟩◻️, GO TO: 2088
+2076. GUESS: tenor
+2077. GUESS: order
+2078. GUESS: error
+2079. GUESS: credo
+2080. GUESS: offer
+if 🟩◻️◻️🟩🟩, GO TO: 2081
+2081. GUESS: owner
+2082. GUESS: odder
+if 🟩◻️🟩🟩🟩, GO TO: 2083
+2083. GUESS: older
+2084. GUESS: heron
+2085. GUESS: decor
+2086. GUESS: other
+if 🟩🟩◻️🟩🟩, GO TO: 2087
+2087. GUESS: otter
+2088. GUESS: outer
+2089. GUESS: adore
+2090. GUESS: abaca
+if 🟩🟩◻️◻️◻️, GO TO: 2091
+if 🟩◻️◻️◻️🟩, GO TO: 2092
+if 🟩◻️◻️◻️◻️, GO TO: 2093
+if 🟩◻️◻️🟨◻️, GO TO: 2094
+if ◻️◻️◻️◻️🟩, GO TO: 2095
+if 🟨◻️◻️🟨◻️, GO TO: 2096
+2091. GUESS: abort
+2092. GUESS: agora
+2093. GUESS: adorn
+2094. GUESS: acorn
+2095. GUESS: flora
+2096. GUESS: macro
+2097. GUESS: opera
+2098. GUESS: bundt
+if ◻️◻️🟩◻️◻️, GO TO: 2099
+if ◻️◻️◻️◻️◻️, GO TO: 2100
+if ◻️◻️🟨🟩◻️, GO TO: 2101
+if ◻️◻️🟨◻️◻️, GO TO: 2102
+if ◻️◻️🟨◻️🟨, GO TO: 2103
+if 🟨◻️◻️🟩◻️, GO TO: 2104
+if 🟨◻️◻️◻️◻️, GO TO: 2105
+if 🟨◻️◻️🟨◻️, GO TO: 2106
+2099. GUESS: canoe
+2100. GUESS: awoke
+2101. GUESS: anode
+2102. GUESS: alone
+2103. GUESS: atone
+2104. GUESS: abode
+2105. GUESS: above
+2106. GUESS: adobe
+2107. GUESS: cloot
+if 🟩🟩🟩◻️◻️, GO TO: 2108
+if 🟩◻️◻️🟩◻️, GO TO: 2109
+if 🟩◻️🟨◻️◻️, GO TO: 2110
+if ◻️🟩🟩🟩◻️, GO TO: 2111
+if ◻️🟩🟩◻️🟩, GO TO: 2112
+if ◻️🟩🟩◻️◻️, GO TO: 2117
+if ◻️🟩◻️🟩🟩, GO TO: 2119
+if ◻️🟩◻️🟩◻️, GO TO: 2120
+if ◻️◻️🟩🟩🟩, GO TO: 2122
+if ◻️◻️🟩◻️🟩, GO TO: 2123
+if ◻️◻️🟩◻️◻️, GO TO: 2125
+if ◻️◻️🟩◻️🟨, GO TO: 2128
+if ◻️◻️◻️🟩🟩, GO TO: 2129
+if ◻️◻️◻️🟩◻️, GO TO: 2130
+if ◻️◻️◻️🟩🟨, GO TO: 2135
+if ◻️◻️🟨🟩🟨, GO TO: 2136
+if ◻️◻️🟨◻️◻️, GO TO: 2137
+if ◻️◻️🟨◻️🟨, GO TO: 2141
+if ◻️🟨🟩◻️◻️, GO TO: 2143
+if ◻️🟨🟩◻️🟨, GO TO: 2145
+if ◻️🟨◻️🟩◻️, GO TO: 2146
+if ◻️🟨◻️🟩🟨, GO TO: 2147
+if ◻️🟨🟨◻️◻️, GO TO: 2148
+if 🟨◻️◻️🟩◻️, GO TO: 2149
+if 🟨◻️🟨◻️◻️, GO TO: 2151
+if 🟨🟨🟨◻️🟨, GO TO: 2152
+2108. GUESS: cloak
+2109. GUESS: canon
+2110. GUESS: cacao
+2111. GUESS: aloof
+2112. GUESS: abaft
+if 🟩◻️◻️🟩🟩, GO TO: 2113
+if 🟨◻️◻️◻️🟩, GO TO: 2114
+if 🟨◻️◻️🟨🟩, GO TO: 2115
+if 🟨🟨◻️◻️🟩, GO TO: 2116
+2113. GUESS: aloft
+2114. GUESS: gloat
+2115. GUESS: float
+2116. GUESS: bloat
+2117. GUESS: along
+if 🟩🟩🟩◻️◻️, GO TO: 2118
+2118. GUESS: aloud
+2119. GUESS: allot
+2120. GUESS: allow
+if 🟩🟩🟩🟩◻️, GO TO: 2121
+2121. GUESS: alloy
+2122. GUESS: afoot
+2123. GUESS: about
+if 🟩◻️🟩◻️🟩, GO TO: 2124
+2124. GUESS: adopt
+2125. GUESS: agony
+if 🟩◻️🟩◻️◻️, GO TO: 2126
+if 🟩🟨🟩🟩◻️, GO TO: 2127
+2126. GUESS: avoid
+2127. GUESS: among
+2128. GUESS: quota
+2129. GUESS: abbot
+2130. GUESS: annoy
+if 🟩◻️◻️🟩◻️, GO TO: 2131
+if 🟩🟨◻️🟩◻️, GO TO: 2132
+if 🟨◻️◻️🟩🟨, GO TO: 2133
+if 🟨🟨◻️🟩◻️, GO TO: 2134
+2131. GUESS: axiom
+2132. GUESS: axion
+2133. GUESS: bayou
+2134. GUESS: wagon
+2135. GUESS: baton
+2136. GUESS: taboo
+2137. GUESS: banjo
+if ◻️🟩🟩◻️🟩, GO TO: 2138
+if ◻️🟨◻️◻️🟩, GO TO: 2139
+if 🟨🟩◻️◻️🟩, GO TO: 2140
+2138. GUESS: mango
+2139. GUESS: audio
+2140. GUESS: mambo
+2141. GUESS: patio
+if ◻️🟩🟨◻️🟩, GO TO: 2142
+2142. GUESS: tango
+2143. GUESS: afoul
+if 🟨◻️🟩◻️🟨, GO TO: 2144
+2144. GUESS: viola
+2145. GUESS: atoll
+2146. GUESS: aglow
+2147. GUESS: talon
+2148. GUESS: offal
+2149. GUESS: bacon
+if ◻️🟩🟨🟩◻️, GO TO: 2150
+2150. GUESS: havoc
+2151. GUESS: macho
+2152. GUESS: octal
+2153. GUESS: cameo
+if ◻️🟩◻️🟩🟨, GO TO: 2154
+if ◻️🟨🟨🟨🟨, GO TO: 2155
+if 🟨🟨◻️🟨🟨, GO TO: 2156
+2154. GUESS: oaken
+2155. GUESS: omega
+2156. GUESS: ocean
+2157. GUESS: maron
+if 🟩🟩🟨🟩◻️, GO TO: 2158
+if 🟩🟩🟨🟩🟨, GO TO: 2160
+if ◻️🟩🟩🟩🟩, GO TO: 2161
+if ◻️🟩🟩🟩◻️, GO TO: 2162
+if ◻️🟩🟩🟨◻️, GO TO: 2164
+if ◻️🟩🟨🟩🟩, GO TO: 2165
+if ◻️🟩🟨🟩◻️, GO TO: 2166
+if ◻️🟩🟨🟨◻️, GO TO: 2171
+if ◻️🟨🟩🟩🟩, GO TO: 2173
+if ◻️🟨🟩🟩◻️, GO TO: 2174
+if ◻️🟨🟨🟩◻️, GO TO: 2175
+if ◻️🟨🟨🟨🟩, GO TO: 2179
+if ◻️🟨🟨🟨◻️, GO TO: 2181
+if 🟨🟨🟨🟩◻️, GO TO: 2183
+if 🟨🟨🟨🟨◻️, GO TO: 2184
+2158. GUESS: major
+if 🟩🟩◻️🟩🟩, GO TO: 2159
+2159. GUESS: mayor
+2160. GUESS: manor
+2161. GUESS: baron
+2162. GUESS: carol
+if ◻️🟩🟩🟩◻️, GO TO: 2163
+2163. GUESS: tarot
+2164. GUESS: cargo
+2165. GUESS: rayon
+2166. GUESS: valor
+if 🟩🟩◻️🟩🟩, GO TO: 2167
+if ◻️🟩◻️🟩🟩, GO TO: 2168
+if ◻️🟩🟨🟩🟩, GO TO: 2169
+if 🟨🟩◻️🟩🟩, GO TO: 2170
+2167. GUESS: vapor
+2168. GUESS: razor
+2169. GUESS: labor
+2170. GUESS: favor
+2171. GUESS: radio
+if 🟩🟩◻️🟩🟩, GO TO: 2172
+2172. GUESS: ratio
+2173. GUESS: apron
+2174. GUESS: arrow
+2175. GUESS: arbor
+if 🟩🟩◻️🟩🟩, GO TO: 2176
+if 🟩◻️◻️🟩🟩, GO TO: 2177
+if 🟩◻️🟨🟩🟩, GO TO: 2178
+2176. GUESS: ardor
+2177. GUESS: actor
+2178. GUESS: abhor
+2179. GUESS: groan
+if 🟨🟩🟨🟩🟩, GO TO: 2180
+2180. GUESS: organ
+2181. GUESS: broad
+if ◻️🟩🟩🟩◻️, GO TO: 2182
+2182. GUESS: croak
+2183. GUESS: armor
+2184. GUESS: aroma
+2185. GUESS: boast
+if ◻️🟩🟩🟩🟩, GO TO: 2186
+2186. GUESS: coast
+if ◻️🟩🟩🟩🟩, GO TO: 2187
+2187. GUESS: toast
+2188. GUESS: roast
+2189. GUESS: pilum
+if 🟩◻️◻️◻️◻️, GO TO: 2190
+if 🟩🟨◻️◻️◻️, GO TO: 2191
+if ◻️◻️◻️◻️◻️, GO TO: 2192
+if ◻️◻️◻️◻️🟨, GO TO: 2194
+if ◻️◻️◻️🟨◻️, GO TO: 2195
+if ◻️◻️◻️🟨🟨, GO TO: 2196
+if ◻️◻️🟨◻️◻️, GO TO: 2197
+if ◻️◻️🟨🟨◻️, GO TO: 2198
+if ◻️🟨◻️◻️◻️, GO TO: 2199
+if 🟨◻️◻️◻️◻️, GO TO: 2200
+2190. GUESS: posse
+2191. GUESS: poise
+2192. GUESS: goose
+if ◻️🟩🟩🟩🟩, GO TO: 2193
+2193. GUESS: noose
+2194. GUESS: moose
+2195. GUESS: house
+2196. GUESS: mouse
+2197. GUESS: loose
+2198. GUESS: louse
+2199. GUESS: noise
+2200. GUESS: copse
+2201. GUESS: fubsy
+if 🟩◻️◻️🟩◻️, GO TO: 2202
+if 🟩🟨◻️🟨◻️, GO TO: 2203
+if ◻️◻️◻️🟩🟩, GO TO: 2204
+if ◻️◻️◻️🟩◻️, GO TO: 2206
+if ◻️◻️◻️🟨◻️, GO TO: 2209
+if ◻️◻️🟨🟩🟩, GO TO: 2210
+if ◻️◻️🟨🟩◻️, GO TO: 2211
+if ◻️◻️🟨🟨◻️, GO TO: 2212
+if ◻️🟨◻️🟩🟩, GO TO: 2213
+if ◻️🟨◻️🟩◻️, GO TO: 2214
+if ◻️🟨◻️🟨◻️, GO TO: 2215
+if ◻️🟨🟨🟨◻️, GO TO: 2216
+2202. GUESS: foist
+2203. GUESS: focus
+2204. GUESS: mossy
+if ◻️🟩◻️🟩🟩, GO TO: 2205
+2205. GUESS: noisy
+2206. GUESS: hoist
+if ◻️🟩🟩🟩🟩, GO TO: 2207
+2207. GUESS: joist
+if ◻️🟩🟩🟩🟩, GO TO: 2208
+2208. GUESS: moist
+2209. GUESS: posit
+2210. GUESS: bossy
+2211. GUESS: boost
+2212. GUESS: bosom
+2213. GUESS: lousy
+2214. GUESS: joust
+2215. GUESS: locus
+2216. GUESS: bonus
+2217. GUESS: nosey
+if ◻️🟩🟨🟨🟩, GO TO: 2218
+2218. GUESS: poesy
+2219. GUESS: horse
+if ◻️🟩🟩🟩🟩, GO TO: 2220
+if ◻️🟩🟨🟩🟩, GO TO: 2221
+2220. GUESS: worse
+2221. GUESS: rouse
+2222. GUESS: roost
+if 🟨🟩◻️🟩🟩, GO TO: 2223
+if 🟨🟩◻️🟨🟨, GO TO: 2224
+if 🟨🟩🟨🟩🟨, GO TO: 2225
+2223. GUESS: worst
+2224. GUESS: torus
+2225. GUESS: torso
+2226. GUESS: loser
+if ◻️🟩🟩🟩🟩, GO TO: 2227
+2227. GUESS: poser
+2228. GUESS: belch
+if ◻️🟩◻️◻️◻️, GO TO: 2229
+if ◻️🟩◻️🟨◻️, GO TO: 2230
+if ◻️🟩🟨◻️◻️, GO TO: 2231
+if ◻️🟨◻️◻️◻️, GO TO: 2232
+if ◻️🟨◻️◻️🟨, GO TO: 2233
+if ◻️🟨◻️🟨🟨, GO TO: 2234
+if 🟨🟨◻️◻️◻️, GO TO: 2235
+2229. GUESS: tease
+2230. GUESS: cease
+2231. GUESS: lease
+2232. GUESS: usage
+2233. GUESS: phase
+2234. GUESS: chase
+2235. GUESS: abase
+2236. GUESS: chals
+if 🟩🟩🟩◻️🟨, GO TO: 2237
+if 🟩◻️🟩🟨🟩, GO TO: 2238
+if 🟩◻️🟩🟨🟨, GO TO: 2239
+if 🟩🟨🟩🟨🟨, GO TO: 2240
+if ◻️◻️🟩🟩🟨, GO TO: 2241
+if ◻️◻️🟩◻️🟩, GO TO: 2242
+if ◻️◻️🟩◻️🟨, GO TO: 2243
+if ◻️◻️🟩🟨🟩, GO TO: 2244
+if ◻️◻️🟩🟨🟨, GO TO: 2245
+if ◻️🟨🟩◻️🟨, GO TO: 2247
+if ◻️🟨🟩🟨🟨, GO TO: 2250
+2237. GUESS: chasm
+2238. GUESS: class
+2239. GUESS: clasp
+2240. GUESS: clash
+2241. GUESS: psalm
+2242. GUESS: amass
+2243. GUESS: quasi
+2244. GUESS: glass
+2245. GUESS: blast
+if ◻️🟩🟩🟩◻️, GO TO: 2246
+2246. GUESS: flask
+2247. GUESS: awash
+if ◻️◻️🟩🟩🟩, GO TO: 2248
+2248. GUESS: gnash
+if ◻️◻️🟩🟩🟩, GO TO: 2249
+2249. GUESS: quash
+2250. GUESS: flash
+2251. GUESS: bufty
+if 🟩◻️◻️🟨◻️, GO TO: 2252
+if ◻️◻️◻️◻️◻️, GO TO: 2253
+if ◻️◻️◻️🟨◻️, GO TO: 2254
+if ◻️◻️◻️🟨🟨, GO TO: 2255
+if ◻️◻️🟨🟨◻️, GO TO: 2256
+2252. GUESS: beast
+2253. GUESS: leash
+2254. GUESS: least
+2255. GUESS: yeast
+2256. GUESS: feast
+2257. GUESS: erase
+2258. GUESS: bachs
+if 🟩🟨◻️◻️🟩, GO TO: 2259
+if 🟩🟨◻️🟨🟨, GO TO: 2260
+if ◻️🟨◻️◻️🟩, GO TO: 2261
+if ◻️🟨◻️◻️🟨, GO TO: 2262
+if ◻️🟨◻️🟨🟨, GO TO: 2263
+if ◻️🟨🟨◻️🟩, GO TO: 2264
+if ◻️🟨🟨🟨🟨, GO TO: 2265
+2259. GUESS: brass
+2260. GUESS: brash
+2261. GUESS: grass
+2262. GUESS: grasp
+2263. GUESS: trash
+2264. GUESS: crass
+2265. GUESS: crash
+2266. GUESS: usurp
+2267. GUESS: cunit
+if ◻️🟩◻️◻️◻️, GO TO: 2268
+if ◻️🟩◻️🟨◻️, GO TO: 2269
+if ◻️◻️🟩◻️◻️, GO TO: 2270
+if ◻️◻️🟩◻️🟨, GO TO: 2271
+if ◻️◻️◻️◻️◻️, GO TO: 2272
+if ◻️◻️◻️◻️🟨, GO TO: 2273
+if ◻️🟨◻️🟨◻️, GO TO: 2274
+if ◻️🟨🟨◻️◻️, GO TO: 2275
+2268. GUESS: pulse
+2269. GUESS: guise
+2270. GUESS: dense
+2271. GUESS: tense
+2272. GUESS: geese
+2273. GUESS: these
+2274. GUESS: issue
+2275. GUESS: ensue
+2276. GUESS: hists
+if 🟩◻️🟩◻️◻️, GO TO: 2277
+if 🟩◻️🟩◻️🟨, GO TO: 2278
+if 🟩◻️◻️◻️🟩, GO TO: 2279
+if ◻️🟩🟩◻️◻️, GO TO: 2280
+if ◻️🟩🟩◻️🟨, GO TO: 2281
+if ◻️🟩🟩🟨◻️, GO TO: 2282
+if ◻️🟩◻️◻️🟩, GO TO: 2283
+if ◻️🟩🟨◻️◻️, GO TO: 2285
+if ◻️🟩🟨🟨◻️, GO TO: 2286
+if ◻️◻️🟩🟩◻️, GO TO: 2288
+if ◻️◻️🟩◻️◻️, GO TO: 2293
+if ◻️◻️🟩◻️🟨, GO TO: 2295
+if ◻️◻️◻️◻️🟩, GO TO: 2296
+if ◻️◻️🟨◻️◻️, GO TO: 2298
+if ◻️🟨🟩◻️◻️, GO TO: 2299
+if ◻️🟨🟨◻️🟩, GO TO: 2300
+if ◻️🟨🟨◻️◻️, GO TO: 2301
+if ◻️🟨🟨🟨◻️, GO TO: 2302
+if 🟨🟩🟩◻️◻️, GO TO: 2303
+if 🟨◻️🟩◻️◻️, GO TO: 2304
+if 🟨◻️🟨◻️◻️, GO TO: 2307
+if 🟨🟨🟨◻️◻️, GO TO: 2310
+2277. GUESS: husky
+2278. GUESS: hussy
+2279. GUESS: humus
+2280. GUESS: wispy
+2281. GUESS: missy
+2282. GUESS: visit
+2283. GUESS: ficus
+if ◻️🟩◻️🟩🟩, GO TO: 2284
+2284. GUESS: minus
+2285. GUESS: gipsy
+2286. GUESS: midst
+if ◻️🟩◻️🟩🟨, GO TO: 2287
+2287. GUESS: tipsy
+2288. GUESS: algid
+if ◻️◻️◻️◻️◻️, GO TO: 2289
+if ◻️◻️◻️◻️🟨, GO TO: 2290
+if ◻️◻️🟨◻️◻️, GO TO: 2291
+if ◻️🟨◻️◻️◻️, GO TO: 2292
+2289. GUESS: musty
+2290. GUESS: dusty
+2291. GUESS: gusty
+2292. GUESS: lusty
+2293. GUESS: dusky
+if ◻️🟩🟩🟩🟩, GO TO: 2294
+2294. GUESS: musky
+2295. GUESS: fussy
+2296. GUESS: lupus
+if ◻️🟩◻️🟩🟩, GO TO: 2297
+2297. GUESS: mucus
+2298. GUESS: gypsy
+2299. GUESS: music
+2300. GUESS: bliss
+2301. GUESS: using
+2302. GUESS: twist
+2303. GUESS: fishy
+2304. GUESS: bushy
+if ◻️🟩🟩🟩🟩, GO TO: 2305
+2305. GUESS: mushy
+if ◻️🟩🟩🟩🟩, GO TO: 2306
+2306. GUESS: pushy
+2307. GUESS: blush
+if ◻️🟩🟩🟩🟩, GO TO: 2308
+2308. GUESS: flush
+if ◻️🟩🟩🟩🟩, GO TO: 2309
+2309. GUESS: plush
+2310. GUESS: whisk
+2311. GUESS: teugh
+if 🟩🟩◻️◻️◻️, GO TO: 2312
+if ◻️🟩◻️◻️🟩, GO TO: 2313
+if ◻️🟩◻️◻️◻️, GO TO: 2314
+if ◻️🟨◻️◻️🟩, GO TO: 2315
+if ◻️🟨◻️◻️◻️, GO TO: 2316
+if ◻️🟨◻️◻️🟨, GO TO: 2317
+if ◻️🟨🟨◻️◻️, GO TO: 2318
+if ◻️🟨🟨🟨◻️, GO TO: 2319
+if 🟨🟩◻️◻️◻️, GO TO: 2320
+if 🟨🟩◻️◻️🟨, GO TO: 2322
+if 🟨🟩🟨◻️◻️, GO TO: 2323
+if 🟨🟨◻️◻️◻️, GO TO: 2324
+if 🟨🟨◻️◻️🟨, GO TO: 2326
+if 🟨🟨🟨◻️◻️, GO TO: 2327
+if 🟨🟨🟨🟨◻️, GO TO: 2330
+2312. GUESS: testy
+2313. GUESS: welsh
+2314. GUESS: pesky
+2315. GUESS: flesh
+2316. GUESS: bless
+2317. GUESS: chess
+2318. GUESS: bused
+2319. GUESS: guess
+2320. GUESS: beset
+if ◻️🟩🟩◻️🟨, GO TO: 2321
+2321. GUESS: zesty
+2322. GUESS: heist
+2323. GUESS: fetus
+2324. GUESS: exist
+if 🟨◻️🟨🟨🟩, GO TO: 2325
+2325. GUESS: islet
+2326. GUESS: chest
+2327. GUESS: quest
+if ◻️🟨🟨🟨🟩, GO TO: 2328
+2328. GUESS: unset
+if 🟩◻️🟩🟩🟩, GO TO: 2329
+2329. GUESS: upset
+2330. GUESS: guest
+2331. GUESS: centu
+if 🟩🟨◻️◻️🟨, GO TO: 2332
+if ◻️🟩◻️◻️◻️, GO TO: 2333
+if ◻️🟩◻️◻️🟨, GO TO: 2334
+if ◻️🟩◻️🟨◻️, GO TO: 2335
+if ◻️🟨🟩◻️◻️, GO TO: 2336
+if ◻️🟨◻️◻️🟨, GO TO: 2337
+if ◻️🟨🟨◻️🟨, GO TO: 2338
+2332. GUESS: curse
+2333. GUESS: verse
+2334. GUESS: reuse
+2335. GUESS: terse
+2336. GUESS: rinse
+2337. GUESS: purse
+2338. GUESS: nurse
+2339. GUESS: cruft
+if 🟩🟩🟩◻️🟩, GO TO: 2340
+if 🟩🟩🟩◻️◻️, GO TO: 2341
+if 🟩🟩◻️◻️◻️, GO TO: 2342
+if ◻️🟩🟩◻️🟩, GO TO: 2343
+if ◻️🟩🟩◻️◻️, GO TO: 2344
+if ◻️🟩🟩◻️🟨, GO TO: 2345
+if ◻️🟩◻️◻️🟩, GO TO: 2346
+if ◻️🟩◻️◻️◻️, GO TO: 2348
+if ◻️🟩◻️🟨◻️, GO TO: 2350
+if ◻️🟨◻️◻️◻️, GO TO: 2351
+if ◻️🟨◻️🟨🟩, GO TO: 2352
+if ◻️🟨🟨◻️🟩, GO TO: 2353
+if ◻️🟨🟨◻️◻️, GO TO: 2354
+if ◻️🟨🟨◻️🟨, GO TO: 2355
+2340. GUESS: crust
+2341. GUESS: crush
+2342. GUESS: crisp
+2343. GUESS: trust
+2344. GUESS: brush
+2345. GUESS: truss
+2346. GUESS: tryst
+if ◻️🟩◻️🟩🟩, GO TO: 2347
+2347. GUESS: wrist
+2348. GUESS: brisk
+if ◻️🟩🟩🟩◻️, GO TO: 2349
+2349. GUESS: prism
+2350. GUESS: frisk
+2351. GUESS: risky
+2352. GUESS: first
+2353. GUESS: burst
+2354. GUESS: virus
+2355. GUESS: rusty
+2356. GUESS: richt
+if 🟩🟩◻️◻️◻️, GO TO: 2357
+if 🟩◻️◻️◻️🟩, GO TO: 2359
+if 🟩◻️◻️◻️◻️, GO TO: 2360
+if 🟩🟨◻️◻️◻️, GO TO: 2361
+if 🟨🟩◻️◻️◻️, GO TO: 2362
+if 🟨◻️◻️◻️🟩, GO TO: 2364
+if 🟨◻️◻️◻️◻️, GO TO: 2365
+if 🟨◻️◻️◻️🟨, GO TO: 2367
+if 🟨◻️◻️🟨◻️, GO TO: 2368
+if 🟨◻️🟨◻️🟩, GO TO: 2370
+if 🟨◻️🟨◻️◻️, GO TO: 2371
+2357. GUESS: risen
+if 🟩🟩🟩🟩◻️, GO TO: 2358
+2358. GUESS: riser
+2359. GUESS: reset
+2360. GUESS: rebus
+2361. GUESS: resin
+2362. GUESS: miser
+if ◻️🟩🟩🟩🟩, GO TO: 2363
+2363. GUESS: wiser
+2364. GUESS: wrest
+2365. GUESS: dress
+if ◻️🟩🟩🟩🟩, GO TO: 2366
+2366. GUESS: press
+2367. GUESS: ester
+2368. GUESS: fresh
+if ◻️🟨🟨🟨🟨, GO TO: 2369
+2369. GUESS: usher
+2370. GUESS: crest
+2371. GUESS: cress
+2372. GUESS: thump
+if 🟩◻️◻️◻️◻️, GO TO: 2373
+if ◻️◻️🟩◻️◻️, GO TO: 2374
+if ◻️◻️🟩◻️🟨, GO TO: 2376
+if ◻️◻️🟩🟨◻️, GO TO: 2377
+if ◻️◻️◻️◻️◻️, GO TO: 2378
+if ◻️◻️◻️◻️🟨, GO TO: 2381
+if ◻️◻️◻️🟨◻️, GO TO: 2382
+if 🟨◻️◻️◻️◻️, GO TO: 2383
+if 🟨◻️◻️◻️🟨, GO TO: 2386
+if 🟨🟨◻️◻️◻️, GO TO: 2387
+2373. GUESS: taste
+2374. GUESS: abuse
+if 🟨◻️🟩🟩🟩, GO TO: 2375
+2375. GUESS: cause
+2376. GUESS: pause
+2377. GUESS: amuse
+2378. GUESS: aisle
+if 🟩🟨🟨◻️🟩, GO TO: 2379
+if 🟨◻️🟨🟨🟩, GO TO: 2380
+2379. GUESS: aside
+2380. GUESS: false
+2381. GUESS: lapse
+2382. GUESS: masse
+2383. GUESS: baste
+if ◻️🟩🟩🟩🟩, GO TO: 2384
+2384. GUESS: caste
+if ◻️🟩🟩🟩🟩, GO TO: 2385
+2385. GUESS: waste
+2386. GUESS: paste
+2387. GUESS: haste
+2388. GUESS: linty
+if ◻️🟩◻️🟩◻️, GO TO: 2389
+if ◻️◻️🟩◻️🟩, GO TO: 2390
+if ◻️◻️◻️🟩🟩, GO TO: 2391
+if ◻️◻️◻️🟩◻️, GO TO: 2394
+if ◻️◻️◻️◻️🟩, GO TO: 2395
+if ◻️◻️◻️◻️🟨, GO TO: 2397
+if ◻️◻️◻️🟨🟩, GO TO: 2398
+if ◻️◻️🟨🟩🟩, GO TO: 2399
+if ◻️◻️🟨🟨◻️, GO TO: 2400
+if ◻️🟨◻️◻️🟩, GO TO: 2401
+if ◻️🟨◻️◻️◻️, GO TO: 2402
+if ◻️🟨◻️🟨◻️, GO TO: 2405
+if ◻️🟨🟨◻️◻️, GO TO: 2406
+if 🟨◻️◻️◻️🟩, GO TO: 2407
+if 🟨◻️◻️◻️◻️, GO TO: 2408
+if 🟨◻️🟨◻️◻️, GO TO: 2410
+if 🟨🟨◻️◻️◻️, GO TO: 2411
+2389. GUESS: vista
+2390. GUESS: pansy
+2391. GUESS: hasty
+if ◻️🟩🟩🟩🟩, GO TO: 2392
+2392. GUESS: pasty
+if ◻️🟩🟩🟩🟩, GO TO: 2393
+2393. GUESS: tasty
+2394. GUESS: pasta
+2395. GUESS: assay
+if 🟨🟨🟩◻️🟩, GO TO: 2396
+2396. GUESS: gassy
+2397. GUESS: abyss
+2398. GUESS: patsy
+2399. GUESS: nasty
+2400. GUESS: angst
+2401. GUESS: daisy
+2402. GUESS: amiss
+if 🟨◻️🟨🟨🟩, GO TO: 2403
+if 🟨◻️🟨🟨◻️, GO TO: 2404
+2403. GUESS: basis
+2404. GUESS: basic
+2405. GUESS: waist
+2406. GUESS: basin
+2407. GUESS: palsy
+2408. GUESS: basal
+if ◻️◻️🟨🟩🟩, GO TO: 2409
+2409. GUESS: usual
+2410. GUESS: nasal
+2411. GUESS: basil
+2412. GUESS: ajwan
+if 🟩◻️◻️◻️🟩, GO TO: 2413
+if 🟩◻️◻️◻️◻️, GO TO: 2414
+if 🟩◻️🟨◻️◻️, GO TO: 2415
+if ◻️◻️◻️🟩◻️, GO TO: 2416
+if 🟨◻️◻️◻️◻️, GO TO: 2417
+2413. GUESS: ashen
+2414. GUESS: asset
+2415. GUESS: askew
+2416. GUESS: essay
+2417. GUESS: easel
+2418. GUESS: arise
+if 🟨🟨🟩🟩🟩, GO TO: 2419
+if 🟨🟨◻️🟩🟩, GO TO: 2420
+2419. GUESS: raise
+2420. GUESS: parse
+2421. GUESS: harsh
+if ◻️🟩🟩🟩🟩, GO TO: 2422
+if ◻️🟩🟨🟨◻️, GO TO: 2423
+if ◻️🟨🟨🟩◻️, GO TO: 2424
+2422. GUESS: marsh
+2423. GUESS: raspy
+2424. GUESS: artsy
+2425. GUESS: chaos
+2426. GUESS: aitch
+if ◻️◻️◻️◻️◻️, GO TO: 2427
+if ◻️◻️◻️◻️🟨, GO TO: 2428
+if ◻️◻️◻️🟨◻️, GO TO: 2429
+if ◻️◻️◻️🟨🟨, GO TO: 2430
+if ◻️◻️🟨◻️🟨, GO TO: 2431
+2427. GUESS: obese
+2428. GUESS: whose
+2429. GUESS: close
+2430. GUESS: chose
+2431. GUESS: those
+2432. GUESS: agloo
+if ◻️◻️◻️🟩◻️, GO TO: 2433
+if ◻️◻️◻️◻️🟩, GO TO: 2434
+if ◻️◻️◻️🟨◻️, GO TO: 2435
+if ◻️◻️🟨🟨◻️, GO TO: 2436
+if ◻️🟨◻️◻️🟩, GO TO: 2437
+if ◻️🟨◻️🟨◻️, GO TO: 2438
+if ◻️🟨🟨🟨◻️, GO TO: 2439
+2433. GUESS: bison
+2434. GUESS: disco
+2435. GUESS: kiosk
+2436. GUESS: floss
+2437. GUESS: gusto
+2438. GUESS: ghost
+2439. GUESS: gloss
+2440. GUESS: ethos
+if 🟨🟨◻️🟨🟨, GO TO: 2441
+2441. GUESS: onset
+if 🟨◻️🟩🟨🟨, GO TO: 2442
+2442. GUESS: pesto
+2443. GUESS: prose
+2444. GUESS: acids
+if ◻️◻️◻️◻️🟩, GO TO: 2445
+if ◻️◻️◻️◻️🟨, GO TO: 2446
+if ◻️◻️◻️🟨🟩, GO TO: 2447
+if ◻️◻️🟨◻️🟨, GO TO: 2448
+if ◻️🟨◻️◻️🟩, GO TO: 2449
+2445. GUESS: gross
+2446. GUESS: frost
+2447. GUESS: dross
+2448. GUESS: visor
+2449. GUESS: cross
+2450. GUESS: verso
+2451. GUESS: ascot
+if 🟨🟨◻️🟩◻️, GO TO: 2452
+if 🟨🟨◻️🟨◻️, GO TO: 2453
+2452. GUESS: mason
+2453. GUESS: lasso
+2454. GUESS: arose
+2455. GUESS: arson
