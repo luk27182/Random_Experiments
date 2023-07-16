@@ -16,7 +16,6 @@ def read_file(path):
 valid_words = read_file(valid_words_path)
 word_bank = read_file(word_bank_path)
 
-# %%
 def make_guess(truth, pred):
     truth = [c for c in truth]
     pred = [c for c in pred]
@@ -35,13 +34,11 @@ def make_guess(truth, pred):
             pred[i] = "SOLVED_SRC"
     return "".join(score)
 
-# %%
 def calculate_best_split(candidates, valid_words):
     if len(candidates) == 1:
         return candidates[0], {"GGGGG": [candidates[0]]}
     
     theoretical_best = entropy(range(len(candidates)))
-
     highest_entropy = -1
     best_guess = None
     best_buckets = None
@@ -61,13 +58,15 @@ def calculate_best_split(candidates, valid_words):
             highest_entropy = my_entropy
             best_guess = guess
             best_buckets = buckets
-            
             if my_entropy == theoretical_best:
                 return best_guess, best_buckets
     return best_guess, best_buckets
 
-# %%
 def calculate_tree(buckets, depth, prev_guess):
+    if number_solved % 100 == 0:
+        print(f"solved {number_solved} of {len(valid_words)}....")
+    number_solved += 1
+
     for bucket in sorted(list(buckets.keys()), reverse=False):
         if not bucket == "GGGGG":
             candidates = buckets[bucket]
@@ -81,6 +80,9 @@ def calculate_tree(buckets, depth, prev_guess):
 
             calculate_tree(buckets=new_buckets, depth=depth+1, prev_guess=str(i)+guess)
 
+# %%
+# Now we actually run the code!
+number_solved = 0
 print("calculating initial split... (this may take a while)")
 guess, buckets = calculate_best_split(word_bank, valid_words)
 print(f"Initial guess: {guess}. Calculating Tree...")
