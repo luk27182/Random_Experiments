@@ -63,10 +63,6 @@ def calculate_best_split(candidates, valid_words):
     return best_guess, best_buckets
 
 def calculate_tree(buckets, depth, prev_guess):
-    if number_solved % 100 == 0:
-        print(f"solved {number_solved} of {len(valid_words)}....")
-    number_solved += 1
-
     for bucket in sorted(list(buckets.keys()), reverse=False):
         if not bucket == "GGGGG":
             candidates = buckets[bucket]
