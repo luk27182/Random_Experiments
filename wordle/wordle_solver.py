@@ -2,23 +2,20 @@
 import csv
 from scipy.stats import entropy
 
-valid_words_path = './valid-words.csv'
-word_bank_path = './word-bank.csv'
+valid_words_path = './data/valid-words.csv'
+word_bank_path = './data/word-bank.csv'
 
 valid_words = []
 word_bank = []
 with open(valid_words_path, 'r') as file:
     csv_reader = csv.reader(file)
-
     for row in csv_reader:
         valid_words += row
 
 with open(word_bank_path, 'r') as file:
     csv_reader = csv.reader(file)
-
     for row in csv_reader:
         word_bank += row
-
 
 # %%
 def make_guess(truth, pred):
@@ -39,11 +36,7 @@ def make_guess(truth, pred):
             pred[i] = "SOLVED_SRC"
     return "".join(score)
 
-make_guess(truth="today", pred="toads")
-
 # %%
-from tqdm import tqdm
-
 def calculate_best_split(candidates, valid_words):
     if len(candidates) == 1:
         return candidates[0], {"GGGGG": [candidates[0]]}
@@ -54,12 +47,7 @@ def calculate_best_split(candidates, valid_words):
     best_guess = None
     best_buckets = None
 
-    if len(candidates)>1000:
-        iterator = tqdm(valid_words)
-    else:
-        iterator = candidates+valid_words
-
-    for guess in iterator:
+    for guess in candidates+valid_words: # We add candidates to make them checked first
         buckets = dict()
         for candidate in candidates:
             score = make_guess(truth=candidate, pred=guess)
@@ -68,7 +56,6 @@ def calculate_best_split(candidates, valid_words):
             else:
                 buckets[score] = [candidate]
         my_entropy = entropy(list([len(bucket) for bucket in buckets.values()]))
-        # print(guess, my_entropy)
         if my_entropy > highest_entropy:
             highest_entropy = my_entropy
             best_guess = guess
@@ -78,30 +65,9 @@ def calculate_best_split(candidates, valid_words):
     return best_guess, best_buckets
 
 # %%
-guess, buckets = calculate_best_split(word_bank, valid_words)
-guess
-
-# %%
-print(f"guess 1: {guess}")
-solve_depths = []
-
-node_names = ["0"+guess]
-nodes = [{"name": "0"+guess, "label": guess, "parent": None, "path_from_parent": None, "depth":0}]
-
-def calculate_tree(buckets, depth, prev_guess, verbose=False):
-    if depth > 50:
-        print(1/0)
-    indent = "".join(["-" for i in range(5*depth)])
+def calculate_tree(buckets, depth, prev_guess):
     for bucket in sorted(list(buckets.keys()), reverse=False):
-        if verbose: print(f"{indent[:-5]} If {''.join(bucket)}, then...")
-        if bucket == "GGGGG":
-            if verbose: print(f"{indent} Done!")
-            else:
-                if len(solve_depths) % 100 == 0:
-                    print(len(solve_depths))
-    
-            solve_depths.append(depth)
-        else:
+        if not bucket == "GGGGG":
             candidates = buckets[bucket]
             guess, new_buckets = calculate_best_split(candidates, valid_words)
 
@@ -111,15 +77,17 @@ def calculate_tree(buckets, depth, prev_guess, verbose=False):
             node_names.append(str(i)+guess)
             nodes.append({"name": str(i)+guess, "label": guess, "parent": prev_guess, "path_from_parent": bucket, "depth":1})
 
-            if verbose: print(f"{indent} guess {depth+1}: {guess}")
+            calculate_tree(buckets=new_buckets, depth=depth+1, prev_guess=str(i)+guess)
 
-            calculate_tree(buckets=new_buckets, depth=depth+1, prev_guess=str(i)+guess,verbose=verbose)
-    
-calculate_tree(buckets=buckets, depth=1, prev_guess="0"+guess, verbose=False)
+print("calculating initial split... (this may take a while)")
+guess, buckets = calculate_best_split(word_bank, valid_words)
+print(f"Initial guess: {guess}. Calculating Tree...")
+node_names = ["0"+guess]
+nodes = [{"name": "0"+guess, "label": guess, "parent": None, "path_from_parent": None, "depth":0}]
+calculate_tree(buckets=buckets, depth=1, prev_guess="0"+guess)
 
 # %%
 color_mapping = {'G': '🟩', 'X': '◻️', 'Y': '🟨'}
-
 for n, parent in enumerate(nodes):
     print(f"{n+1}. GUESS: {parent['label']}")
     children = [node for node in nodes if node["parent"] == parent["name"]]
