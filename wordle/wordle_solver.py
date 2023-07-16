@@ -5,17 +5,16 @@ from scipy.stats import entropy
 valid_words_path = './data/valid-words.csv'
 word_bank_path = './data/word-bank.csv'
 
-valid_words = []
-word_bank = []
-with open(valid_words_path, 'r') as file:
-    csv_reader = csv.reader(file)
-    for row in csv_reader:
-        valid_words += row
+def read_file(path):
+    out = []
+    with open(valid_words_path, 'r') as file:
+        csv_reader = csv.reader(file)
+        for row in csv_reader:
+            out += row
+    return out
 
-with open(word_bank_path, 'r') as file:
-    csv_reader = csv.reader(file)
-    for row in csv_reader:
-        word_bank += row
+valid_words = read_file(valid_words_path)
+word_bank = read_file(word_bank_path)
 
 # %%
 def make_guess(truth, pred):
@@ -55,11 +54,14 @@ def calculate_best_split(candidates, valid_words):
                 buckets[score].append(candidate)
             else:
                 buckets[score] = [candidate]
+
         my_entropy = entropy(list([len(bucket) for bucket in buckets.values()]))
+
         if my_entropy > highest_entropy:
             highest_entropy = my_entropy
             best_guess = guess
             best_buckets = buckets
+            
             if my_entropy == theoretical_best:
                 return best_guess, best_buckets
     return best_guess, best_buckets
